@@ -1,0 +1,73 @@
+title: Asynchronous Data Exchange
+remote_theme: opendocsg/opendoc-theme@master
+timezone: Asia/Singapore
+repository: opendocsg/opendoc-sensor-data-exchange
+plugins:
+  - jekyll-include-cache
+baseurl: ''
+server_PROD: https://search.opendoc.sg
+server_DEV: https://search-staging.opendoc.sg
+google_analytics: null
+
+fast_build: false
+offline: false
+preload_pages: true
+
+styling_options:
+  primary_brand_color: "#00B4B4"
+  logo_path: /assets/adex-logo.png
+  opendoc_logo_path: /assets/adex-logo.png
+  feedback_url: https://form.gov.sg/5e4e552386290e0013ae5685
+  logo_url: https://sdx.sensors.gov.sg/sdx/home
+
+hide_toolbar:
+  sidebar: false
+  pdf: false
+  github: true
+  
+folders:
+  - name: 'Onboarding guide'
+    title: 'Onboarding guide'
+    subtitle: ''
+    order:
+      - ADEX Portal.md
+      - Sign up.md
+      - Verify email.md
+      - MFA.md
+      - Log in.md
+      - Join team.md
+      - Create project.md
+      - Create topic.md
+      - MQTT connection.md  
+folders:
+  - name: 'User guide'
+    title: 'User guide'
+    subtitle: ''
+    order:
+      - Getting Started.md
+      - Introduction.md
+      - Home Page.md
+      - Dashboard.md
+      - Browse Topic.md
+      - Projects.md
+      - My Subscribers.md
+      - My Subscriptions.md
+      - Activities.md
+      - Glossary.md
+  - name: 'FAQs'
+    title: 'FAQs'
+    subtitle: ''
+    order:
+      - General.md
+      - Account.md
+      - Projects.md
+      - Publishing.md
+      - Subscription.md
+      - Topic.md
+      - Messaging.md
+      - Portal.md
+  - name: 'Terms of use'
+    title: 'Terms of use'
+  - name: 'Privacy statement'
+    title: 'Privacy statement'
+

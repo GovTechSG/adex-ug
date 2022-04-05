@@ -1,0 +1,44 @@
+version: 1.0
+frontend:
+  phases:
+    preBuild:
+      commands:
+        - "curl -X POST -H 'Content-type: application/json' --data '{\"blocks\":[{\"type\": \"section\",\"text\": {\"type\": \"mrkdwn\",\"text\": \"*Github Repo:* '$AWS_CLONE_URL'\n*Branch:* '$AWS_BRANCH'\n*Status*: Build started.\"}}]}' $SLACK_WEBHOOK_URL"
+        - rvm --default use $VERSION_RUBY_2_6
+        - yum install -y urw-fonts
+        - git clone https://github.com/opendocsg/opendoc-fonts.git ~/.fonts
+        - fc-cache -f -v
+        - bundle install
+    build:
+      commands:
+        - if [ "${AWS_BRANCH}" = "master" ]; then JEKYLL_ENV=production bundle exec jekyll build; fi
+        - if [ "${AWS_BRANCH}" != "master" ]; then JEKYLL_ENV=development bundle exec jekyll build; fi    
+    postBuild:
+      commands:
+        - chmod +x ./_site/assets/startup/build.sh
+        - ./_site/assets/startup/build.sh
+        - "curl -X POST -H 'Content-type: application/json' --data '{\"blocks\":[{\"type\": \"section\",\"text\": {\"type\": \"mrkdwn\",\"text\": \"*Github Repo:* '$AWS_CLONE_URL'\n*Branch:* '$AWS_BRANCH'\n*Status*: Build successful.\"}}]}' $SLACK_WEBHOOK_URL"
+      
+  artifacts:
+    baseDirectory: _site
+    files:
+      - '**/*'
+  cache:
+    paths: 
+      - node_modules
+
+  customHeaders:
+      - pattern: '**/*'
+        headers:
+        - key: 'X-Frame-Options'
+          value: 'SAMEORIGIN'
+        - key: 'X-XSS-Protection'
+          value: '1; mode=block'
+        - key: 'X-Content-Type-Options'
+          value: 'nosniff'
+        - key: 'Content-Security-Policy'
+          value: "default-src 'self'; img-src *; frame-src *; font-src *; media-src *; style-src * 'unsafe-inline'; connect-src 'self' https://*.opendoc.sg; script-src 'self'"
+        - key: 'Referrer-Policy'
+          value: 'no-referrer'
+        - key: 'Feature-Policy'
+          value: "geolocation 'none'; microphone 'none'; camera 'none'"
