@@ -3,7 +3,7 @@
 
 A project is a collection of topics, **project type** could be a published or subscribed.
 
-It contains **Connection** strings and **SSL certificates** to set up an MQTT (Message Queuing Telemetry Transport) connection. MQTT is a messaging protocol to connect to the broker. In MQTT, a publisher publishes messages on a topic and a subscriber subscribes to that topic to view the message. 
+It contains **Connection** strings and **SSL certificates** to set up an MQTT (Message Queuing Telemetry Transport) connection. MQTT is a messaging protocol to connect to the broker. In MQTT, a publisher publishes messages on a topic and a subscriber subscribes to that topic to view the message. 
 
 MQTT connection is recommended to **Publish** and **Subscribe** topics on ADEX. **AMQP** is also supported.
 
@@ -844,6 +844,3 @@ To **Subscribe** to a topic:
 ![Image not Available](/assets/Fig97.png)
 
 **Step 4** You can click **Clear all filters** to reset the filters.
-
-
-
