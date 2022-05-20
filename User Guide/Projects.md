@@ -3,7 +3,7 @@
 
 A project is a collection of topics, **project type** could be a published or subscribed.
 
-It contains **Connection** strings and **SSL certificates** to set up an MQTT (Message Queuing Telemetry Transport) connection. MQTT is a messaging protocol to connect to the broker. In MQTT, a publisher publishes messages on a topic and a subscriber subscribes to that topic to view the message. 
+It contains **Connection** strings and **SSL certificates** to set up an MQTT (Message Queuing Telemetry Transport) connection. MQTT is a messaging protocol to connect to the broker. In MQTT, a publisher publishes messages on a topic and a subscriber subscribes to that topic to view the message. 
 
 MQTT connection is recommended to **Publish** and **Subscribe** topics on ADEX. **AMQP** is also supported.
 
@@ -189,8 +189,137 @@ Here is an example of MQTT code samples. Download the files and use for referenc
 
 For more related information about MQTT, refer to this [link](https://www.hivemq.com/blog/mqtt-essentials-part-3-client-broker-connection-establishment/).
 
+## MQTT connection ##
 
-### Set up MQTT topic name and payload format ###
+### Generate Cert ###
+
+After creating a new project, go to **Connections** tab. This tab shows the **connection strings** and **SSL certificates** to setup MQTT connection. 
+
+- Cert status - Active, Expired
+- Unique MQTT URL
+- Unique MQTT Client ID
+- Client key
+- Client secret
+- SSL Certificate chain
+- SSL Client certificate
+- SSL Private key - this box will be shown once 
+- Private key password - you will receive this in your email.
+
+![Image not Available](/assets/Fig36.png)
+
+**Note**: User need to copy and save all the 3 SSL certs as .pem file using a text editor.
+
+If user didn't save the certs file for the first time, user can regenerate the certs by clicking **Generate new certificate** button.
+
+![Image not Available](/assets/Fig99f.png)
+
+User will receive a **Private key password** through email and use that password in the **Client key passphrase** for your MQTT client set up.
+
+![Image not Available](/assets/Fig38.png)
+
+ User will receive the email for **project cert expires soon**!
+
+ User will receive the **Project cert expires soon!** email, 30 days before the 3 certs expires!
+ 
+![Image not Available](/assets/Fig99k.png)
+ 
+ - After the certs have expired, user will still receive the **project expired!** email for the next 7 days.
+ 
+![Image not Available](/assets/Fig99e.png)
+
+From the portal, user can see the certs **status=Expired**, user can click the **Generate new certificate** button to start using the MQTT client again.
+
+![Image not Available](/assets/Fig99m.png)
+
+
+ To set up **MQTT Client connection**:
+ 
+ How to **set up MQTT client connection**:
+ 
+ ![Image not Available](/assets/vidsetupmqttcon.gif)
+
+**Step 1:**	Copy the certificates in a text Editor and save each as .PEM file separately.
+
+**Step 2:**	Now, open MQTT Client.
+
+![Image not Available](/assets/Fig39.png)
+
+**Step 3:** Click **Create MQTT Client**.
+
+**Step 4:** Set up MQTT connections with the following:
+
+- **MQTT Client Name** – Name is not specific and can give random name
+- **Protocol** - Select protocol. For example, *mqtt/tls*
+- **Host** - Enter **Unique MQTT URL** 
+
+- Upload each file you copied in a text editor in the following fields: 
+
+  - CA file
+  - Client certificate file
+  - Private key file
+
+- Enter the password received from the email inbox in the **Client key passphrase** field
+
+![Image not Available](/assets/Fig40.png)
+
+- Click **Save** and connected successfully.
+
+As a **Publisher** you are now ready to publish a topic.
+
+![Image not Available](/assets/Fig41.png)
+
+ **Note**: *Topic path should be copied from topic details page.*
+ 
+ ![Image not Available](/assets/Fig69.png)
+
+**Important**: A **Subscriber** must subscribe to the topic from the portal first.
+
+**Step 5:** Enter the topic path and fill into the **Topic to subscribe** field. Click the **Subscribe** button to receive data for this topic.
+
+![Image not Available](/assets/Fig42.png)
+
+**Recommended MQTT topic path pattern hierarchy**
+
+It is best to have a consistent approach in naming the topics for ease of integration to 3rd party application.
+
+The proposed approach is to construct the topic name based on the following information:
+
+{agency}-{client_id}/{message type}/{reading type}/{deviceId}
+
+{agency}-{client_id}/{category}/{sub-category}/{deviceId}
+
+**Here is a list of examples:**
+
+nea-ab1c23/environment/psi/device001
+
+nea-ab1c23/environment/temperature/device001
+
+#### Payload format ####
+
+ - Maximum payload size is 1MB.
+ - The payload content should be as minimal as possible and can be grouped together when they make sense. 
+ - This is to ensure that clients do not incur data charges when not needed.
+
+**Example payload format**
+
+**nea-ab1c23/environment/humidity/device001**
+
+```javascript
+{
+    "id": "device001",
+    "loc": {
+        "lat": 13.361389,
+        "lon": 38.115556
+    },
+    "humidity": {
+        "v": 67.00,
+        "uom": "%"
+    }
+}
+```
+## Topic name and payload format ##
+
+To set up **MQTT topic name and payload format**
 
 Ideally, it is important to design a topic naming and structure within the payload. 
 
@@ -553,12 +682,32 @@ Categorising MQTT topics for browsing (with synonyms):
 | system                         | metrics     |
 
 
+## Web socket connection ##
 
+To set up **Web socket connection**:
 
-### Set up AMQP connection ###
+**Step 2:**	Open MQTT Client.
+
+![Image not Available](/assets/Fig39.png)
+
+**Step 3:** Click **Create MQTT Client**.
+
+**Step 4:** Set up MQTT connections with the following:
+
+- **MQTT Client Name** – Name is not specific and can give random name
+- **Protocol** - Select protocol. For example, *wss*
+- **Host** - Enter **Unique MQTT URL** - For example, *adex.gov.sg:8080/ws*
+- **SSL / TLS Certificate Type** - Select SSL / TLS Certificate Type. For example,  *CA signed server certificate*
+- **User name** - Enter the **Client key** - Copy from the projects page > Connection tab > Client Key
+- **Password** - Enter the **Client secret** - Copy from the projects page > Connection tab > Client secret
+
+![Image not Available](/assets/Fig200.png)
+
+## AMQP connection ##
+
+To set up **AMQP connection**:
 
 For 2-way SSL connection, use the same PEM files as MQTTS: ca.pem, client.pem, private.key, clientid and clientkey are required.
-
 
 **Exchange:** amq.topic
 
@@ -619,6 +768,25 @@ replies, err := channel.Consume(
 ```
 
 For more related information about AMQP, refer to this [link](https://docs.microsoft.com/en-us/azure/service-bus-messaging/service-bus-amqp-protocol-guide).
+
+## Testing with Mosquitto MQTT ##
+
+You may test the MQTT connection using mosquitto commands.
+
+**Command**
+
+mosquitto_pub -h evx.adex.gov.sg -p 8883 -t topic-path/sense -m "hello" -i example-test --cafile ./ca.crt --cert ./client.pem --key ./private.key -d
+
+**Result**
+
+Client example-test sending CONNECT
+Client example-test received CONNACK (0)
+Client example-test sending PUBLISH (d0, q0, r0, m1, 'topic-path/sense', ... (5 bytes))
+Client example-test sending DISCONNECT
+
+**Note that the ca cert should have a .crt extension**. 
+
+You can refer for more details on mosquitto commands in on clicking the **[Link](https://mosquitto.org/man/mosquitto_pub-1.html)**
 
 ## My topics ##
 
@@ -844,3 +1012,6 @@ To **Subscribe** to a topic:
 ![Image not Available](/assets/Fig97.png)
 
 **Step 4** You can click **Clear all filters** to reset the filters.
+
+
+
