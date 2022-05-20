@@ -177,7 +177,9 @@ A **Subscriber** needs to subscribe to this topic from the portal.
 
 ![Image not Available](/assets/Fig42.png)
 
-Here is an example of MQTT code samples. Download the files and use for reference.
+## MQTT client sample code ##
+
+Here is an example of **MQTT code samples**. Download the files and use for reference.
 
 - <a href="/assets/java.zip" download>Click to download</a> java.zip.
 
