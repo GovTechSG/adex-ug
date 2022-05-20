@@ -6,7 +6,7 @@ FAQs for account includes questions about creating account, how to sign up, rese
 
 You need to sign up to create an account
 
-Go to [ADEX](https://sdx.sensors.gov.sg/sdx/home) portal and click **Sign Up**. You must use a valid agency email address when you sign up.
+Go to [ADEX](https://adex.gov.sg/adex/home) portal and click **Sign Up**. You must use a valid agency email address when you sign up.
 
 Follow the steps here: [Getting Started](/User%20Guide/Getting%20Started)
 
