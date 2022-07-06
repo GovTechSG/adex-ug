@@ -103,7 +103,7 @@ In the Projects page, displays the **Project name**, **Organisation**, **Created
 - **Subscribed topics** – Shows the subscribed topics by the project and the total count.
   **Note:** *This tab is available for Publisher and Subscriber.*
 
-![Image not Available](/assets/Fig59.png) 
+![Image not Available](/assets/Fig59a.png) 
 
 - **Activities** - Displays the audit trail of the project.
 
