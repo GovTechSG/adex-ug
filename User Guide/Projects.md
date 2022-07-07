@@ -28,7 +28,7 @@ Or, click **Projects** from the left side navigation bar.
 
 To **Create project**:
 
-**Step 1:**	Click **Create project**. The projects page is displayed. 
+**Step 1:**	Click **Create project** button, click **New project**. The projects page is displayed. 
 
 **Note:** *For your first project, you will see this page as shown below.*
 
@@ -103,7 +103,7 @@ In the Projects page, displays the **Project name**, **Organisation**, **Created
 - **Subscribed topics** – Shows the subscribed topics by the project and the total count.
   **Note:** *This tab is available for Publisher and Subscriber.*
 
-![Image not Available](/assets/Fig59.png) 
+![Image not Available](/assets/Fig59a.png) 
 
 - **Activities** - Displays the audit trail of the project.
 
@@ -830,9 +830,6 @@ To **Create topic**:
 - **Is approval needed for subscription requests?**
   - **Yes** – Approval is needed from publisher before you subscribe 
   - **No** – Allows free access to the topic and no approval needed from the publisher
-- **Also publish on ADEX On-prem**
-  - **Yes** - you can select the on-prem projects
-  - **No** - no On-prem projects for this topic
 
 ![Image not Available](/assets/Fig47.png)
 
@@ -840,7 +837,7 @@ To **Create topic**:
 
 ![Image not Available](/assets/Fig69.png)
 
-You can see the newly created topic being added in **Projects** page > **My topics** tab.
+You can see the newly created topic being added in **Projects** page > click **Project name** > **My topics** tab.
 
 ![Image not Available](/assets/Fig49.png)
 
@@ -850,7 +847,7 @@ You can add more topics within the topic on your own project by selecting from t
 
 To add **New topic** as sub-topic:
 
-**Step 1:**	Navigate to **Projects** page > **My topics** tab. 
+**Step 1:**	Navigate to **Projects** page > click **Project name** > **My topics** tab.
 
 **Step 2:**	Select a topic and click ![Image not Available](/assets/icon9.png) icon.
 
