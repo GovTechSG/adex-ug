@@ -189,6 +189,9 @@ Here is an example of **MQTT code samples**. Download the files and use for refe
 
 - <a href="/assets/golang.zip" download>Click to download</a> golang.zip.
 
+- <a href="/assets/dotnet.zip" download>Click to download</a> dotnet.zip.
+
+
 For more related information about MQTT, refer to this [link](https://www.hivemq.com/blog/mqtt-essentials-part-3-client-broker-connection-establishment/).
 
 ## MQTT connection ##
