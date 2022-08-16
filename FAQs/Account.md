@@ -67,3 +67,33 @@ You will receive a notification from the portal before 90 days of expiry when yo
 
 You can go to Login page and click **Forgot password**.
 
+## How do I reset my MFA?
+
+**Step 1:** Go to **Home** page.
+
+**Step 2:** Click **Login**
+
+**Step 3:** Enter your registered **Email address** and **Password**.
+
+**Step 4:** Click **Log in**.
+
+![Image not Available](/assets/Fig14.png)
+
+**Step 5:** Click **Click here**
+
+![Image not Available](/assets/Fig15.png)
+
+**Step 6:** User will receive an email with link to reset your new MFA.
+
+**Step 6:** User can click the link in the email, user could see your old MFA is disabled and can start login with your Email address and password to set up new MFA.
+
+![Image not Available](/assets/Fig15y.png)
+
+**Step 6:** User can **Log in** by entering the **Email address** and **Password** and can do **MFA** to login to ADEX.
+
+
+
+
+
+
+
