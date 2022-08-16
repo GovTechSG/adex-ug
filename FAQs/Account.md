@@ -83,13 +83,13 @@ You can go to Login page and click **Forgot password**.
 
 ![Image not Available](/assets/Fig15.png)
 
-**Step 6:** User will receive an email with link to reset your new MFA.
+**Step 6:** You will receive an email with link to reset your new MFA.
 
-**Step 6:** User can click the link in the email, user could see your old MFA is disabled and can start login with your Email address and password to set up new MFA.
+**Step 7:** You can click the **link** in the email, you could see your old MFA is disabled and can start login with your Email address and password to set up new MFA.
 
 ![Image not Available](/assets/Fig15y.png)
 
-**Step 6:** User can **Log in** by entering the **Email address** and **Password** and can do **MFA** to login to ADEX.
+**Step 8:** You can **Log in** by entering the **Email address** and **Password** and can do **MFA** to login to ADEX.
 
 
 
