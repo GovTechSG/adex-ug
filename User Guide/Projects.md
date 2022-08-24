@@ -165,6 +165,7 @@ To set up **MQTT Client connection**:
 
 - Click **Save** and connected successfully.
 
+
 As a **Publisher** you are now ready to publish a topic.
 
 ![Image not Available](/assets/Fig41.png)
@@ -176,6 +177,11 @@ A **Subscriber** needs to subscribe to this topic from the portal.
 **Step 5:** Enter the topic path and fill into the **Topic to subscribe** field. Click the **Subscribe** button to receive data for this topic.
 
 ![Image not Available](/assets/Fig42.png)
+
+**Note** 
+*retain=false - the broker will use this flag to decide whether to store the last message and QoS for the topic.*
+
+*keep-alive=60 - This flag makes sure the connection between the broker and client is still open and are aware of being connected.*
 
 ## MQTT client sample code ##
 
