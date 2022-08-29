@@ -25,18 +25,16 @@ BASE64URL(JWE Ciphertext) || '.' ||
 
 BASE64URL(JWE Authentication Tag)
 
-*For **end to end encryption of MQTT payload**, the payload should be **encrypted on the publisher side** and **decrypted on the subscriber side***
-*Options* are as follows:
-1. Publisher to generate their own encryption keys and manually passing it to subscribers.
-2. We can generate the encryption keys and put it in the topic details page (something similar to project connection page for certs).
+*For **end to end encryption of MQTT payload**, the payload should be **encrypted on the publisher side** and **decrypted on the subscriber side**, Publisher to generate their own encryption keys and manually passing it to subscribers*.
+
 
 *Libraries available for encryption/decryption of JWE*
 
-- Golang: refer to this [link](https://pkg.go.dev/gopkg.in/square/go-jose.v2@v2.6.0/). 
-- Java: refer to this [link](https://connect2id.com/products/nimbus-jose-jwt/).
-- Node: refer to this [link](https://github.com/cisco/node-jose/).
-- Python: refer to this [link](https://python-jose.readthedocs.io/en/latest/jwe/).
-- Dotnet: refer to this [link](https://www.scottbrady91.com/c-sharp/json-web-encryption-jwe-in-dotnet-core/).
+- [Golang](https://pkg.go.dev/gopkg.in/square/go-jose.v2@v2.6.0/)
+- [Java](https://connect2id.com/products/nimbus-jose-jwt/)
+- [Node](https://github.com/cisco/node-jose/)
+- [Python](https://python-jose.readthedocs.io/en/latest/jwe/)
+- [Dotnet](https://www.scottbrady91.com/c-sharp/json-web-encryption-jwe-in-dotnet-core/)
 
 *Example of Mastercard using JWE for encryption*
 
