@@ -36,11 +36,10 @@ BASE64URL(JWE Authentication Tag)
 - [Python](https://python-jose.readthedocs.io/en/latest/jwe/)
 - [Dotnet](https://www.scottbrady91.com/c-sharp/json-web-encryption-jwe-in-dotnet-core/)
 
-*Example of Mastercard using JWE for encryption*
+*See examples*:
 
-- refer to this [link](https://developer.mastercard.com/platform/documentation/security-and-authentication/securing-sensitive-data-using-payload-encryption/#getting-keys-for-your-application/).
+- [Example of Mastercard using JWE for encryption](https://developer.mastercard.com/platform/documentation/security-and-authentication/securing-sensitive-data-using-payload-encryption/#getting-keys-for-your-application/).
 
-*Example of Mastercard library for encryption/decryption*
-- refer to this [link](https://github.com/Mastercard/client-encryption-go#performing-jwe-decryption/).
+- [Mastercard library for encryption/decryption](https://github.com/Mastercard/client-encryption-go#performing-jwe-decryption/).
 
 
