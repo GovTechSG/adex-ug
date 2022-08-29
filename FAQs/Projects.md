@@ -13,6 +13,7 @@ Team admin/Publisher/Subscriber can regenerate cert for Subscribing projects.
 
 ## How to encrypt MQTT payloads?
 
+Payload can be encrypted using [JSON Web Encryption](https://en.wikipedia.org/wiki/JSON_Web_Encryption/) or JWE.
 Encrypted value of JWE is represented as the concatenation of the Base64 encoded JWE Protected Header, JWE Encrypted Key, JWE Initialization Vector, JWE Ciphertext, and JWE Authentication Tag separated by “.”
 
 BASE64URL(UTF8(JWE Protected Header)) || '.' ||
