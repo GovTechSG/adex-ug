@@ -27,7 +27,6 @@ BASE64URL(JWE Authentication Tag)
 
 *For **end to end encryption of MQTT payload**, the payload should be **encrypted on the publisher side** and **decrypted on the subscriber side**, Publisher to generate their own encryption keys and manually passing it to subscribers*.
 
-
 *Libraries available for encryption/decryption of JWE*
 
 - [Golang](https://pkg.go.dev/gopkg.in/square/go-jose.v2@v2.6.0/)
@@ -39,7 +38,6 @@ BASE64URL(JWE Authentication Tag)
 *See examples*:
 
 - [Example of Mastercard using JWE for encryption](https://developer.mastercard.com/platform/documentation/security-and-authentication/securing-sensitive-data-using-payload-encryption/#getting-keys-for-your-application/).
-
 - [Mastercard library for encryption/decryption](https://github.com/Mastercard/client-encryption-go#performing-jwe-decryption/).
 
 
