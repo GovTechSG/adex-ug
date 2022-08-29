@@ -29,7 +29,7 @@ BASE64URL(JWE Authentication Tag)
 
 *Libraries available for encryption/decryption of JWE*
 
-- [Golang](https://pkg.go.dev/gopkg.in/square/go-jose.v2@v2.6.0/)
+- [Golang](https://pkg.go.dev/gopkg.in/square/go-jose.v2/)
 - [Java](https://connect2id.com/products/nimbus-jose-jwt/)
 - [Node](https://github.com/cisco/node-jose/)
 - [Python](https://python-jose.readthedocs.io/en/latest/jwe/)
