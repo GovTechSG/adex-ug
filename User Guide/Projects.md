@@ -185,7 +185,7 @@ A **Subscriber** needs to subscribe to this topic from the portal.
 
 ## MQTT client sample code ##
 
-Here is an example of **MQTT code samples**. Download the files and use for reference.
+Here is an example of **sample MQTT demo code samples**, custom business logic is not included. Download the files and use for reference.
 
 - <a href="/assets/java.zip" download>Click to download</a> java.zip.
 
