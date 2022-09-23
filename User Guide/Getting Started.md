@@ -7,7 +7,7 @@ In **ADEX**, a government agency can act as a publisher to publish real-time dat
 
 To get started in using the application:
 
-**Step 1:** Click this [link](https://sdx.sensors.gov.sg/sdx/home) and sign up using a valid agency email address (e.g. @tech.gov.sg). 
+**Step 1:** Click this [link](https://adex.gov.sg/adex/home) and sign up using a valid agency email address (e.g. @tech.gov.sg). 
 
 **Step 2:** System will send an email notification to your email inbox. Click the link to verify and proceed to sign up. For more related information about sign up, see **[Sign Up](/User%20Guide/Home%20Page?id=sign-up)**.
 
