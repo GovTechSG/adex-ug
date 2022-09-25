@@ -5,7 +5,7 @@
 
 *How to **subscribe** to a topic:*
 
-![Image is not available](/assets/vid4substotopic.gif)
+![Image is not available](/assets/vid4subscribetoatopic.gif)
 
 **Publisher** will be notified by email to approve the subscription request. 
 
