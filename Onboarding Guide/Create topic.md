@@ -1,11 +1,11 @@
 
 *How to **publish** a topic:*
 
-![Image is not available](/assets/vid2publishtopic.gif)
+![Image is not available](/assets/vid2pubtopic.gif)
 
 *How to **subscribe** to a topic:*
 
-![Image is not available](/assets/vid4subscribetotopic.gif)
+![Image is not available](/assets/vid4subtotopic.gif)
 
 **Publisher** will be notified by email to approve the subscription request. 
 
