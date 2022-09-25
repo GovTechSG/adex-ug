@@ -15,7 +15,7 @@
 
 *How to **approve subscription request** to a topic:*
 
-![Image is not available](/assets/vid5approvedsubscribetopic.gif)
+![Image is not available](/assets/vid5approvedsubstopic.gif)
 
 **Subscriber** will be notified via email for subscription to topic is approved!
 
