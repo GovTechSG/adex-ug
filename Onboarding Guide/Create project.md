@@ -22,7 +22,7 @@ Or, click **Projects** from the left side navigation bar.
 
 *How to create a project to subscribe to a topic*
 
-![Image is not available](/assets/vid3createprojectforsubscribe.gif)
+![Image is not available](/assets/vid3createsubscribeproject.gif)
 
 **Steps to create a project**
 
