@@ -18,7 +18,7 @@ Or, click **Projects** from the left side navigation bar.
 
 *How to **create a publish project**:*
 
-![Image is not available](/assets/vid1createproject.gif)
+![Image is not available](/assets/vid1createpubproject.gif)
 
 *How to create a project to subscribe to a topic*
 
