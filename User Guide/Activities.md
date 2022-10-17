@@ -5,6 +5,7 @@ The **Activities** allows you to view and track the list of own activities in th
 
 It displays the following information:
 
+- **UUID** - Displays 128-bit value to identify the user 
 - **Date** - Displays the date based on filter range 
 - **Service** - Displays the module of the system such as Topic, User, Project, Subscription, Adaptor, Message, and so on
 - **Action** - Displays activity logs for create, update, and delete actions
@@ -13,12 +14,17 @@ It displays the following information:
 
 **Note** *You can also **sort** by the following columns:*
 
+- UUID
 - Date
 - Service
 - Action
 - Action description
 
 ![Image not Available](/assets/Fig64.png)
+
+Click **UUID** to display the user information.
+
+![Image not Available](/assets/Fig100.png)
 
 Click **Show payload** to display the details of the activity and allow you to copy the JSON content.
 
