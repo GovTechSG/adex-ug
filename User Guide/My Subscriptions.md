@@ -71,6 +71,8 @@ Subscribers to **Withdraw** Pending Topic Subscription:
 
 ![Image not Available](/assets/Fig91.png)
 
+![Image not Available](/assets/Fig101.png)
+
 **Note** 
 
 - Once withdrawn, the topic **status=Unsubscribed** in **My subscriptions** page.
