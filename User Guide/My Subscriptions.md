@@ -69,7 +69,7 @@ Subscribers to **Withdraw** Pending Topic Subscription:
  **Step 4:** A pop-up window appears to withdraw the request for the topic subscription. Click **Withdraw** to cancel the request, 
  Alternatively u can click **Cancel** or **x** button to close the request.
 
-![Image not Available](/assets/Fig91.png)
+![Image not Available](/assets/Fig101.png)
 
 **Note** 
 
