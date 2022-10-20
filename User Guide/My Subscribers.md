@@ -1,7 +1,7 @@
 
 # My subscribers #
 
-This area allows you to view all **subscribers** who subscribed successfully to all topics within your projects. This page displays the following information:
+This area allows you to view all Internet and Intranet **subscribers** who subscribed successfully to all topics within your projects. This page displays the following information:
 
 - Date
 - Project name
@@ -24,6 +24,8 @@ The following status includes:
 - **Unsubscribe** - The status where the publisher removed the subscriber
 
 ![Image not Available](/assets/Fig60.png)
+
+![Image not Available](/assets/Fig102.png)
 
 **Respond to request**:
 
