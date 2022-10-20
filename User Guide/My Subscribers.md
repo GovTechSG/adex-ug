@@ -25,7 +25,7 @@ The following status includes:
 
 ![Image not Available](/assets/Fig60.png)
 
-![Image not Available](/assets/Fig102.png)
+![Image not Available](/assets/Fig103.png)
 
 **Respond to request**:
 
