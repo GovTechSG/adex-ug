@@ -701,13 +701,13 @@ Categorising MQTT topics for browsing (with synonyms):
 
 To set up **Web socket connection**:
 
-**Step 2:**	Open MQTT Client.
+**Step 1:**	Open MQTT Client.
 
 ![Image not Available](/assets/Fig39.png)
 
-**Step 3:** Click **Create MQTT Client**.
+**Step 2:** Click **Create MQTT Client**.
 
-**Step 4:** Set up MQTT connections with the following:
+**Step 3:** Set up MQTT connections with the following:
 
 - **MQTT Client Name** – Name is not specific and can give random name
 - **Protocol** - Select protocol. For example, *wss*
@@ -717,6 +717,30 @@ To set up **Web socket connection**:
 - **Password** - Enter the **Client secret** - Copy from the projects page > Connection tab > Client secret
 
 ![Image not Available](/assets/Fig200.png)
+
+## Publishing using HTTP REST ##
+
+How to publish via **HTTP Post**:
+
+**Step 1:** Ready for topic from UI (Example: govtech-xxxxxx/my/topic)
+
+**Step 2:** Note the project credentials
+
+(a) client key (Example: govtech-xxxxxx)
+(b) client secret (Example: xxxxxxxxx)
+
+**Step 3:** Setup HTTP client with the below details
+
+  1. Set HTTP POST method
+  2. Url(change base url per env): https://adex.gov.sg/api/topics/pub/topic/govtech-xxxxxx/my/topic
+  3. Set a header **X-API-Key**: (a)client key:(b)client secret (**Example: govtech-xxxxxxx:xxxxxxxxx**){}
+
+![Image not Available](/assets/Fig104.png)
+
+**Step 4:** Set msg as Body
+
+![Image not Available](/assets/Fig104i.png)
+ 
 
 ## AMQP connection ##
 
