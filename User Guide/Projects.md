@@ -722,24 +722,24 @@ To set up **Web socket connection**:
 
 How to **publish** via **HTTP Post**:
 
-**Step 1:** Ready for **topic** from UI (**Example: govtech-xxxxxx/my/topic**)
+**Step 1:** Ready for **topic** from UI (Example: **govtech-xxxxxx/my/topic**)
 
 **Step 2:** Note the **project credentials**
-
-(a) client key (**Example: govtech-xxxxxx**)
-(b) client secret (**Example: xxxxxxxxx**)
+ 
+ - (a) client key (Example: **govtech-xxxxxxxx**)
+ - (b) client secret (Example: **xxxxxxxxx**)
 
 **Step 3:** Setup HTTP client with the below details
 
   1. Set **HTTP POST** method
   2. Url(change **base url** per env): https://adex.gov.sg/api/topics/pub/topic/govtech-xxxxxx/my/topic
-  3. Set a header **X-API-Key**: (a)client key:(b)client secret (**Example: govtech-xxxxxxx:xxxxxxxxx**){}
+  3. Set a header **X-API-Key**: (a)client key:(b)client secret (Example: **govtech-xxxxxxx:xxxxxxxxx**)
 
-![Image not Available](/assets/Fig104.png)
+![Image not Available](/assets/Fig104i.png)
 
 **Step 4:** Set msg as **Body**
 
-![Image not Available](/assets/Fig104i.png)
+![Image not Available](/assets/Fig104.png)
  
 
 ## AMQP connection ##
