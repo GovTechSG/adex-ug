@@ -736,11 +736,11 @@ How to **publish** via **HTTP Post**:
   2. Url(change **base url** per env): https://adex.gov.sg/api/topics/pub/topic/govtech-xxxxxx/my/topic
   3. Set a header **X-API-Key**: (a)client key:(b)client secret (Example: **govtech-xxxxxxx:xxxxxxxxx**)
 
-![Image not Available](/assets/Fig104.png)
+![Image not Available](/assets/Fig104i.png)
 
 **Step 4:** Set msg as **Body**
 
-![Image not Available](/assets/Fig104i.png)
+![Image not Available](/assets/Fig104.png)
  
 
 ## AMQP connection ##
