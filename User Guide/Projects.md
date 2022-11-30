@@ -727,7 +727,6 @@ How to **publish** via **HTTP Post**:
 **Step 2:** Note the **project credentials**
  
  (a) client key (Example: **govtech-xxxxxxxx**)
- 
  (b) client secret (Example: **xxxxxxxxx**)
 
 **Step 3:** Setup HTTP client with the below details
