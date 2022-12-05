@@ -720,11 +720,11 @@ To set up **Web socket connection**:
 
 ## Websocket code sample ## 
 
-Here is the demo code samples related to Paho websocket related, custom business logic is not included. Download the files and use for reference, can use anyone of the platform e.g. java, python, .net fw, core, nodejs, or go.
+Here is the demo code sample with Paho library, custom business logic is not included. Download the file and use for reference.
 
-- <a href="/assets/golang websocket.zip" download>Click to download</a> golang websocket.zip.
+- <a href="/assets/golang-websocket.zip" download>Click to download</a> golang-websocket.zip.
 
-## Publishing using HTTP REST ##
+## Publish using HTTP REST ##
 
 How to **publish** via **HTTP Post**:
 
