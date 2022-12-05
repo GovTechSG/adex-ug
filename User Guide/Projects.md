@@ -718,7 +718,13 @@ To set up **Web socket connection**:
 
 ![Image not Available](/assets/Fig200.png)
 
-## Publishing using HTTP REST ##
+## Websocket code sample ## 
+
+Here is the demo code sample with Paho library, custom business logic is not included. Download the file and use for reference.
+
+- <a href="/assets/golang-websocket.zip" download>Click to download</a> golang-websocket.zip.
+
+## Publish using HTTP REST ##
 
 How to **publish** via **HTTP Post**:
 
