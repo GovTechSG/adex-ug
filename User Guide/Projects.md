@@ -718,7 +718,7 @@ To set up **Web socket connection**:
 
 ![Image not Available](/assets/Fig200.png)
 
-## Websocket code sample ## 
+## Websocket sample code ## 
 
 Here is the demo code sample with Paho library, custom business logic is not included. Download the file and use for reference.
 
