@@ -26,6 +26,12 @@ hide_toolbar:
   github: true
   
 folders:
+- name: 'Release notes'
+    title: 'Release notes'
+    subtitle: ''
+    order:
+    - January 2023.md 
+folders:
   - name: 'Onboarding guide'
     title: 'Onboarding guide'
     subtitle: ''
