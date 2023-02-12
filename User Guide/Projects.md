@@ -908,6 +908,8 @@ User can see the newly created topic being added in **Projects** page > click **
 User can add more topics within the topic on their own project by selecting from topic folders and clicking the 
 ![Image not Available](/assets/icon9.png) icon.
 
+**Note** *Alternatively, user can create new topic by clicking the profile icon > click **create button** and click **New topic***.
+
 ### Add topic within a topic ###
 
 To add **New topic** as sub-topic:
@@ -1037,6 +1039,11 @@ To **Subscribe** to a topic:
 **Step 5:**	Go back to **Projects** and click **Subscribed topics** tab. The new subscription is added to the subscribed topics.
 
 ![Image not Available](/assets/Fig59.png)
+
+![Image not Available](/assets/Fig105_4.png)
+
+**Note** *User can so **Browse topics** again from **Subscribed topics** tab*.
+
 
 ## Activities ##
 
