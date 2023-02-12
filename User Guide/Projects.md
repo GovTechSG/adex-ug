@@ -140,7 +140,7 @@ After creating a new project, go to **Connections** tab. This tab shows the **co
 ![Image not Available](/assets/Fig105_2.png)
 
  **Note:** 
- *The **Private key password** for the projects, you will receive in your email. 
+ *The **Private key password** for the projects, you will receive in your email*. 
 
  ![Image not Available](/assets/Fig99f.png)
 
@@ -274,7 +274,7 @@ From the portal, user can see the certs **status=Expired**, user can click the *
  
  ![Image not Available](/assets/vidsetupmqttcon.gif)
 
-**Step 1:**	Copy the certificates in a text Editor and save each as .PEM file separately.
+**Step 1:**	Download the SSL certificates in a .zip file and save, user can unzip and can see 3 .PEM files separately.
 
 **Step 2:**	Now, open MQTT Client.
 
