@@ -44,9 +44,17 @@ To **Create project**:
 
 ![Image not Available](/assets/Fig34.png)
 
-Click **Create**. The newly created project appears in the list of project in the Project page.
+- Click **Create**, user can see the newly created project details in the project details page.
 
 ![Image not Available](/assets/Fig51a.png)
+
+Also, the newly created project appears in the list of project in the Project page.
+
+![Image not Available](/assets/Fig105_1.png)
+
+- You can create projects from project details page using **Create new project**.
+
+![Image not Available](/assets/Fig105.png)
 
 **Note** 
 
