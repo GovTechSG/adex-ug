@@ -129,17 +129,25 @@ After creating a new project, go to **Connections** tab. This tab shows the **co
 - SSL Client certificate
 - SSL Private key 
 - Private key password - you will receive this in your email.
+- Click Download certificate, you can see a pop-up to download the certs in .zip, you can enter a password to save the file in your local.
+- Alternatively, user can also copy and save the certificates in a .PEM text editor file.
 
+**Note:**
+ *New **SSL certificate expires** after 2 years instead of 1 year*.
+ 
 ![Image not Available](/assets/Fig36.png)
 
- **Note:** *The **Private key password** for the projects, you will receive in your email. You must copy and save the certificates in a .PEM text editor file.*
- 
+![Image not Available](/assets/Fig105_2.png)
+
+ **Note:** 
+ *The **Private key password** for the projects, you will receive in your email. 
+
  ![Image not Available](/assets/Fig99f.png)
 
  - Alternatively, click **Generate certificate** button to generate new certificate if your **project certificate is expired!**
-
+ 
  ![Image not Available](/assets/Fig99e.png)
-  
+ 
  You will receive a **Private key password** through email and use that password in the **Client key passphrase** for your MQTT client set up.
 
 ![Image not Available](/assets/Fig38.png)
@@ -147,21 +155,23 @@ After creating a new project, go to **Connections** tab. This tab shows the **co
 
 To set up **MQTT Client connection**:
 
-**Step 1:**	Copy the certificates in a text Editor and save each as .PEM file separately.
+**Step 1:**	Click Download certificate, user can see a pop-up to download SSL certs as .pem file in .zip file, user can enter a password to save the file in your local.
 
-**Step 2:**	Now, open MQTT Client.
+**Step 2:**	Unzip the folder, user can see 3 SSL certs as .pem files.
+
+**Step 3:**	Now, open MQTT Client.
 
 ![Image not Available](/assets/Fig39.png)
 
-**Step 3:** Click **Create MQTT Client**.
+**Step 4:** Click **Create MQTT Client**.
 
-**Step 4:** Set up MQTT connections with the following:
+**Step 5:** Set up MQTT connections with the following:
 
 - **MQTT Client Name** – Name is not specific and can give random name
 - **Protocol** - Select protocol. For example, *mqtt/tls*
 - **Host** - Enter **Unique MQTT URL** 
 
-- Upload each file you copied in a text editor in the following fields: 
+- Upload each .PEM file in the following fields: 
 
   - CA file
   - Client certificate file
@@ -230,11 +240,14 @@ After creating a new project, go to **Connections** tab. This tab shows the **co
 
 ![Image not Available](/assets/Fig36.png)
 
-**Note**: User need to copy and save all the 3 SSL certs as .pem file using a text editor.
+**Note**: User need to download and save all the 3 SSL certs as .pem file using a text editor.
 
-If user didn't save the certs file for the first time, user can regenerate the certs by clicking **Generate new certificate** button.
+If user didn't save the SSL certs files for the first time, user can regenerate the certs by clicking **Generate new certificate** button, and user can select an **extended grace period** for SSL client certificate.
+
+![Image not Available](/assets/Fig105_3.png)
 
 ![Image not Available](/assets/Fig99f.png)
+
 
 User will receive a **Private key password** through email and use that password in the **Client key passphrase** for your MQTT client set up.
 
