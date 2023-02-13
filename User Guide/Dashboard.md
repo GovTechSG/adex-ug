@@ -35,7 +35,7 @@ To **Join a team**
 
 **Step 1:** Click **Join team** button. A **Create or join a team** pop-up windows appears.
 
-**Step 2:** Click **Join team** tab, user can see the organisation name is the own organisation, user cannot do edit.
+**Step 2:** Click **Join team** tab, user can select the organisation name from the drop down list.
 
 ![Image not Available](/assets/Fig105_5.png)
 
@@ -68,9 +68,13 @@ To **Join a team**
 
 You can **Create or join a team**:
 
+Team name created is **unique** in ADEX system-wide, not by organisation.
+
 To **Create a new team**:  
 
 **Step 1:** Click **Join team**. A **Create or join a team** pop-up windows appears.
+
+**Step 2:** **Orgnaisation** field shows defailt the users organisation, user **cannot** do edit the field to create a new team in other organisation.
 
 **Step 2:** Enter name in **Team name** and click **+ Create team**.
 
@@ -83,6 +87,9 @@ To **Create a new team**:
 The newly created team is subjected to Super admin approval. Once approved, the newly created team will appear under **Teams I manage** tab. Now you are the creator of this team, your role is Team admin. Now as Team Admin you can approve or reject members via **Join team request**.
 
 **Note:** 
+
+*User cannot create a team which already exists in ADEX.* **For example**: Team name: QA, if user again need to create a new team name : QA, then system won't allow to create, instead user need to rename the Team name: QA to QA1 or any name and now if user tries to create a new team name: QA then system will allow user to create.
+
 - Once you sent **Create new team** request to Super admin, your team name will be shown under **My requests** tab with **status=Pending**.
 
 ![Image not Available](/assets/Fig35c.png)
