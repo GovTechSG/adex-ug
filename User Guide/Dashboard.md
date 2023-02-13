@@ -7,21 +7,64 @@ The **Dashboard** displays the following:
 - Overview - TBD
 - Teams 
 - Billing - TBD
+- Announcements
+- Join team - Create new team, Join team
 
 Under **Teams** tab, you can view your teams and team details or search your teams.
 
 On the left side pane, you can see the following:
 
-- **Teams I manage**, includes all teams where you are admin
-- **My teams**, includes other teams where you are a member, if you are admin, you are also a member of the team
-- **My requests** tab, includes team request which was sent via **Join team** to the Team admin and its pending for approval. Once your request was approved, you can see under **[My teams](/User%20Guide/Dashboard?id=my-teams)** tab
+- **Teams I manage**, includes all teams where user role is admin
+- **My teams**, includes other teams where user is a member, if user is admin, user should also a member of the team
+- **My requests** tab, includes team request which was sent via **Join team** to the Team admin and its pending for approval. Once user request was approved, user can see under **[My teams](/User%20Guide/Dashboard?id=my-teams)** tab
 
 ![Image not Available](/assets/Fig35b.png)
 
-Under **Teams I manage**, click any team name, at the right side pane, displays **About**, **Members** and **Projects**  
+Under **Teams I manage**, click any team name, at the right side pane, displays **About**, **Members** and **Projects** 
+
 ![Image not Available](/assets/Fig34a.png)
 
- **Note:** *You can join one or more teams within your organisation. For example, a GovTech member can join to any Govtech team. Use the **Add member** button to add members from other organisations*.
+User can click the **Projects** tab to see the project infomation, on clicking the project, system will navigate to Project details page.
+
+![Image not Available](/assets/Fig105_11.png)
+
+ 
+User can **Join a team**:
+
+To **Join a team**
+
+**Step 1:** Click **Join team** button. A **Create or join a team** pop-up windows appears.
+
+**Step 2:** Click **Join team** tab, user can see the organisation name is the own organisation, user cannot do edit.
+
+![Image not Available](/assets/Fig105_5.png)
+
+**Step 3:** Select **Team name** form the drop down list, user can enter the **Team name** to do in-line search.
+
+![Image not Available](/assets/Fig105_6.png)
+
+![Image not Available](/assets/Fig105_7.png)
+
+**Step 4:** Click **Join**.
+
+![Image not Available](/assets/Fig105_5.png)
+
+ Join team request is now sent to Team admin for approval. User can see the request status=Pending.
+ 
+![Image not Available](/assets/Fig105_8.png)
+
+ User can join one or more teams within your organisation. **For example**, a GovTech member can join to any Govtech team. Use the **Add member** button to add members from other organisations.
+ 
+ User can join to other organisation team. **For example**, a NEA team member can join to any Govtech team, NEA user need to wait for Govtech team admin to approve join team request.
+ 
+ NEA Team admin can receive the join team email notification from requestor as per above example is a Govtech team member.
+      
+ ![Image not Available](/assets/Fig105_9.png)
+
+  Govtech team member will receive the Join team approved email notification from NEA team member.
+      
+  ![Image not Available](/assets/Fig105_10.png)
+
 
 You can **Create or join a team**:
 
