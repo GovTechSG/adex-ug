@@ -26,7 +26,7 @@ Under **Teams I manage**, click any team name, at the right side pane, displays 
 
 User can click the **Projects** tab to see the projects are listed for their team, on clicking the project, system will navigate to Project details page.
 
-If user is the member of the team, user can see list of pub and sub projects under the Team > project tab, user role can be Publisher or Subscriber or Team admin.
+If user is the member of the team, user can see list of pub and sub projects under the **Team > projects** tab, user role in the team can be Publisher or Subscriber or Team admin.
 
 ![Image not Available](/assets/Fig105_11.png)
 
