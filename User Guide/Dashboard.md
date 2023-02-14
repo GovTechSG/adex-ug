@@ -42,17 +42,17 @@ To **Join a team**
 
 **Step 4:** Click **Join**.
 
-![Image not Available](/assets/Fig105_5.png)
+Join team request is now sent to Team admin for approval. User can see the request status=Pending.
 
- User can join one or more teams within your organisation. **For example**, a GovTech member can join to any Govtech team. Use the **Add member** button to add members from other organisations.
+User can join one or more teams within your organisation. **For example**, a GovTech member can join to any Govtech team. Use the **Add member** button to add members from other organisations.
  
- User can join to other organisation team. **For example**, a NEA team member can join to any Govtech team, NEA user need to wait for Govtech team admin to approve join team request.
+User can join to other organisation team. **For example**, a NEA team member can join to any Govtech team, NEA user need to wait for Govtech team admin to approve join team request.
  
- NEA Team admin can receive the join team email notification from requestor as per above example is a Govtech team member.
+NEA Team admin can receive the join team email notification from requestor as per above example is a Govtech team member.
       
  ![Image not Available](/assets/Fig105_9.png)
 
-  Govtech team member will receive the Join team approved email notification from NEA team member.
+Govtech team member will receive the Join team approved email notification from NEA team member.
       
   ![Image not Available](/assets/Fig105_10.png)
 
@@ -331,8 +331,6 @@ To **Leave team**:
 ## My requests
 
 Once you **join a team** you can see the request under **My requests** tab. 
-
-Join team request is now sent to Team admin for approval. User can see the request status=Pending.
  
 ![Image not Available](/assets/Fig105_8.png)
 
