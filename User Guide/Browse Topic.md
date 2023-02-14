@@ -68,16 +68,43 @@ As a **Publisher** you can view 3 tabs as follows:
 
 In this tab you can **view the topic details** and can do the following: 
 
-- See the topic overview
+- See the topic overview - topic path, topic description, view payload, project name
 - See folders and its subfolders within the topic
 - Edit folders and its subfolders within the topic
 - Subscribe to the topic
 - See the status of the topic
 - Edit own topic only
-- See subscribers to the topic
 
 ![Image not Available](/assets/Fig30.png)
 
+**Publisher to view payload from portal**
+
+Publisher can **View Payload** after they published via MQTT Client by downlaoding the SSL certs from the Projects page.
+
+**Step 1** Navigate to **Browse topics*.
+
+**Step 2:** On click a topic that you have published via MQTT Client and the **Topic details** page displayed.
+
+**Step 3:** Click **View Paylaod** button.
+
+**Step 4:** In Paylaod preview pop-up, click **Show paylaod** button.
+  
+![Image not Available](/assets/Fig105_12.png)
+
+**Note:** Payload preview supports JSON, XML, and text formats
+
+**Step 5:** Hover the **last seen 1 day ago** as shown in the below screenshot, user can see **Payload last seen time**.
+
+![Image not Available](/assets/Fig105_11.png)
+
+**Step 6:** Click the **copy tooltip icon** in the payload preview, user can copy the paylaod into clipboard
+
+![Image not Available](/assets/Fig105_10.png)
+  
+**Note:** *Copy large payload to clipboard*
+
+![Image not Available](/assets/Fig105_13.png)
+   
 - Create new child topics from the folder
 - **Suspend** topic
 - **Delete** own topic only
