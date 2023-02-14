@@ -171,10 +171,15 @@ To **view the list of team members**:
 - Name
 - Email 
 - Role
-- Status - such as Active, Pending, Rejected
+- Status - such as Active, Pending, Rejected, Disabled
 - Action
 
+If User role **status= Active**, user is a member in a team and user can explore all the features depends on users role in the team.
+If user role **status= Pending**, user sent a join team request to team admin.
+If user role **status= Disabled**, when user left the org, all team members in the team can see the all users status in the team.
+
 ![Image not Available](/assets/Fig38a.png)
+
 
 To **Search** for team members:
 
