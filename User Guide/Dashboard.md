@@ -20,17 +20,10 @@ On the left side pane, you can see the following:
 
 ![Image not Available](/assets/Fig35b.png)
 
-Under **Teams I manage**, click any team name, at the right side pane, displays **About**, **Members** and **Projects** 
+Under **Teams** tab, click any team name, at the right side pane, displays **About**, **Members** and **Projects** 
 
 ![Image not Available](/assets/Fig34a.png)
 
-User can click the **Projects** tab to see the projects are listed for their team, on clicking the project, system will navigate to Project details page.
-
-If user is the member of the team, user can see list of pub and sub projects under the **Team > projects** tab, user role in the team can be Publisher or Subscriber or Team admin.
-
-![Image not Available](/assets/Fig105_11.png)
-
- 
 User can **Join a team**:
 
 To **Join a team**
@@ -119,8 +112,6 @@ Also you can view the following tabs:
  - **Members** tab, view member details 
  - **Projects**, view Projects list
 
-![Image not Available](/assets/Fig72a.png)
-
 To view **About** this team information:
 
  **Note:** *Only same team members can view the team information.*
@@ -182,7 +173,6 @@ To **view the list of team members**:
 - Role
 - Status - such as Active, Pending, Rejected
 - Action
-
 
 ![Image not Available](/assets/Fig38a.png)
 
@@ -256,6 +246,16 @@ To **Leave** team:
 **Step 5:** Click the checkbox and click **Delete**.
 
 ![Image not Available](/assets/Fig74.png)
+
+To view **Projects** tab
+
+**Step 1:** click the **Projects** tab to see the pub and sub projects, Project name, Description and No. of topics pub and sub done for each project.
+
+**Step 2:** On click the project name, system will navigate to Project details page.
+
+If user is the member of the team, user role in the team can be Publisher or Subscriber or Team admin.
+
+![Image not Available](/assets/Fig105_11.png)
 
 ## My teams
 
