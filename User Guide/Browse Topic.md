@@ -74,6 +74,7 @@ In this tab you can **view the topic details** and can do the following:
 - Subscribe to the topic
 - See the status of the topic
 - Edit own topic only
+- View payload - Payload last seen time and can copy large payload to clipboard
 
 ![Image not Available](/assets/Fig30.png)
 
@@ -81,7 +82,7 @@ In this tab you can **view the topic details** and can do the following:
 
 Publisher can **View Payload** after they published via MQTT Client by downlaoding the SSL certs from the Projects page.
 
-**Step 1** Navigate to **Browse topics*.
+**Step 1** Navigate to **Browse topics**.
 
 **Step 2:** On click a topic that you have published via MQTT Client and the **Topic details** page displayed.
 
@@ -101,7 +102,7 @@ Publisher can **View Payload** after they published via MQTT Client by downlaodi
 
 ![Image not Available](/assets/Fig105_10.png)
   
-**Note:** *Copy large payload to clipboard*
+**Note:** *User can copy large payload to clipboard*
 
 ![Image not Available](/assets/Fig105_13.png)
    
@@ -226,10 +227,24 @@ As a **Subscriber** you can see the following:
 - See folders and its subfolders within the topic
 - Subscribe to the topic
 - See the status of the topic
+- View payload
+- Payload last seen time
+- Copy large payload to clipboard
+
+**Topic details** page
 
 ![Image not Available](/assets/Fig78.png)
 
-After you have **subscribed** to the topic, you can preview the content by clicking **View payload** in the **Topic details** page. 
+After you have **subscribed** to the topic, you can preview the content by clicking **View payload**, can seePayload last seen time**, subscriber can see **Payload last seen time**.
 
 ![Image not Available](/assets/Fig83.png)
+
+Subscriber can **Copy large payload to clipboard**
+
+![Image not Available](/assets/Fig105_16.png)
+
+
+
+
+
 
