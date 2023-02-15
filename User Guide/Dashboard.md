@@ -364,7 +364,7 @@ User can see the new all unread annoucements which are active by date.
 
 User can see all notification under **All** tab.
 
-![Image not Available](/assets/Fig105_19.png)
+![Image not Available](/assets/Fig105_20.png)
 
 **Steps 5:** Click Unread tab
 
@@ -372,7 +372,7 @@ User can see all the messages which are unread.
 
 **Note:** *If the announcement message expired based on date, user cannot see in announcement tab*, **For example**: If date of announcemnet end date is yesterday date, then user cannot see the announcement today, only Active announcement can be seen by user.
 
-![Image not Available](/assets/Fig105_20.png)
+![Image not Available](/assets/Fig105_21.png)
 
 **Steps 6:** Enter a message to do **Search**, click enter.
 
