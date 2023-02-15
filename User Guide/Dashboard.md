@@ -342,7 +342,9 @@ The Team admin can see the status of the request as **Pending** under **Teams I 
 
 ## Announcements
 
-User can see announcements in the ADEX Home page and in users Dashboard > Announcements page.
+All users will receive **new announcements** in ADEX once sent by ADEX Super admin.
+
+User can see announcements in the **ADEX Home** page and in users **Dashboard > Announcements** page.
 
 To view announcement in **Home page**
 
@@ -387,7 +389,6 @@ User can do search announcemnt
 
 ![Image not Available](/assets/Fig105_23.png)
 
-All users can see new announcements in ADEX once sent by super admin.
 
 
 
