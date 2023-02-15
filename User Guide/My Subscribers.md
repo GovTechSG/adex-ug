@@ -77,7 +77,7 @@ The following status includes:
 
 **Resubscribe**
 
-**Note:** *Publisher can **re-subscribe** the inactive subscription*.
+**Note:** *Publisher can **re-subscribe** the inactive subscription, if subscriber sends request to publisher*.
 
 **Step 1:** Navigate to **My subscribers page** on the left side navigation bar and select the project with **Unsubscribed** status.
 
