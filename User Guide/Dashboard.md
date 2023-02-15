@@ -108,6 +108,8 @@ Also you can view the following tabs:
  - **Members** tab, view member details 
  - **Projects**, view Projects list
 
+## Teams I manage
+
 To view **About** this team information:
 
  **Note:** *Only same team members can view the team information.*
@@ -337,3 +339,60 @@ Once you **join a team** you can see the request under **My requests** tab.
 The Team admin can see the status of the request as **Pending** under **Teams I manage** tab.
 
 ![Image not Available](/assets/Fig43c.png)
+
+## Announcements
+
+User can see announcements in the ADEX Home page and in users Dashboard > Announcements page.
+
+To view announcement in **Home page**
+
+**Step 1:** Go to **ADEX Home** page.
+
+User can see the new announcements in the Home page with dated.
+
+![Image not Available](/assets/Fig105_17.png).
+
+**Steps 2:** **Login** to ADEX.
+
+**Steps 3:** In Browse topics page, system shows bell icon highlighted in red for new notifications, click the bell icon ![Image not Available](/assets/Fig105_19.png).
+
+User can see the new all unread annoucements which are active by date.
+
+![Image not Available](/assets/Fig105_18.png)
+
+**Steps 4:** Go to **Dashbaord** > Click **Announcements** tab, click **All** tab.
+
+User can see all notification under **All** tab.
+
+![Image not Available](/assets/Fig105_19.png)
+
+**Steps 5:** Click Unread tab
+
+User can see all the messages which are unread.
+
+**Note:** *If the announcement message expired based on date, user cannot see in announcement tab*, **For example**: If date of announcemnet end date is yesterday date, then user cannot see the announcement today, only Active announcement can be seen by user.
+
+![Image not Available](/assets/Fig105_20.png)
+
+**Steps 6:** Enter a message to do **Search**, click enter.
+
+User can do search announcemnt
+
+![Image not Available](/assets/Fig105_22.png)
+
+**Steps 7:** Click **Mark all as read** button
+
+- User can see all the messages read and no messages in the **Unread** tab.
+- User also can see the bell icon not highlighted, since all messages are read.
+
+![Image not Available](/assets/Fig105_23.png)
+
+All users can see new announcements in ADEX once sent by super admin.
+
+
+
+
+
+
+
+
