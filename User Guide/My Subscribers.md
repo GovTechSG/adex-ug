@@ -85,15 +85,15 @@ The following status includes:
 
 **Step 3:**	Click **Resubscribe** .
 
-![Image not Available](/assets/105_24.png)
+![Image not Available](/assets/Fig105_24.png)
 
 **Step 4:** In **Resubscribe** pop-up window, click **Subscribe**.
 
-![Image not Available](/assets/105_28.png)
+![Image not Available](/assets/Fig105_28.png)
 
 **Step 4:** The status changed to **Subscribed**.
 
-![Image not Available](/assets/105_27.png)
+![Image not Available](/assets/Fig105_27.png)
 
 **Step 5:** Subscriber will receive email notification.
 
