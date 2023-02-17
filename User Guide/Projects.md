@@ -1073,9 +1073,11 @@ To **Subscribe** to a topic:
 ![Image not Available](/assets/Fig98.png)
 
 - Date created
-- Service - Topic, User, Project, Subscription, Adaptor, Message and All
+- Service - Topic, User, Project, Subscription, Adaptor and All
 
 ![Image not Available](/assets/Fig99.png)
+
+![Image not Available](/assets/Fig105_29.png)
 
 - User UUID
 - Clear all filters 
