@@ -203,7 +203,7 @@ Under **Adaptor details**, you can see the following:
 
 Information about the Status of **Adaptor**
 
-- Adaptor **Pending** - status where if any one of **Edit adaptor** form fields updated from UI will make the adaptor as pending status.
+- Adaptor **Pending** - status, if any one of **Edit adaptor** form input fields need to be updated from UI, then the status of the adaptor will be pending.
 
 ![Image not Available](/assets/Fig105_32.png)
 
