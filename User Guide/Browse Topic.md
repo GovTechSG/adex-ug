@@ -201,9 +201,21 @@ Under **Adaptor details**, you can see the following:
 - Created date
 - Updated date
 
-![Image not Available](/assets/Fig81.png)
+Information about the Status of **Adaptor**
+
+Adaptor **Pending** - status where if any one of **Edit adaptor** form fields updated from UI will make the adaptor as pending status.
+
+![Image not Available](/assets/Fig105_32.png)
+
+![Image not Available](/assets/Fig105_31.png)
+
+Adaptor **Active** - status where the adaptor is Active.
 
 ![Image not Available](/assets/Fig81.png)
+
+Adaptor **Blocked** - HTTP adaptor might be blocked when source is down for long period. But it will be auto re-activated periodically.
+
+![Image not Available](/assets/Fig82.png)
 
 Under **Activity log**, you can see the following:
 
