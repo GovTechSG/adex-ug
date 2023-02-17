@@ -158,6 +158,8 @@ In this tab you can view the topic subscribed details:
 
 **Adaptor**
 
+**Note:** HTTP adaptor might be blocked when source is down for long period. But it will be auto re-activated periodically.
+
 - Adaptor detail
 - +Create new adaptor
 
