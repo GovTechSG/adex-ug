@@ -158,8 +158,6 @@ In this tab you can view the topic subscribed details:
 
 **Adaptor**
 
-**Note:** HTTP adaptor might be blocked when source is down for long period. But it will be auto re-activated periodically.
-
 - Adaptor detail
 - +Create new adaptor
 
@@ -186,6 +184,8 @@ In this tab you can view the topic subscribed details:
 **Step 6:** Select **Active adaptor** toggle.
 
 **Step 7:** Click **Create**.
+
+**Note:** Custom corn experssion should not be less than 5 minutes.
 
 After you have created adaptor you could see the following in **Adaptor** tab
 
@@ -217,6 +217,7 @@ Under **Activity log**, you can see the following:
 
 - Once the adaptor **status=Failed** you can see **status=Blocked**.
 - You as a publisher, you will be notified by email for adaptor **status=Blocked**.
+- **HTTP adaptoR** might be blocked when source is down for long period. But it will be **auto re-activated** periodically.
 
 ![Image not Available](/assets/Fig84.png)
 
