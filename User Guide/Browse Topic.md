@@ -203,6 +203,8 @@ Under **Adaptor details**, you can see the following:
 
 ![Image not Available](/assets/Fig81.png)
 
+![Image not Available](/assets/Fig81.png)
+
 Under **Activity log**, you can see the following:
 
 - Timestamp
