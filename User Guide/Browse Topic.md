@@ -215,7 +215,7 @@ Information about the Status of **Adaptor**
 
 - Adaptor **Blocked** - HTTP adaptor might be blocked when source is down for long period. But it will be auto re-activated periodically.
 
-![Image not Available](/assets/Fig82.png)
+![Image not Available](/assets/Fig105_30.png)
 
 Under **Activity log**, you can see the following:
 
@@ -231,7 +231,6 @@ Under **Activity log**, you can see the following:
 
 - Once the adaptor **status=Failed** you can see **status=Blocked**.
 - You as a publisher, you will be notified by email for adaptor **status=Blocked**.
-- **HTTP adaptor** might be blocked when source is down for long period. But it will be **auto re-activated** periodically.
 
 ![Image not Available](/assets/Fig84.png)
 
