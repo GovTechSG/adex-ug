@@ -217,6 +217,10 @@ Information about the Status of **Adaptor**
 
 ![Image not Available](/assets/Fig105_30.png)
 
+- Adaptor **Suspended** - status when the source will be turn down manually for some period of time.
+
+![Image not Available](/assets/Fig105_33.png)
+
 Under **Activity log**, you can see the following:
 
 - Timestamp
