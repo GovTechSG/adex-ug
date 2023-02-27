@@ -747,17 +747,24 @@ Here is the demo code sample with Paho library, custom business logic is not inc
 
 ## Publish using HTTP REST ##
 
+Here are the steps to publish a topic using HTTP REST in ADEX application:
+
+- **Identify the endpoint**: You need to know the endpoint URL of the server that is configured to receive the message. This URL will typically include the protocol (e.g., http:// or https://), the hostname or IP address of the server, and a path to the resource that will receive the message.	
+- **Define the message payload**: You need to define the message payload that will be sent in the HTTP POST request. The payload will typically be a JSON or XML object that contains the message data as well as any additional metadata that is required.
+- **Set the HTTP headers**: You need to set the HTTP headers for the request, including the Content-Type header that indicates the format of the message payload (e.g., application/json).
+- **Send the HTTP POST request** to send the HTTP POST request to the server.
+- If ADEX **topic message payload** is a JSON object that contains the topic name ("my/topic") and the message content ("Hello, world!"). The HTTP POST request is sent to the "ADEX Portal" endpoint with the Content-Type header set to "application/json". Once the request is sent, the ADEX application logs a success message if the request is successful, or an error message if there is an error.
+
+
 How to **publish** via **HTTP Post**:
+	
+**Step 1:** Ready for **topic** from UI (Example: **govtech-xxxxxx/my/topic**
 
-**Step 1:** Ready for **topic** from UI (Example: **govtech-xxxxxx/my/topic**)
-
-**Step 2:** Note the **project credentials**
- 
+**Step 2:** Note the **project credentials** 
  - (a) client key (Example: **govtech-xxxxxxxx**)
  - (b) client secret (Example: **xxxxxxxxx**)
 
 **Step 3:** Setup HTTP client with the below details
-
   1. Set **HTTP POST** method
   2. Url(change **base url** per env): https://adex.gov.sg/api/topics/pub/topic/govtech-xxxxxx/my/topic
   3. Set a header **X-API-Key**: (a)client key:(b)client secret (Example: **govtech-xxxxxxx:xxxxxxxxx**)
@@ -767,6 +774,14 @@ How to **publish** via **HTTP Post**:
 **Step 4:** Set msg as **Body**
 
 ![Image not Available](/assets/Fig104.png)
+
+Here are the steps to publish a topic using HTTP REST in ADEX application:
+
+- Identify the endpoint: You need to know the endpoint URL of the server that is configured to receive the message. This URL will typically include the protocol (e.g., http:// or https://), the hostname or IP address of the server, and a path to the resource that will receive the message.	
+- Define the message payload: You need to define the message payload that will be sent in the HTTP POST request. The payload will typically be a JSON or XML object that contains the message data as well as any additional metadata that is required.
+- Set the HTTP headers: You need to set the HTTP headers for the request, including the Content-Type header that indicates the format of the message payload (e.g., application/json).
+- Send the HTTP POST request to send the HTTP POST request to the server.
+- If ADEX topic message payload is a JSON object that contains the topic name ("my/topic") and the message content ("Hello, world!"). The HTTP POST request is sent to the "ADEX Portal" endpoint with the Content-Type header set to "application/json". Once the request is sent, the ADEX application logs a success message if the request is successful, or an error message if there is an error.
  
 
 ## AMQP connection ##
