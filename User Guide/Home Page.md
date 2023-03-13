@@ -111,11 +111,17 @@ Being in a team allows you to use all features available in ADEX which was assig
 
 To join a team:
 
-**Step 1:** Select a team name from the list of teams displayed in the dropdown list, also can do search by team name.
+User can be a team member after join a team, user can join any team in any organisation.
+
+**Step 1:** In **Join team** tab, select any org from the drop down list, also can search by short name.
+
+![Image not Available](/assets/Fig105_35.png)
+
+**Step 2:** Select a team name from the list of teams displayed in the dropdown list, also can do search by team name.
 
 ![Image not Available](/assets/Fig15a.png)
 
-**Step 2:** Click **Join**.
+**Step 3:** Click **Join**.
 
 You may skip to join in a team by clicking **Skip for now**. 
 
@@ -133,13 +139,17 @@ Creating a new team allows you to manage a team by adding members and assigning 
 
 To **create a team**:
 
-**Step 1:** In **Create or join a team** pop-up window, click **+ Create team** to create new team. 
+**Step 1:** In **Create or join a team** pop-up window, click **Create team** tab
+
+**Note** Organisation field shows the user own organisation, cannot be edited
+
+**Step 2:** In **Team name** text box, enter team name
 
 ![Image not Available](/assets/Fig18a.png)
 
-**Step 2:** In **Team description** text box, type in description.
+**Step 3:** In **Team description** text box, type in description.
 
-**Step 3:** Click **Create**. 
+**Step 4:** Click **Create**. 
 
 ![Image not Available](/assets/Fig19a.png)
 
