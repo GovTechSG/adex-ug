@@ -141,7 +141,7 @@ To **create a team**:
 
 **Step 1:** In **Create or join a team** pop-up window, click **Create team** tab
 
-**Note** Organisation field shows the user own organisation, cannot be edited
+**Note**: Organisation field shows the user own organisation, cannot be edited
 
 **Step 2:** In **Team name** text box, enter team name
 
