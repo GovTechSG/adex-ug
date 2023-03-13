@@ -208,6 +208,8 @@ To **Edit role**:
 
 **Step 4:** Click **Done**.
 
+![Image not Available](/assets/Fig105_34.png)
+
 ![Image not Available](/assets/Fig39b.png)
 
 You can **Approve** or **Reject** member who request to join under your team
