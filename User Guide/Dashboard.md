@@ -206,9 +206,9 @@ To **Edit role**:
 
 **Step 3:** Click **Edit Role**, a pop-up window appears and select role.
 
-**Step 4:** Click **Done**.
-
 ![Image not Available](/assets/Fig105_34.png)
+
+**Step 4:** Click **Done**.
 
 ![Image not Available](/assets/Fig39b.png)
 
