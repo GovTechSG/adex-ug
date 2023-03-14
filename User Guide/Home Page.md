@@ -18,7 +18,7 @@ To sign up:
 Fill in the following information:
 
 - Name
-- Organisation - user can do Inline search for organisation field
+- Organisation - user can do Inline search for organisation field, the inline search function allows the user to type in the name of their organization, and the system will return a list of matching organizations to choose from.
 - Email address – Must be a valid *gov.sg* email id
 - Mobile number – Must be 8-digit in number
 - Password – For the password strength, these are the criteria to fulfill:
