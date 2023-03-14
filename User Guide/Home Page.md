@@ -77,6 +77,12 @@ Upon successful log in, the **Browse topics** page displays. For more related in
 
 To log in:
 
+**TechPass user**
+
+Click this **ADEX** portal [link](https://adex.gov.sg/adex/home) and click **Log in** button, in login page click **Sign in with TechPass** button, you can login to ADEX via Techpass MFA.
+
+**Non-TechPass user**
+
 **Step 1:**	Navigate to **Home page** and click **Log in**.
 
 **Step 2:**	Enter your registered **Email address** and **Password**.
@@ -161,6 +167,14 @@ A confirmation message is displayed that your request to create a team has been 
 
 
 ## Forgot password
+
+**Password expiry**
+
+- User password will expire after 1 year.
+- System will send email notification for user when password is going to expire within 30 days.
+- System will show the notification when password is expiring within 30 days.
+- To change the password, log in to ADEX portal, click **User profile**, click **Change password** button. 
+- Alternatively user can change the password in **Login** page, click **Forgot password**, see **[Forgot password Page](User%20Guide/Home%20Page?id=forgot-password)**
 
 To reset password:
 
