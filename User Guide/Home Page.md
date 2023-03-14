@@ -228,7 +228,6 @@ Navigate to **Profile Icon** and click **Account settings**.
 
 *Validation includes:*
 
-- *Mobile number must be 8-digit number.*
 - *Password must meet the following requirements:*
   - *At least 12 characters long*
   - *Uppercase and lowercase letters*
