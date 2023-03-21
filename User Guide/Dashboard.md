@@ -56,7 +56,6 @@ Govtech team member will receive the Join team approved email notification from 
       
   ![Image not Available](/assets/Fig105_10.png)
 
-
 You can **Create or join a team**:
 
 Team name created is **unique** in ADEX system-wide, not by organisation.
