@@ -178,7 +178,7 @@ In the event of any conflict, inconsistency or ambiguity between or in any one o
 Where GovTech is the defendant or respondent, it shall be given at least 30 days before the commencement of any legal action against it to elect to exercise the right herein to have the dispute submitted to arbitration. This right to elect shall not prejudice GovTech’s right to a limitation defence and the period to exercise the right shall not be abridged by reason of any accrual of a limitation defence in favour of GovTech during the said period.
 
 
-						These Terms of Use are dated [March 23, 2023].
+						These Terms of Use are dated March 23, 2023.
 
  
 
@@ -196,9 +196,6 @@ c.	GovTech is **NOT** responsible for the accuracy and/or quality of data shared
 
 **3.**	**Third party software/services**
 
-<!DOCTYPE html>
-<html>
-<body>
 <table>
   <tr>
     <th>S/N</th>
@@ -249,8 +246,6 @@ c.	GovTech is **NOT** responsible for the accuracy and/or quality of data shared
     <td>https://opensource.org/licenses/BSD-3-Clause</td>
   </tr>
 </table>
-</body>
-</html>
 
 Please note that the Service also uses components provided by Solace Corporation. The terms applicable to use of such components can be found here: https://products.solace.com/product_licenses/
 
