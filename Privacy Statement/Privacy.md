@@ -1,9 +1,5 @@
 
-# Privacy
-
-
-
-## Government Agency Privacy Statement
+# Government Agency Privacy Statement
 
 This Government Agency Privacy Statement (“**Privacy Statement**”) must be read in conjunction with the Terms of Use that accompany the applicable service you are requesting from us (the “**Service**”). 
 
@@ -49,9 +45,9 @@ This Government Agency Privacy Statement (“**Privacy Statement**”) must be r
 
     5.4. For your convenience, we may also display to you data you had previously supplied us or other Government Agencies.  This will speed up the transaction and save you the trouble of repeating previous submissions. Should the data be out-of-date, please supply us the latest data.
 
-5A. Please note that we may be required to disclose your data by law, including any law governing the use/provision of any service of a third party service provider or collaborator.
+ 5A. Please note that we may be required to disclose your data by law, including any law governing the use/provision of any service of a third party service provider or collaborator.
 
-6.	You may withdraw your consent to the use and disclosure of your data by us with reasonable notice and subject to any prevailing legal or contractual restrictions; however, doing so may prevent the proper functioning of the Service and may also result in the cessation of the Service to you.
+6. You may withdraw your consent to the use and disclosure of your data by us with reasonable notice and subject to any prevailing legal or contractual restrictions; however, doing so may prevent the proper functioning of the Service and may also result in the cessation of the Service to you.
 
 
 ## Protection of data
@@ -62,7 +58,7 @@ This Government Agency Privacy Statement (“**Privacy Statement**”) must be r
 
 ## Contact information
 
-9.	Please contact [email] if you:
+9.	Please contact sense@tech.gov.sg if you:
 
     9.1.	have any enquires or feedback on our data protection policies and procedures; or
 
@@ -73,7 +69,7 @@ This Government Agency Privacy Statement (“**Privacy Statement**”) must be r
 10.	In this Privacy Statement, “Government Agencies” means the Government (including its ministries, departments and organs of state) and public authorities (such as statutory boards) and “personal data” shall have the same meaning as its definition in the Personal Data Protection Act 2012 (No. 26 of 2012).
 
 
-        This version of the Privacy Statement is dated [x].
+                                           This version of the Privacy Statement is dated March 23, 2023.
  
 
 # ANNEX
