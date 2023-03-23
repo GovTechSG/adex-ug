@@ -14,7 +14,7 @@
 
 **2.**	**Nature of this Service**
 
-	Please see the Schedule for more information and terms concerning this Service.
+Please see the Schedule for more information and terms concerning this Service.
 
 **3.**	**Licence Terms and Restrictions**
 
@@ -24,9 +24,9 @@
 
 3.3.	GovTech reserves the right to:
 
-	3.3.1.	Update or modify this Service from time to time;
-	3.3.2.	Deny or restrict access to or use of the Service by any particular person without ascribing any reasons whatsoever; and
-	3.3.3.	Discontinue or terminate this Service at any time without notice or liability to you whatsoever, whereupon all rights granted to you hereunder shall also terminate forthwith. You shall further upon notice from GovTech return or destroy all copies of the Service or materials therein that you may have been provided with.
+3.3.1.	Update or modify this Service from time to time;
+3.3.2.	Deny or restrict access to or use of the Service by any particular person without ascribing any reasons whatsoever; and
+3.3.3.	Discontinue or terminate this Service at any time without notice or liability to you whatsoever, whereupon all rights granted to you hereunder shall also terminate forthwith. You shall further upon notice from GovTech return or destroy all copies of the Service or materials therein that you may have been provided with.
 
 3.4.	You will not interfere or attempt to interfere with the proper working of the Service or otherwise do anything that imposes an unreasonable or disproportionately large load on GovTech’s servers.
 
@@ -50,9 +50,9 @@
 
 4.3.	If the Third Party Terms require you to enter into an agreement directly with the Third Party, then you unconditionally agree to enter into such agreement, and in any event, to be legally bound by the Third Party Terms. For the avoidance of doubt:
 
-	4.3.1.	some Third Party Terms (particularly open-source terms) permit either a direct licence to you from the Third Party or a sublicence from GovTech to you. In such cases, your licence is a direct licence from the Third Party to you; and
+4.3.1.	some Third Party Terms (particularly open-source terms) permit either a direct licence to you from the Third Party or a sublicence from GovTech to you. In such cases, your licence is a direct licence from the Third Party to you; and
 
-	4.3.2.	the terms of your agreement with the Third Party will govern your use of the 	relevant third party software or service, and not these Terms of Use.
+4.3.2.	the terms of your agreement with the Third Party will govern your use of the 	relevant third party software or service, and not these Terms of Use.
  
 4.4.	If the Third Party Terms expressly or impliedly require GovTech to incorporate certain terms in these Terms of Use (inclusive of terms which impose any minimum or maximum standards herein, and/or terms described in Clause 4.5 below), such terms are deemed to have been so incorporated (the “**Incorporated Terms**”). Examples of Incorporated Terms include provisions which require GovTech to give you notice of certain rights and liabilities or require GovTech to ensure that you acknowledge certain matters. Similarly, if the Third Party Terms expressly or impliedly require these Terms of Use to be altered such that the Third Party Terms are complied with, the parties herein agree that the Terms of Use shall be deemed to be so altered but only to the extent necessary for compliance.
 
@@ -84,9 +84,9 @@
 
 5B.3	In the event:
 
-	5B.3.1 you are, or likely to be, required by an order of court to disclose Confidential Information; or
+5B.3.1 you are, or likely to be, required by an order of court to disclose Confidential Information; or
 	
-	5B.3.2 you have reasonable grounds to suspect the unauthorised use or disclosure or reproduction of Confidential Information;
+5B.3.2 you have reasonable grounds to suspect the unauthorised use or disclosure or reproduction of Confidential Information;
 	you shall immediately notify GovTech or the Third Party of the same and cooperate with GovTech or the Third Party to prevent or limit such disclosure.
 	
 5B.4	Nothing in this Clause 5B shall prejudice GovTech’s or the Third Party’s other rights at law.
@@ -95,22 +95,21 @@
 
 6.1.	**The Service is provided on an "as is" and “as available” basis without warranties of any kind. To the fullest extent permitted by law, GovTech does not make any representations or warranties of any kind whatsoever in relation to the Service and hereby disclaims all express, implied and/or statutory warranties of any kind to you or any third party, whether arising from usage or custom or trade or by operation of law or otherwise, including but not limited to any representations or warranties:**
 
-	6.1.1. as to the accuracy, completeness, correctness, currency, timeliness, 	reliability, availability, interoperability, security, non-infringement, title, merchantability, quality or fitness for any particular purpose of the Service; and/or
+**6.1.1.** **as to the accuracy, completeness, correctness, currency, timeliness, 	reliability, availability, interoperability, security, non-infringement, title, merchantability, quality or fitness for any particular purpose of the Service; and/or**
 
-	6.1.2. that the Service or any functions associated therewith will be uninterrupted or error-free, or that defects will be corrected or that this Service, website and the server are and will be free of all viruses and/or other malicious, destructive or corrupting code, programme or macro.
+**6.1.2.** **that the Service or any functions associated therewith will be uninterrupted or error-free, or that defects will be corrected or that this Service, website and the server are and will be free of all viruses and/or other malicious, destructive or corrupting code, programme or macro.**
 
 6.2.	**GovTech shall also not be liable to you or any third party for any damage or loss of any kind whatsoever and howsoever caused, including but not limited to any direct or indirect, special or consequential damages, loss of income, revenue or profits, lost or damaged data, or damage to your computer, software or any other property, whether or not arising directly or indirectly from –**
 
-	6.2.1. your access to or use of this Service, or any part thereof;
+**6.2.1.** **your access to or use of this Service, or any part thereof;**
 
-	6.2.2. any loss of access or use of this Service or any part of this Service, howsoever caused;
+**6.2.2.** **any loss of access or use of this Service or any part of this Service, howsoever caused;**
 
-	6.2.3. any inaccuracy or incompleteness in, or errors or omissions in the transmission of, the Service;
+**6.2.3.** **any inaccuracy or incompleteness in, or errors or omissions in the transmission of, the Service;**
 
-	6.2.4. any delay or interruption in the transmission of the Service, whether caused by delay or interruption in transmission over the internet or otherwise; or
+**6.2.4.** **any delay or interruption in the transmission of the Service, whether caused by delay or interruption in transmission over the internet or otherwise; or**
 
-	6.2.5. any decision made or action taken by you or any third party in reliance upon the Service,
-	regardless of whether GovTech has been advised of the possibility of such damage or loss.
+**6.2.5.** **any decision made or action taken by you or any third party in reliance upon the Service, regardless of whether GovTech has been advised of the possibility of such damage or loss.**
 
 6.3.	**Without prejudice and in addition to the foregoing, insofar as the Service facilitates or requires the provision, use or functioning of, or is provided in conjunction with, other products, software, materials and/or services not provided by GovTech, GovTech makes no representation or warranty in relation to such products, software, materials and/or services (including without limitation any representation or warranties as to timeliness, reliability, availability, interoperability, quality, fitness for purpose, non-infringement, suitability or accuracy).**
 
@@ -122,8 +121,8 @@
 
 6.7.	Without prejudice and in addition to GovTech’s other rights:
 
-	6.7.1.	in no event shall GovTech’s total cumulative liability arising out of or in connection with these Terms of Use to you exceed the amount of fees or payment received by GovTech (and not paid or given to any Third Party by GovTech) from you for the Service in the 12 months preceding the date of the first cause of action; and
-	6.7.2.	no action may be brought by you against GovTech arising out of or in connection with these Terms of Use more than one (1) year after the cause of action arose.
+6.7.1.	in no event shall GovTech’s total cumulative liability arising out of or in connection with these Terms of Use to you exceed the amount of fees or payment received by GovTech (and not paid or given to any Third Party by GovTech) from you for the Service in the 12 months preceding the date of the first cause of action; and
+6.7.2.	no action may be brought by you against GovTech arising out of or in connection with these Terms of Use more than one (1) year after the cause of action arose.
 
 **7.**	**Hyperlinks**
 
@@ -133,9 +132,9 @@
 
 7.3.	GovTech reserves all rights:
 
-	7.3.1.	 to disable any links to, or frames of, any materials which are unauthorised (including without limitation materials which imply endorsement by or association or affiliation with GovTech, materials containing inappropriate, profane, defamatory, infringing, obscene, indecent or unlawful topics, names, or information that violates any written law, any applicable intellectual property, proprietary, privacy or publicity rights); and
+7.3.1.	 to disable any links to, or frames of, any materials which are unauthorised (including without limitation materials which imply endorsement by or association or affiliation with GovTech, materials containing inappropriate, profane, defamatory, infringing, obscene, indecent or unlawful topics, names, or information that violates any written law, any applicable intellectual property, proprietary, privacy or publicity rights); and
 
-	7.3.2.	to disclaim responsibility and/or liability for materials that link to or frame any part of the Service. 
+7.3.2.	to disclaim responsibility and/or liability for materials that link to or frame any part of the Service. 
 
 **8.**	**Privacy Statement**
 
@@ -167,15 +166,15 @@ Subject to the rights of the Third Party and/or Singapore public sector agencies
 
 11.3.	GovTech may, at its sole discretion, refer any dispute referred to in clause 11.2 above to arbitration administered by the Singapore International Arbitration Centre (“**SIAC**”) in Singapore in accordance with the Arbitration Rules of the SIAC ("**SIAC Rules"**) for the time being in force, which rules are deemed to be incorporated by reference in this clause. Further: 
 
-	11.3.1.	The seat of the arbitration shall be Singapore.
+11.3.1.	The seat of the arbitration shall be Singapore.
 
-	11.3.2.	The tribunal shall consist of one (1) arbitrator. 
+11.3.2.	The tribunal shall consist of one (1) arbitrator. 
 
-	11.3.3.	The language of the arbitration shall be English.
+11.3.3.	The language of the arbitration shall be English.
 
-	11.3.4.	All information, pleadings, documents, evidence and all matters relating to the arbitration shall be confidential.
+11.3.4.	All information, pleadings, documents, evidence and all matters relating to the arbitration shall be confidential.
 
-	Where GovTech is the defendant or respondent, it shall be given at least 30 days before the commencement of any legal action against it to elect to exercise the right herein to have the dispute submitted to arbitration. This right to elect shall not prejudice GovTech’s right to a limitation defence and the period to exercise the right shall not be abridged by reason of any accrual of a limitation defence in favour of GovTech during the said period.
+Where GovTech is the defendant or respondent, it shall be given at least 30 days before the commencement of any legal action against it to elect to exercise the right herein to have the dispute submitted to arbitration. This right to elect shall not prejudice GovTech’s right to a limitation defence and the period to exercise the right shall not be abridged by reason of any accrual of a limitation defence in favour of GovTech during the said period.
 
 
 						These Terms of Use are dated [March 23, 2023].
