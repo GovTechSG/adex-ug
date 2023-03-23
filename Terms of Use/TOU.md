@@ -122,6 +122,7 @@ You agree that all title and interest in any feedback, requests or suggestions f
 6.7.	Without prejudice and in addition to GovTech’s other rights:
 
 6.7.1.	in no event shall GovTech’s total cumulative liability arising out of or in connection with these Terms of Use to you exceed the amount of fees or payment received by GovTech (and not paid or given to any Third Party by GovTech) from you for the Service in the 12 months preceding the date of the first cause of action; and
+
 6.7.2.	no action may be brought by you against GovTech arising out of or in connection with these Terms of Use more than one (1) year after the cause of action arose.
 
 **7.**	**Hyperlinks**
@@ -181,7 +182,7 @@ Where GovTech is the defendant or respondent, it shall be given at least 30 days
 
  
 
-##  SCHEDULE
+# SCHEDULE
 
 **1.**	**Name of Service:** Asynchronous Data Exchange (ADEX)
 
@@ -251,7 +252,7 @@ c.	GovTech is **NOT** responsible for the accuracy and/or quality of data shared
 </body>
 </html>
 
-	Please note that the Service also uses components provided by Solace Corporation. The terms applicable to use of such components can be found here: https://products.solace.com/product_licenses/
+Please note that the Service also uses components provided by Solace Corporation. The terms applicable to use of such components can be found here: https://products.solace.com/product_licenses/
 
 **4.**	**Special terms**
 
