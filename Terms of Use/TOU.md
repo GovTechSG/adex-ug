@@ -16,7 +16,7 @@
 
 	Please see the Schedule for more information and terms concerning this Service.
 
-**3.**	**Licence Terms and Restrictions **
+**3.**	**Licence Terms and Restrictions**
 
 3.1.	The Service, including the materials made available on or through the Service, is owned by, licensed to, managed or controlled by GovTech. Please see clause 4 (Third Party Materials) for more information.
 
