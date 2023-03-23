@@ -68,9 +68,7 @@ This Government Agency Privacy Statement (“**Privacy Statement**”) must be r
 
 10.	In this Privacy Statement, “Government Agencies” means the Government (including its ministries, departments and organs of state) and public authorities (such as statutory boards) and “personal data” shall have the same meaning as its definition in the Personal Data Protection Act 2012 (No. 26 of 2012).
 
-
-                                           This version of the Privacy Statement is dated March 23, 2023.
- 
+<p align=center>This version of the Privacy Statement is dated March 23, 2023. </p>
 
 # ANNEX
 
