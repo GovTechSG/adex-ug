@@ -178,7 +178,7 @@ Subject to the rights of the Third Party and/or Singapore public sector agencies
 	Where GovTech is the defendant or respondent, it shall be given at least 30 days before the commencement of any legal action against it to elect to exercise the right herein to have the dispute submitted to arbitration. This right to elect shall not prejudice GovTech’s right to a limitation defence and the period to exercise the right shall not be abridged by reason of any accrual of a limitation defence in favour of GovTech during the said period.
 
 
-						These Terms of Use are dated [**March 23, 2023**].
+						These Terms of Use are dated [March 23, 2023].
 
  
 
