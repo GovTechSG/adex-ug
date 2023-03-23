@@ -177,8 +177,7 @@ In the event of any conflict, inconsistency or ambiguity between or in any one o
 
 Where GovTech is the defendant or respondent, it shall be given at least 30 days before the commencement of any legal action against it to elect to exercise the right herein to have the dispute submitted to arbitration. This right to elect shall not prejudice GovTech’s right to a limitation defence and the period to exercise the right shall not be abridged by reason of any accrual of a limitation defence in favour of GovTech during the said period.
 
-
-						These Terms of Use are dated March 23, 2023.
+<p align=center>These Terms of Use are dated March 23, 2023. </p>
 
  
 
@@ -207,43 +206,43 @@ c.	GovTech is **NOT** responsible for the accuracy and/or quality of data shared
     <td>1</td>
      <td>GNU General Public License (GPL)</td>
     <td>Ubuntu, RHEL, Python</td>
-    <td>https://www.gnu.org/licenses/old-licenses/gpl-1.0.html</td>
+	  <td><a href="https://www.gnu.org/licenses/old-licenses/gpl-1.0.html">https://www.gnu.org/licenses/old-licenses/gpl-1.0.html</a></td>
   </tr>
   <tr>
     <td>2</td>
     <td>Mozilla Public License 2.0 </td>
     <td>Terraform, RabbitMQ, Golang (BACKEND)</td>
-    <td>https://www.mozilla.org/en-US/MPL/2.0/</td>
+    <td><a href="https://www.mozilla.org/en-US/MPL/2.0/">https://www.mozilla.org/en-US/MPL/2.0/</a></td>
   </tr>
    <tr>
     <td>3</td>
     <td>Apache License 2.0</td>
     <td>Grafana, Prometheus, Docker CE, FRONTEND</td>
-    <td>https://www.apache.org/licenses/LICENSE-2.0</td>
+    <td><a href="https://www.apache.org/licenses/LICENSE-2.0">https://www.apache.org/licenses/LICENSE-2.0</a></td>
   </tr>
    <tr>
     <td>4</td>
     <td>MIT License</td>
     <td>NodeJS (FRONTEND), Angular (FRONTEND), Golang (BACKEND)</td>
-    <td>https://opensource.org/licenses/MIT</td>
+    <td><a href="https://opensource.org/licenses/MIT">https://opensource.org/licenses/MIT</a></td>
   </tr>
    <tr>
     <td>5</td>
     <td>GPL-3.0</td>
     <td>FRONTEND</td>
-    <td>https://www.gnu.org/licenses/gpl-3.0.en.html</td>
+    <td><a href="https://www.gnu.org/licenses/gpl-3.0.en.html">https://www.gnu.org/licenses/gpl-3.0.en.html</a></td>
   </tr>
     <tr>
     <td>6</td>
     <td>BSD-2-Clause</td>
     <td>Nginx</td>
-    <td>https://opensource.org/licenses/BSD-2-Clause</td>
+    <td><a href="https://opensource.org/licenses/BSD-2-Clause">https://opensource.org/licenses/BSD-2-Clause</a></td>
   </tr>
     <tr>
     <td>7</td>
     <td>BSD-3-Clause</td>
     <td>Golang (BACKEND)</td>
-    <td>https://opensource.org/licenses/BSD-3-Clause</td>
+    <td><a href="https://opensource.org/licenses/BSD-3-Clause">https://opensource.org/licenses/BSD-3-Clause</a></td>
   </tr>
 </table>
 
