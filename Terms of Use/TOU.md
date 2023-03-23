@@ -74,7 +74,7 @@ Please see the Schedule for more information and terms concerning this Service.
 
 **5A.**	**Ownership of Feedback/Requests/Suggestions**
 
-	You agree that all title and interest in any feedback, requests or suggestions from you concerning the Services provided to GovTech shall be owned by GovTech and, without prejudice and in addition to clause 5.3, you shall waive all rights existing in or in respect of the same (including, for the avoidance of doubt, any signature requirements).
+You agree that all title and interest in any feedback, requests or suggestions from you concerning the Services provided to GovTech shall be owned by GovTech and, without prejudice and in addition to clause 5.3, you shall waive all rights existing in or in respect of the same (including, for the avoidance of doubt, any signature requirements).
 
 **5B.**	**Confidentiality**
 
@@ -152,11 +152,11 @@ Subject to the rights of the Third Party and/or Singapore public sector agencies
 
 **10A.** **Severability**
 
-	If any term of these Terms of Use is held by a court or tribunal of competent jurisdiction to be invalid or unenforceable, then these Terms of Use, including all of the remaining terms, will remain in full force and effect as if such invalid or unenforceable term had never been included but, to the extent permissible, such invalid or unenforceable terms shall be deemed to have been replaced by terms that are (a) valid and enforceable and (b) express the intention or produce the result closest to the original intention of the invalid or unenforceable terms.
+If any term of these Terms of Use is held by a court or tribunal of competent jurisdiction to be invalid or unenforceable, then these Terms of Use, including all of the remaining terms, will remain in full force and effect as if such invalid or unenforceable term had never been included but, to the extent permissible, such invalid or unenforceable terms shall be deemed to have been replaced by terms that are (a) valid and enforceable and (b) express the intention or produce the result closest to the original intention of the invalid or unenforceable terms.
 	
 **10B.** **Order of Precedence**
 
-	In the event of any conflict, inconsistency or ambiguity between or in any one or more terms in these Terms of Use, such conflict, inconsistency or ambiguity shall be resolved in favour of GovTech and the provision or interpretation which is more favourable to GovTech shall prevail. Notwithstanding any other term, GovTech has the sole and absolute discretion to determine which term or interpretation is more favourable to it and such decision shall be binding on you.
+In the event of any conflict, inconsistency or ambiguity between or in any one or more terms in these Terms of Use, such conflict, inconsistency or ambiguity shall be resolved in favour of GovTech and the provision or interpretation which is more favourable to GovTech shall prevail. Notwithstanding any other term, GovTech has the sole and absolute discretion to determine which term or interpretation is more favourable to it and such decision shall be binding on you.
 	
 **11.**	**Governing Law and Dispute Resolution**
 
@@ -199,7 +199,6 @@ c.	GovTech is **NOT** responsible for the accuracy and/or quality of data shared
 <html>
 <body>
 <table>
-  
   <tr>
     <th>S/N</th>
     <th>OSS Licence</th>  
@@ -248,7 +247,6 @@ c.	GovTech is **NOT** responsible for the accuracy and/or quality of data shared
     <td>Golang (BACKEND)</td>
     <td>https://opensource.org/licenses/BSD-3-Clause</td>
   </tr>
-
 </table>
 </body>
 </html>
