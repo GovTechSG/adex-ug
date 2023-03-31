@@ -34,5 +34,7 @@ One advantage of ADEX, it is good for frequent traffic and lightweight networks.
 
 You can check relevant information about request-response versus publish-subscribe [here](https://blog.opto22.com/optoblog/request-response-vs-pub-sub-part-1) and which one to use [here](https://blog.opto22.com/optoblog/request-response-vs-pub-sub-part-2).
 
+## Does ADEX encrypt or decrypt my data/payload?
 
-
+ADEX uses the Transport Layer Security (TLS) to encrypt data in transit. There is no encryption and decryption of data facilitated by ADEX. Data providers and data consumers are recommended to enforce encryption, e.g., JSON Web Encryption (JWE), to protect sensitive data at rest and in transit.
+ 
