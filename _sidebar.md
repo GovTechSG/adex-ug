@@ -1,3 +1,5 @@
+* Release notes
+  * [2023](Release%20notes/Release)
 * Onboarding guide
   * [ADEX Portal](Onboarding%20Guide/ADEX%20Portal)
   * [Sign up](Onboarding%20Guide/Sign%20up)
