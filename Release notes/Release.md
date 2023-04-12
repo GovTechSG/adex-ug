@@ -286,7 +286,7 @@ To check more info see **[Adaptor](User%20Guide/Browse%20Topic)**
 <table>
   <tr style="background:none;"> 
   <td><div style=text-align:left;>
-  <img src="./releasenotesicon/sample codes.png" style="width: 40px; height: 40px;"></div></td><td><h3><b>Sample Codes</b></h3></td>
+  <img src="./releasenotesicon/samplecodes.png" style="width: 40px; height: 40px;"></div></td><td><h3><b>Sample Codes</b></h3></td>
   </tr>
 </table>
 
