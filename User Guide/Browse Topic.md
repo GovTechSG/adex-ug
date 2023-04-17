@@ -110,7 +110,7 @@ Publisher can **View Payload** after they published via MQTT Client by downlaodi
 - **Suspend** topic
 - **Delete** own topic only
 
-For related information about how to **Create child topics**, **Suspend topics**, see **[Projects](/User%20Guide/Projects)**
+For related information about how to **Create child topic**, **Suspend topic**, see **[Projects](/User%20Guide/Projects)**
 
 ![Image not Available](/assets/Fig93.png)
 
