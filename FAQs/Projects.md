@@ -4,7 +4,7 @@ FAQs for projects includes questions about project information.
 
 ## How long is the validity of the project certs? 
 
-1 year.
+2 years.
 
 ## Who can regenerate the certs? 
 
