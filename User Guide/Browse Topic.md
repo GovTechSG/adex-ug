@@ -68,16 +68,44 @@ As a **Publisher** you can view 3 tabs as follows:
 
 In this tab you can **view the topic details** and can do the following: 
 
-- See the topic overview
+- See the topic overview - topic path, topic description, view payload, project name
 - See folders and its subfolders within the topic
 - Edit folders and its subfolders within the topic
 - Subscribe to the topic
 - See the status of the topic
 - Edit own topic only
-- See subscribers to the topic
+- View payload - Payload last seen time and can copy large payload to clipboard
 
 ![Image not Available](/assets/Fig30.png)
 
+**Publisher to view payload from portal**
+
+Publisher can **View Payload** after they published via MQTT Client by downlaoding the SSL certs from the Projects page.
+
+**Step 1** Navigate to **Browse topics**.
+
+**Step 2:** On click a topic that you have published via MQTT Client and the **Topic details** page displayed.
+
+**Step 3:** Click **View Paylaod** button.
+
+**Step 4:** In Paylaod preview pop-up, click **Show paylaod** button.
+  
+![Image not Available](/assets/Fig105_12.png)
+
+**Note:** Payload preview supports JSON, XML, and text formats
+
+**Step 5:** Hover the **last seen 1 day ago** as shown in the below screenshot, user can see **Payload last seen time**.
+
+![Image not Available](/assets/Fig105_11.png)
+
+**Step 6:** Click the **copy tooltip icon** in the payload preview, user can copy the paylaod into clipboard
+
+![Image not Available](/assets/Fig105_10.png)
+  
+**Note:** *User can copy large payload to clipboard*
+
+![Image not Available](/assets/Fig105_13.png)
+   
 - Create new child topics from the folder
 - **Suspend** topic
 - **Delete** own topic only
@@ -157,6 +185,8 @@ In this tab you can view the topic subscribed details:
 
 **Step 7:** Click **Create**.
 
+**Note:** Custom corn experssion should not be less than 5 minutes.
+
 After you have created adaptor you could see the following in **Adaptor** tab
 
 - Adaptor details
@@ -171,7 +201,25 @@ Under **Adaptor details**, you can see the following:
 - Created date
 - Updated date
 
+Information about the Status of **Adaptor**
+
+- Adaptor **Pending** - status, if any one of **Edit adaptor** form input fields need to be updated from UI, then the status of the adaptor will be pending.
+
+![Image not Available](/assets/Fig105_32.png)
+
+![Image not Available](/assets/Fig105_31.png)
+
+- Adaptor **Active** - status where the adaptor is Active.
+
 ![Image not Available](/assets/Fig81.png)
+
+- Adaptor **Blocked** - HTTP adaptor might be blocked when source is down for long period. But it will be auto re-activated periodically.
+
+![Image not Available](/assets/Fig105_30.png)
+
+- Adaptor **Suspended** - status when the source will be turn down manually for some period of time.
+
+![Image not Available](/assets/Fig105_33.png)
 
 Under **Activity log**, you can see the following:
 
@@ -199,10 +247,18 @@ As a **Subscriber** you can see the following:
 - See folders and its subfolders within the topic
 - Subscribe to the topic
 - See the status of the topic
+- View payload
+- Payload last seen time
+- Copy large payload to clipboard
+
+**Topic details** page
 
 ![Image not Available](/assets/Fig78.png)
 
-After you have **subscribed** to the topic, you can preview the content by clicking **View payload** in the **Topic details** page. 
+After you have **subscribed** to the topic, you can preview the content by clicking **View payload**, can seePayload last seen time**, subscriber can see **Payload last seen time**.
 
 ![Image not Available](/assets/Fig83.png)
 
+Subscriber can **Copy large payload to clipboard**
+
+![Image not Available](/assets/Fig105_16.png)
