@@ -191,6 +191,8 @@ b.	This Service is only offered to specific entities and may be terminated at an
 
 c.	GovTech is **NOT** responsible for the accuracy and/or quality of data shared between  any public sector agencies and yourself. Please direct any issues concerning the data to the public sector agency in question. Additionally, you agree that your collection, use and/or disclosure of the data may be subject to additional terms with such public sector agency which shall apply in addition (and do not replace) these Terms of Use.
 
+d.	Your use of the Service may require an onboarding or testing phase (such as a phase for user acceptance tests) for such time as may be determined by GovTech in its sole and absolute discretion. Without prejudice to GovTech’s other rights, you agree and acknowledge that GovTech shall not be responsible for any issue or delay caused by such phase, including any malfunction or errors arising therefrom.
+
 **3.**	**Third party software/services**
 
 <table>
