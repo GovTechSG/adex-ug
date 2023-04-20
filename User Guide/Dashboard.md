@@ -48,11 +48,11 @@ User join one or more teams within your organisation. **For example**, a GovTech
 
 User join to other organisation team. **For example**, a Govtech member can join to any NEA team, Govtech member need to wait for NEA to approve.
  
-NEA team admin, receive the **join team** request email notification.
+NEA team admin received the **join team** request email notification.
       
  ![Image not Available](/assets/Fig105_9.png)
 
-Govtech team member will receive the Join team approved email notification from NEA.
+Govtech team member will receive join team approved email notification from NEA.
       
   ![Image not Available](/assets/Fig105_10.png)
 
