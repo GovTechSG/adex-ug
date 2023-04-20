@@ -34,7 +34,7 @@ To **Join a team**
 
 ![Image not Available](/assets/Fig105_5.png)
 
-**Step 3:** Select **Team name** form the drop down list, user can enter the **Team name** to do in-line search.
+**Step 3:** Select **Team name** from the drop down list, can do in-line search by short **Team name**.
 
 ![Image not Available](/assets/Fig105_6.png)
 
@@ -42,17 +42,17 @@ To **Join a team**
 
 **Step 4:** Click **Join**.
 
-Join team request is now sent to Team admin for approval. User can see the request status=Pending.
+Join team request is now sent to Team admin for approval,Team request **status=Pending**.
 
-User can join one or more teams within your organisation. **For example**, a GovTech member can join to any Govtech team. Use the **Add member** button to add members from other organisations.
+User join one or more teams within your organisation. **For example**, a GovTech member can join to any Govtech team. 
+
+User join to other organisation team. **For example**, a Govtech member can join to any NEA team, Govtech member need to wait for NEA to approve.
  
-User can join to other organisation team. **For example**, a NEA team member can join to any Govtech team, NEA user need to wait for Govtech team admin to approve join team request.
- 
-NEA Team admin can receive the join team email notification from requestor as per above example is a Govtech team member.
+NEA team admin, receive the **join team** request email notification.
       
  ![Image not Available](/assets/Fig105_9.png)
 
-Govtech team member will receive the Join team approved email notification from NEA team member.
+Govtech team member will receive the Join team approved email notification from NEA.
       
   ![Image not Available](/assets/Fig105_10.png)
 
@@ -64,7 +64,7 @@ To **Create a new team**:
 
 **Step 1:** Click **Join team**. A **Create or join a team** pop-up windows appears.
 
-**Step 2:** **Orgnaisation** field shows defailt the users organisation, user **cannot** do edit the field to create a new team in other organisation.
+**Step 2:** **Orgnaisation** field shows defailt the users organisation, user **cannot** do edit the organisation field.
 
 **Step 2:** Enter name in **Team name** and click **+ Create team**.
 
@@ -74,17 +74,18 @@ To **Create a new team**:
 
 ![Image not Available](/assets/Fig35a.png)
 
-The newly created team is subjected to Super admin approval. Once approved, the newly created team will appear under **Teams I manage** tab. Now you are the creator of this team, your role is Team admin. Now as Team Admin you can approve or reject members via **Join team request**.
+The newly created team is subjected to System admin approval. Once approved, the newly created team will appear under **Teams I manage** tab. Now you are the creator of this team, your role is Team admin. Now as Team Admin you can approve or reject members via **Join team request**.
 
 **Note:** 
 
-*User cannot create a team which already exists in ADEX.* **For example**: Team name: QA, if user again need to create a new team name : QA, then system won't allow to create, instead user need to rename the Team name: QA to QA1 or any name and now if user tries to create a new team name: QA then system will allow user to create.
+*User cannot create a team which already exists in ADEX. 
+***For example**: Team name: QA already exists in ADEX, if user tries to create a duplicate team name : QA, then system won't allow to create, instead user need to rename the Team name: QA to QA1 or any name and now if user tries to create a new team name: QA then system will allow user to create.
 
-- Once you sent **Create new team** request to Super admin, your team name will be shown under **My requests** tab with **status=Pending**.
+- Once you sent **Create new team** request to System admin, your team name will be shown under **My requests** tab with **status=Pending**.
 
 ![Image not Available](/assets/Fig35c.png)
 
-- When Super admin rejects your **"Create new team"** request, you could view the team **status=Rejected** under **My requests** tab.
+- When System admin rejects your **"Create new team"** request, you could view the team **status=Rejected** under **My requests** tab.
 
 ![Image not Available](/assets/Fig35d.png)
 
@@ -343,15 +344,15 @@ The Team admin can see the status of the request as **Pending** under **Teams I 
 
 ## Announcements
 
-All users will receive **new announcements** in ADEX once sent by ADEX Super admin.
+All users will receive **new announcements** in ADEX once sent by ADEX System admin.
 
-User can see announcements in the **ADEX Home** page and in users **Dashboard > Announcements** page.
+User can see announcements in the **ADEX Home** page and **Dashboard > Announcements** page.
 
 To view announcement in **Home page**
 
 **Step 1:** Go to **ADEX Home** page.
 
-User can see the new announcements in the Home page with dated.
+User can see the new announcements in the **Home page**.
 
 ![Image not Available](/assets/Fig105_17.png)
 
@@ -359,7 +360,7 @@ User can see the new announcements in the Home page with dated.
 
 **Steps 3:** In Browse topics page, system shows bell icon highlighted in red for new notifications, click the bell icon ![Image not Available](/assets/Fig105_19.png).
 
-User can see the new all unread annoucements which are active by date.
+User can see the new all **unread annoucements** which are **active** by date.
 
 ![Image not Available](/assets/Fig105_18.png)
 
@@ -369,11 +370,11 @@ User can see all notification under **All** tab.
 
 ![Image not Available](/assets/Fig105_20.png)
 
-**Steps 5:** Click Unread tab
+**Steps 5:** Click **Unread** tab
 
 User can see all the messages which are unread.
 
-**Note:** *If the announcement message expired based on date, user cannot see in announcement tab*, **For example**: If date of announcemnet end date is yesterday date, then user cannot see the announcement today, only Active announcement can be seen by user.
+**Note:** *Inactive announcemeannouncements will not be shown in the announcemnet tab*, **For example**:Annoucement Inactive is when the date of announcement is Expired.
 
 ![Image not Available](/assets/Fig105_21.png)
 
@@ -385,7 +386,8 @@ User can do search announcemnt
 
 **Steps 7:** Click **Mark all as read** button
 
-- User can see all the messages read and no messages in the **Unread** tab.
-- User also can see the bell icon not highlighted, since all messages are read.
+- Unread messages in the **Unread** tab.
+- All messages are read then Bell notification icon [Image not Available](/assets/Fig105_19.png)
+ not highlighted.
 
 ![Image not Available](/assets/Fig105_23.png)
