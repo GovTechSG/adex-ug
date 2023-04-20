@@ -74,18 +74,17 @@ To **Create a new team**:
 
 ![Image not Available](/assets/Fig35a.png)
 
-The newly created team is subjected to System admin approval. Once approved, the newly created team will appear under **Teams I manage** tab. Now you are the creator of this team, your role is Team admin. Now as Team Admin you can approve or reject members via **Join team request**.
+The newly created team is subjected to System admin approval. Once approved, the newly created team will appear under **Teams I manage** tab. Now you are the creator of this team, your role is Team admin. Now as Team Admin you can approve or reject **Join team request**. 
 
 **Note:** 
-
-*User cannot create a team which already exists in ADEX. 
-***For example**: Team name: QA already exists in ADEX, if user tries to create a duplicate team name : QA, then system won't allow to create, instead user need to rename the Team name: QA to QA1 or any name and now if user tries to create a new team name: QA then system will allow user to create.
+*User cannot create duplicate teams*. 
+***For example**: Team name: QA already exists in ADEX, system wont allow to create team name: QA*.
 
 - Once you sent **Create new team** request to System admin, your team name will be shown under **My requests** tab with **status=Pending**.
 
 ![Image not Available](/assets/Fig35c.png)
 
-- When System admin rejects your **"Create new team"** request, you could view the team **status=Rejected** under **My requests** tab.
+- When System admin rejects your **Create new team** request, you could view the team **status=Rejected** under **My requests** tab.
 
 ![Image not Available](/assets/Fig35d.png)
 
@@ -178,7 +177,6 @@ If user role **status= Disabled**, when user left the org, all team members in t
 
 ![Image not Available](/assets/Fig38a.png)
 
-
 To **Search** for team members:
 
 **Step 1:** Go to **Dashboard** > **Teams**.
@@ -190,7 +188,6 @@ To **Search** for team members:
 **Step 4:** Enter team member name in the search field.
 
 **Step 5:** Alternatively you can search team members by Email or by Roles.
-
 
 To **Edit role**:
 
@@ -370,7 +367,7 @@ User can see all notification under **All** tab.
 
 ![Image not Available](/assets/Fig105_20.png)
 
-**Steps 5:** Click **Unread** tab
+**Steps 5:** Click **Unread** tab.
 
 User can see all the messages which are unread.
 
@@ -384,10 +381,10 @@ User can do search announcemnt
 
 ![Image not Available](/assets/Fig105_22.png)
 
-**Steps 7:** Click **Mark all as read** button
+**Steps 7:** Click **Mark all as read** button.
 
 - Unread messages in the **Unread** tab.
-- All messages are read then Bell notification icon [Image not Available](/assets/Fig105_19.png)
+- When all messages are read then Bell notification icon [Image not Available](/assets/Fig105_19.png)
  not highlighted.
 
 ![Image not Available](/assets/Fig105_23.png)
