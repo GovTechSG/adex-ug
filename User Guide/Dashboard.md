@@ -353,7 +353,7 @@ To view announcement in **Home page**
 
 User can see the new announcements in the Home page with dated.
 
-![Image not Available](/assets/Fig105_17.png).
+![Image not Available](/assets/Fig105_17.png)
 
 **Steps 2:** **Login** to ADEX.
 
