@@ -61,7 +61,7 @@ You can **Create or join a team**:
 
 Team name created is **unique** in ADEX system-wide, not by organisation.
 
-To **Create a new team**:  
+To **Create a new team**:
 
 **Step 1:** Click **Join team**. A **Create or join a team** pop-up windows appears.
 
