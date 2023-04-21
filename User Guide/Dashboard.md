@@ -383,6 +383,6 @@ User can do search announcemnt
 
 **Steps 7:** Click **Mark all as read** button.
 
-- User can see all Announcement messages are read and Bell icon is not highlighted ![Image not Available](/assets/Fig105_37.png).
+- User can see all Announcement messages are read and Bell icon is not highlighted ![Image not Available](/assets/Fig105_38.png).
 
 ![Image not Available](/assets/Fig105_23.png)
