@@ -64,7 +64,7 @@ To **Create a new team**:
 
 **Step 1:** Click **Join team**. A **Create or join a team** pop-up windows appears.
 
-**Step 2:** **Orgnaisation** field shows defailt the users organisation, user **cannot** do edit the organisation field.
+**Step 2:** **Orgnaisation** field shows defailt the users organisation, organisation field **cannot** edit.
 
 **Step 2:** Enter name in **Team name** and click **+ Create team**.
 
@@ -78,7 +78,7 @@ The newly created team is subjected to System admin approval. Once approved, the
 
 **Note:** 
 *User cannot create duplicate teams*. 
-***For example**: Team name: QA already exists in ADEX, system wont allow to create team name: QA*.
+***For example**: In ADEX Team name: QA is active, system wont allow to recreate duplicate team name: QA*.
 
 - Once user sent **Create new team** request to System admin, user team name will be shown under **My requests** tab with **status=Pending**.
 
@@ -90,15 +90,15 @@ The newly created team is subjected to System admin approval. Once approved, the
 
 ## Teams I manage
 
-When user selects **Teams I manage** tab, you can view the list of teams you manage in which you are the Team Admin.
+When user selects **Teams I manage** tab, user can view the list of teams where user **role=Team Admin**.
 
 When user click a team name under **Teams I manage**, user can see Team name, Organisation name, Created by(hover the name user can see the Email ID) and team created date.
 
-and user can click ![Image not Available](/assets/icon9.png) you could see actions:
+Team admin can click ![Image not Available](/assets/icon9.png) and could see actions:
 
-- **Add member**, can add other organisations members into your team with a legitimate **gov.sg** email address 
+- **Add member**, can add other organisations members into the team with a legitimate **gov.sg** email address 
 - **Edit team**, can update team name and team description
-- **Leave team**, can delete the team if user are the only team admin
+- **Leave team**, can delete the team if user is the only Team admin in the team
 
 ![Image not Available](/assets/Fig34_b.png)
 
@@ -137,7 +137,7 @@ To **Edit team** name and description:
 
 To **Add member** in team:
 
- **Note:** *You as team admin, you can add team member under teams and assign any role.*
+ **Note:** *As team admin, user can add team member under teams and assign any role.*
 
 **Step 1:** Go to **Dashboard** > **Teams**.
 
@@ -155,7 +155,7 @@ To **Add member** in team:
 ![Image not Available](/assets/Fig39a.png)
 
 
-*In **Members** tab, you can view the list of the team members, search by member details and edit assigned roles*.
+*In **Members** tab, user can view the list of the team members, search by member details and edit assigned roles*.
 
 To **view the list of team members**:
 
@@ -187,7 +187,7 @@ To **Search** for team members:
  
 **Step 4:** Enter team member name in the search field.
 
-**Step 5:** Alternatively, user can search team members by Email or by Roles.
+**Step 5:** Alternatively user can search team members by Email or by Roles.
 
 To **Edit role**:
 
@@ -261,9 +261,9 @@ If user is the member of the team, user role in the team can be Publisher or Sub
 
 ## My teams
 
-In **My teams** tab, you can view the Team names, click any team name, at the right side of the pane, you can see Team name, Organisation, Created by and date.
+In **My teams** tab, user can view the Team names, click any team name, at the right side of the pane, user can see Team name, Organisation, Created by and date.
 
-Also under team name you can view the following:
+Also under team name user can view the following:
 
 - Team description
 - Members
@@ -275,11 +275,11 @@ To view **Team description**:
 
 **Step 2:** Click a team under **My teams** tab. 
 
-**Step 3:** Click **About** tab, you can see the team's description.
+**Step 3:** Click **About** tab, user can see the team's description.
 
 ![Image not Available](/assets/Fig36a.png)
 
-In **Members** tab, you can view the list of the team members and can do search team member by name or by email or by Roles.
+In **Members** tab, user can view the list of the team members and can do search team member by name or by email or by Roles.
 
 To view the **list of team members**:
 
@@ -306,13 +306,13 @@ To **Search** for team members:
  
 **Step 4:** Enter member name in the search field.
 
-**Step 5:** Alternatively you can search team members by **Email** or by **Roles**.
+**Step 5:** Alternatively user can search team members by **Email** or by **Roles**.
 
 To **Leave team**:
 
 **Step 1:** Go to **Dashboard** > **Teams**.
 
-**Step 2:** Under **My teams** tab, click ![Image not Available](/assets/icon9.png) and select **Leave team**. A pop-up windows appears to confirm that you want to leave the team you selected.
+**Step 2:** Under **My teams** tab, click ![Image not Available](/assets/icon9.png) and select **Leave team**. A pop-up windows appears to confirm that user want to leave the team you selected.
 
 **Step 5:** Click **Leave team**. 
 
@@ -320,9 +320,9 @@ To **Leave team**:
 
 **Note:** 
 
-  - You cannot leave the team, if you are the only Team admin with other members.
-  - You can leave the team if you are the only member of the team.
-  - You can leave the team when you are one of the team admins.
+  - User cannot leave the team, if user is the only Team admin with other members.
+  - User can leave the team if user is the only member of the team.
+  - User can leave the team when user is one of the team admins.
 
 
 **Step 5:** Click the checkbox and click **Delete**.
@@ -331,7 +331,7 @@ To **Leave team**:
 
 ## My requests
 
-Once you **join a team** you can see the request under **My requests** tab. 
+Once user **join a team** user can see the request under **My requests** tab. 
  
 ![Image not Available](/assets/Fig105_8.png)
 
