@@ -383,8 +383,6 @@ User can do search announcemnt
 
 **Steps 7:** Click **Mark all as read** button.
 
-- Unread messages in the **Unread** tab.
-- When all messages are read then Bell notification icon ![Image not Available](/assets/Fig105_19.png)
- not highlighted.
+- User can see all Announcement messages are read and Bell icon is not highlighted ![Image not Available](/assets/Fig105_19.png).
 
 ![Image not Available](/assets/Fig105_23.png)
