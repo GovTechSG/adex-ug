@@ -10,9 +10,9 @@ The **Dashboard** displays the following:
 - Announcements
 - Join team - Create new team, Join team
 
-Under **Teams** tab, you can view your teams and team details or search your teams.
+Under **Teams** tab, user can view teams and team details or search teams.
 
-On the left side pane, you can see the following:
+On the left side pane, user can see the following:
 
 - **Teams I manage**, includes all teams where user role is admin
 - **My teams**, includes other teams where user is a member, if user is admin, user should also a member of the team
@@ -34,7 +34,7 @@ To **Join a team**
 
 ![Image not Available](/assets/Fig105_5.png)
 
-**Step 3:** Select **Team name** form the drop down list, user can enter the **Team name** to do in-line search.
+**Step 3:** Select **Team name** from the drop down list, can do in-line search by short **Team name**.
 
 ![Image not Available](/assets/Fig105_6.png)
 
@@ -42,21 +42,21 @@ To **Join a team**
 
 **Step 4:** Click **Join**.
 
-Join team request is now sent to Team admin for approval. User can see the request status=Pending.
+Join team request is now sent to Team admin for approval,Team request **status=Pending**.
 
-User can join one or more teams within your organisation. **For example**, a GovTech member can join to any Govtech team. Use the **Add member** button to add members from other organisations.
+User join one or more teams within the same organisation. **For example**, a GovTech member can join to any Govtech team. 
+
+User join to other organisation team. **For example**, a Govtech member can join to any NEA team, Govtech member need to wait for NEA to approve.
  
-User can join to other organisation team. **For example**, a NEA team member can join to any Govtech team, NEA user need to wait for Govtech team admin to approve join team request.
- 
-NEA Team admin can receive the join team email notification from requestor as per above example is a Govtech team member.
+NEA team admin received the **join team** request email notification.
       
  ![Image not Available](/assets/Fig105_9.png)
 
-Govtech team member will receive the Join team approved email notification from NEA team member.
+Govtech team member will receive join team approved email notification from NEA.
       
   ![Image not Available](/assets/Fig105_10.png)
 
-You can **Create or join a team**:
+User can **Create or join a team**:
 
 Team name created is **unique** in ADEX system-wide, not by organisation.
 
@@ -64,7 +64,7 @@ To **Create a new team**:
 
 **Step 1:** Click **Join team**. A **Create or join a team** pop-up windows appears.
 
-**Step 2:** **Orgnaisation** field shows defailt the users organisation, user **cannot** do edit the field to create a new team in other organisation.
+**Step 2:** **Orgnaisation** field shows defailt the users organisation, organisation field **cannot** edit.
 
 **Step 2:** Enter name in **Team name** and click **+ Create team**.
 
@@ -74,31 +74,31 @@ To **Create a new team**:
 
 ![Image not Available](/assets/Fig35a.png)
 
-The newly created team is subjected to Super admin approval. Once approved, the newly created team will appear under **Teams I manage** tab. Now you are the creator of this team, your role is Team admin. Now as Team Admin you can approve or reject members via **Join team request**.
+The newly created team is subjected to System admin approval. Once approved, the newly created team will appear under **Teams I manage** tab. Now user is the creator of this team, if user role is Team admin. Now as Team Admin can approve or reject **Join team request**. 
 
 **Note:** 
+*User cannot create duplicate teams*. 
+***For example**: In ADEX Team name: QA is active, system wont allow to recreate duplicate team name: QA*.
 
-*User cannot create a team which already exists in ADEX.* **For example**: Team name: QA, if user again need to create a new team name : QA, then system won't allow to create, instead user need to rename the Team name: QA to QA1 or any name and now if user tries to create a new team name: QA then system will allow user to create.
-
-- Once you sent **Create new team** request to Super admin, your team name will be shown under **My requests** tab with **status=Pending**.
+- Once user sent **Create new team** request to System admin, user team name will be shown under **My requests** tab with **status=Pending**.
 
 ![Image not Available](/assets/Fig35c.png)
 
-- When Super admin rejects your **"Create new team"** request, you could view the team **status=Rejected** under **My requests** tab.
+- When System admin rejects **Create new team** request, user could view the team **status=Rejected** under **My requests** tab.
 
 ![Image not Available](/assets/Fig35d.png)
 
 ## Teams I manage
 
-When you select **Teams I manage** tab, you can view the list of teams you manage in which you are the Team Admin.
+When user selects **Teams I manage** tab, user can view the list of teams where user **role=Team Admin**.
 
-When you click a team name under **Teams I manage**, you can see Team name, Organisation name, Created by(hover the name you can see the Email ID) and team created date.
+When user click a team name under **Teams I manage**, user can see Team name, Organisation name, Created by(hover the name user can see the Email ID) and team created date.
 
-and you can click ![Image not Available](/assets/icon9.png) you could see actions:
+Team admin can click ![Image not Available](/assets/icon9.png) and could see actions:
 
-- **Add member**, can add other organisations members into your team with a legitimate **gov.sg** email address 
+- **Add member**, can add other organisations members into the team with a legitimate **gov.sg** email address 
 - **Edit team**, can update team name and team description
-- **Leave team**, can delete the team if you are the only team admin
+- **Leave team**, can delete the team if user is the only Team admin in the team
 
 ![Image not Available](/assets/Fig34_b.png)
 
@@ -137,7 +137,7 @@ To **Edit team** name and description:
 
 To **Add member** in team:
 
- **Note:** *You as team admin, you can add team member under teams and assign any role.*
+ **Note:** *As team admin, user can add team member under teams and assign any role.*
 
 **Step 1:** Go to **Dashboard** > **Teams**.
 
@@ -155,7 +155,7 @@ To **Add member** in team:
 ![Image not Available](/assets/Fig39a.png)
 
 
-*In **Members** tab, you can view the list of the team members, search by member details and edit assigned roles*.
+*In **Members** tab, user can view the list of the team members, search by member details and edit assigned roles*.
 
 To **view the list of team members**:
 
@@ -177,7 +177,6 @@ If user role **status= Disabled**, when user left the org, all team members in t
 
 ![Image not Available](/assets/Fig38a.png)
 
-
 To **Search** for team members:
 
 **Step 1:** Go to **Dashboard** > **Teams**.
@@ -188,12 +187,11 @@ To **Search** for team members:
  
 **Step 4:** Enter team member name in the search field.
 
-**Step 5:** Alternatively you can search team members by Email or by Roles.
-
+**Step 5:** Alternatively user can search team members by Email or by Roles.
 
 To **Edit role**:
 
-*You can also edit team member's role if you are the creator of the team and your role is Team Admin of that team*.
+*User can also edit team member's role if user is the creator of the team and user role is Team Admin of that team*.
 
 ![Image not Available](/assets/Fig72.png)
 
@@ -211,7 +209,7 @@ To **Edit role**:
 
 ![Image not Available](/assets/Fig39b.png)
 
-You can **Approve** or **Reject** member who request to join under your team
+Team admin can **Approve** or **Reject** member who request to join under the team
 
 To **Approve** team member **Pending** request:
 
@@ -219,7 +217,7 @@ To **Approve** team member **Pending** request:
 
 **Step 2:** Click the team name to approve the **Join team** request for team member.
 
-**Step 3:** You can see team member request status=pending, click ![Image not Available](/assets/icon9.png) and select **Approve**. Once approved, the status became Active.
+**Step 3:** User can see team member request **status=pending**, click ![Image not Available](/assets/icon9.png) and select **Approve**. Once approved, the status became Active.
 
 ![Image not Available](/assets/Fig39c.png)
 
@@ -229,11 +227,11 @@ To **Reject** team member **Pending** request:
 
 **Step 2:** Click the team name to reject the **Join team** request for team member.
 
-**Step 3:** You can see team member request status=pending, click ![Image not Available](/assets/icon9.png) and select **Reject**. Once rejected, the status became Rejected.
+**Step 3:** User can see team member request status=pending, click ![Image not Available](/assets/icon9.png) and select **Reject**. Once rejected, the status became Rejected.
 
 ![Image not Available](/assets/Fig39d.png)
 
-Leaving the team also means deleting the team if you are the only person who left in the team. Once you leave the team, all the topics related to the team will also be deleted. 
+Leaving the team also means deleting the team if user is the only person who left in the team. Once user left the team, all the topics related to the team will also be deleted. 
 
 To **Leave** team:
 
@@ -241,7 +239,7 @@ To **Leave** team:
 
 **Step 2:** Select a team to leave team under **Teams I manage** tab.
 
-**Step 3:** Click ![Image not Available](/assets/icon9.png)  and click **Leave team** button, a pop-up windows appears to confirm that you want to leave the team you selected.
+**Step 3:** Click ![Image not Available](/assets/icon9.png)  and click **Leave team** button, a pop-up windows appears to confirm that user want to leave the selected team.
 
 **Step 4:** Click **Leave team**. 
 
@@ -263,9 +261,9 @@ If user is the member of the team, user role in the team can be Publisher or Sub
 
 ## My teams
 
-In **My teams** tab, you can view the Team names, click any team name, at the right side of the pane, you can see Team name, Organisation, Created by and date.
+In **My teams** tab, user can view the Team names, click any team name, at the right side of the pane, user can see Team name, Organisation, Created by and date.
 
-Also under team name you can view the following:
+Also under team name user can view the following:
 
 - Team description
 - Members
@@ -277,11 +275,11 @@ To view **Team description**:
 
 **Step 2:** Click a team under **My teams** tab. 
 
-**Step 3:** Click **About** tab, you can see the team's description.
+**Step 3:** Click **About** tab, user can see the team's description.
 
 ![Image not Available](/assets/Fig36a.png)
 
-In **Members** tab, you can view the list of the team members and can do search team member by name or by email or by Roles.
+In **Members** tab, user can view the list of the team members and can do search team member by name or by email or by Roles.
 
 To view the **list of team members**:
 
@@ -308,13 +306,13 @@ To **Search** for team members:
  
 **Step 4:** Enter member name in the search field.
 
-**Step 5:** Alternatively you can search team members by **Email** or by **Roles**.
+**Step 5:** Alternatively user can search team members by **Email** or by **Roles**.
 
 To **Leave team**:
 
 **Step 1:** Go to **Dashboard** > **Teams**.
 
-**Step 2:** Under **My teams** tab, click ![Image not Available](/assets/icon9.png) and select **Leave team**. A pop-up windows appears to confirm that you want to leave the team you selected.
+**Step 2:** Under **My teams** tab, click ![Image not Available](/assets/icon9.png) and select **Leave team**. A pop-up windows appears to confirm that user want to leave the team you selected.
 
 **Step 5:** Click **Leave team**. 
 
@@ -322,9 +320,9 @@ To **Leave team**:
 
 **Note:** 
 
-  - You cannot leave the team, if you are the only Team admin with other members.
-  - You can leave the team if you are the only member of the team.
-  - You can leave the team when you are one of the team admins.
+  - User cannot leave the team, if user is the only Team admin with other members.
+  - User can leave the team if user is the only member of the team.
+  - User can leave the team when user is one of the team admins.
 
 
 **Step 5:** Click the checkbox and click **Delete**.
@@ -333,7 +331,7 @@ To **Leave team**:
 
 ## My requests
 
-Once you **join a team** you can see the request under **My requests** tab. 
+Once user **join a team** user can see the request under **My requests** tab. 
  
 ![Image not Available](/assets/Fig105_8.png)
 
@@ -343,23 +341,23 @@ The Team admin can see the status of the request as **Pending** under **Teams I 
 
 ## Announcements
 
-All users will receive **new announcements** in ADEX once sent by ADEX Super admin.
+All users will receive **new announcements** in ADEX once sent by ADEX System admin.
 
-User can see announcements in the **ADEX Home** page and in users **Dashboard > Announcements** page.
+User can see announcements in the **ADEX Home** page and **Dashboard > Announcements** page.
 
 To view announcement in **Home page**
 
 **Step 1:** Go to **ADEX Home** page.
 
-User can see the new announcements in the Home page with dated.
+User can see the new announcements in the **Home page**.
 
-![Image not Available](/assets/Fig105_17.png).
+![Image not Available](/assets/Fig105_17.png)
 
 **Steps 2:** **Login** to ADEX.
 
 **Steps 3:** In Browse topics page, system shows bell icon highlighted in red for new notifications, click the bell icon ![Image not Available](/assets/Fig105_19.png).
 
-User can see the new all unread annoucements which are active by date.
+User can see the new all **unread annoucements** which are **active** by date.
 
 ![Image not Available](/assets/Fig105_18.png)
 
@@ -369,11 +367,11 @@ User can see all notification under **All** tab.
 
 ![Image not Available](/assets/Fig105_20.png)
 
-**Steps 5:** Click Unread tab
+**Steps 5:** Click **Unread** tab.
 
 User can see all the messages which are unread.
 
-**Note:** *If the announcement message expired based on date, user cannot see in announcement tab*, **For example**: If date of announcemnet end date is yesterday date, then user cannot see the announcement today, only Active announcement can be seen by user.
+**Note:** *Inactive announcemeannouncements will not be shown in the announcemnet tab*, **For example**:Annoucement Inactive is when the date of announcement is Expired.
 
 ![Image not Available](/assets/Fig105_21.png)
 
@@ -383,18 +381,8 @@ User can do search announcemnt
 
 ![Image not Available](/assets/Fig105_22.png)
 
-**Steps 7:** Click **Mark all as read** button
+**Steps 7:** Click **Mark all as read** button.
 
-- User can see all the messages read and no messages in the **Unread** tab.
-- User also can see the bell icon not highlighted, since all messages are read.
+- User can see all Announcement messages are read and Bell icon is not highlighted ![Image not Available](/assets/Fig105_37.png).
 
 ![Image not Available](/assets/Fig105_23.png)
-
-
-
-
-
-
-
-
-
