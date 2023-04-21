@@ -10,7 +10,7 @@ The **Dashboard** displays the following:
 - Announcements
 - Join team - Create new team, Join team
 
-Under **Teams** tab, you can view teams and team details or search your teams.
+Under **Teams** tab, you can view your teams and team details or search your teams.
 
 On the left side pane, you can see the following:
 
@@ -51,11 +51,11 @@ You can join to other organisation's team. **For example**, a Govtech member can
  
 NEA team admin received the **join team** request email notification.
       
- ![Image not Available](/assets/Fig105_9.png)
+![Image not Available](/assets/Fig105_9.png)
 
 Govtech team member will receive join team approved email notification from NEA.
       
-  ![Image not Available](/assets/Fig105_10.png)
+![Image not Available](/assets/Fig105_10.png)
 
 You can **Create or join a team**:
 
@@ -67,11 +67,11 @@ To **Create a new team**:
 
 **Step 2:** **Orgnaisation** field shows defailt the users organisation, organisation field **cannot** edit.
 
-**Step 2:** Enter name in **Team name** and click **+ Create team**.
+**Step 3:** Enter name in **Team name** and click **+ Create team**.
 
-**Step 3:** Enter description in **Team description**.
+**Step 4:** Enter description in **Team description**.
 
-**Step 4:** Click **Create**.
+**Step 5:** Click **Create**.
 
 ![Image not Available](/assets/Fig35a.png)
 
@@ -184,7 +184,6 @@ To **Search** for team members:
 
 **Step 5:** Alternatively you can search team members by Email or by Roles.
 
-
 To **Edit role**:
 
 *You can also edit team member's role if you are the creator of the team and your role is Team Admin of that team*.
@@ -228,7 +227,6 @@ To **Reject** team member **Pending** request:
 ![Image not Available](/assets/Fig39d.png)
 
 Leaving the team also means deleting the team if you are the only person who left in the team. Once you leave the team, all the topics related to the team will also be deleted. 
-
 
 To **Leave** team:
 
