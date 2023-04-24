@@ -7,6 +7,8 @@ The **Dashboard** displays the following:
 - Overview - TBD
 - Teams 
 - Billing - TBD
+- Announcements
+- Join team - Create new team, Join team
 
 Under **Teams** tab, you can view your teams and team details or search your teams.
 
@@ -23,23 +25,63 @@ Under **Teams I manage**, click any team name, at the right side pane, displays 
 
  **Note:** *You can join one or more teams within your organisation. For example, a GovTech member can join to any Govtech team. Use the **Add member** button to add members from other organisations*.
 
+You can **Join a team**:
+
+To **Join a team**
+
+**Step 1:** Click **Join team** button. A **Create or join a team** pop-up windows appears.
+
+**Step 2:** Click **Join team** tab, you can select the organisation name from the drop down list.
+
+![Image not Available](/assets/Fig105_5.png)
+
+**Step 3:** Select **Team name** from the drop down list, you can do in-line search by short **Team name**.
+
+![Image not Available](/assets/Fig105_6.png)
+
+![Image not Available](/assets/Fig105_7.png)
+
+**Step 4:** Click **Join**.
+
+Join team request is now sent to Team admin for approval, Team request **status=Pending**.
+
+You can join one or more teams within the same organisation. **For example**, a GovTech member can join to any Govtech team. 
+
+You can join to other organisation's team. **For example**, a Govtech member can join to any NEA team, Govtech member need to wait for NEA Team admin to approve.
+ 
+NEA team admin received the **join team** request email notification.
+      
+![Image not Available](/assets/Fig105_9.png)
+
+Govtech team member will receive join team approved email notification from NEA.
+      
+![Image not Available](/assets/Fig105_10.png)
+
 You can **Create or join a team**:
 
-To **Create a new team**:  
+Team name created is **unique** in ADEX system-wide, not by organisation.
+
+To **Create a new team**:
 
 **Step 1:** Click **Join team**. A **Create or join a team** pop-up windows appears.
 
-**Step 2:** Enter name in **Team name** and click **+ Create team**.
+**Step 2:** **Orgnaisation** field shows defailt the users organisation, organisation field **cannot** edit.
 
-**Step 3:** Enter description in **Team description**.
+**Step 3:** Enter name in **Team name** and click **+ Create team**.
 
-**Step 4:** Click **Create**.
+**Step 4:** Enter description in **Team description**.
+
+**Step 5:** Click **Create**.
 
 ![Image not Available](/assets/Fig35a.png)
 
 The newly created team is subjected to Super admin approval. Once approved, the newly created team will appear under **Teams I manage** tab. Now you are the creator of this team, your role is Team admin. Now as Team Admin you can approve or reject members via **Join team request**.
 
 **Note:** 
+
+*User cannot create duplicate teams*. 
+***For example**: In ADEX Team name: QA is active, system won't allow to recreate duplicate team name: QA*.
+
 - Once you sent **Create new team** request to Super admin, your team name will be shown under **My requests** tab with **status=Pending**.
 
 ![Image not Available](/assets/Fig35c.png)
@@ -66,8 +108,6 @@ Also you can view the following tabs:
  - **About** tab, view Team description 
  - **Members** tab, view member details 
  - **Projects**, view Projects list
-
-![Image not Available](/assets/Fig72a.png)
 
 To view **About** this team information:
 
@@ -114,7 +154,6 @@ To **Add member** in team:
 
 ![Image not Available](/assets/Fig39a.png)
 
-
 *In **Members** tab, you can view the list of the team members, search by member details and edit assigned roles*.
 
 To **view the list of team members**:
@@ -131,7 +170,6 @@ To **view the list of team members**:
 - Status - such as Active, Pending, Rejected
 - Action
 
-
 ![Image not Available](/assets/Fig38a.png)
 
 To **Search** for team members:
@@ -146,7 +184,6 @@ To **Search** for team members:
 
 **Step 5:** Alternatively you can search team members by Email or by Roles.
 
-
 To **Edit role**:
 
 *You can also edit team member's role if you are the creator of the team and your role is Team Admin of that team*.
@@ -160,6 +197,8 @@ To **Edit role**:
 **Step 3:** Select a team member to edit role, click Action , click ![Image not Available](/assets/icon9.png).
 
 **Step 3:** Click **Edit Role**, a pop-up window appears and select role.
+
+![Image not Available](/assets/Fig105_34.png)
 
 **Step 4:** Click **Done**.
 
@@ -204,6 +243,16 @@ To **Leave** team:
 **Step 5:** Click the checkbox and click **Delete**.
 
 ![Image not Available](/assets/Fig74.png)
+
+To view **Projects** tab
+
+**Step 1:** click the **Projects** tab to see the pub and sub projects, Project name, Description and No. of topics pub and sub done for each project.
+
+**Step 2:** On click the project name, system will navigate to Project details page.
+
+If you are the member of the team, your role in the team can be Publisher or Subscriber or Team admin.
+
+![Image not Available](/assets/Fig105_11.png)
 
 ## My teams
 
@@ -270,7 +319,6 @@ To **Leave team**:
   - You can leave the team if you are the only member of the team.
   - You can leave the team when you are one of the team admins.
 
-
 **Step 5:** Click the checkbox and click **Delete**.
 
 ![Image not Available](/assets/Fig75.png)
@@ -278,9 +326,57 @@ To **Leave team**:
 ## My requests
 
 Once you **join a team** you can see the request under **My requests** tab. 
-
-![Image not Available](/assets/Fig43b.png)
+ 
+![Image not Available](/assets/Fig105_8.png)
 
 The Team admin can see the status of the request as **Pending** under **Teams I manage** tab.
 
 ![Image not Available](/assets/Fig43c.png)
+
+## Announcements
+
+You will receive **new announcements** in ADEX once sent by ADEX System admin.
+
+You can see announcements in the **ADEX Home** page and **Dashboard > Announcements** page.
+
+To view announcement in **Home page**
+
+**Step 1:** Go to **ADEX Home** page.
+
+You can see the new announcements in the **Home page**.
+
+![Image not Available](/assets/Fig105_17.png)
+
+**Steps 2:** **Login** to ADEX.
+
+**Steps 3:** In Browse topics page, system shows bell icon highlighted in red for new notifications, click the bell icon ![Image not Available](/assets/Fig105_19.png).
+
+You can see the new all your **unread annoucements** which are **active** by date.
+
+![Image not Available](/assets/Fig105_18.png)
+
+**Steps 4:** Go to **Dashbaord** > Click **Announcements** tab, click **All** tab.
+
+You can see all notification under **All** tab.
+
+![Image not Available](/assets/Fig105_20.png)
+
+**Steps 5:** Click **Unread** tab.
+
+You can see all the messages which are unread.
+
+**Note:** *Inactive announcemeannouncements will not be shown in the announcemnet tab*, **For example**:Annoucement Inactive is when the date of announcement is Expired.
+
+![Image not Available](/assets/Fig105_21.png)
+
+**Steps 6:** Enter a message to do **Search**, click enter.
+
+You can do **search** announcemnt
+
+![Image not Available](/assets/Fig105_22.png)
+
+**Steps 7:** Click **Mark all as read** button.
+
+- You can see all **Announcement** messages are read and Bell icon is not highlighted ![Image not Available](/assets/Fig105_38.png).
+
+![Image not Available](/assets/Fig105_23.png)
