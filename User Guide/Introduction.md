@@ -36,5 +36,5 @@ There are several roles within the ADEX application.
 
   - Browse topics 
   - Create new team only in same organisation, Join a team in any organisation
-  - Cannot Subscribe to topics
   - Cannot create projects and topics
+  - Cannot Subscribe to topics
