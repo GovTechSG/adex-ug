@@ -20,7 +20,7 @@ There are several roles within the ADEX application.
   
 - **Publisher**	
 
-  - Browse topics and verify topic details
+  - Browse topics and update topic details
   - Create new team only in same organisation, Join a team in any organisation
   - Create Publish and Subscribe projects
   - **Publish** and **Subscribe** to topics
