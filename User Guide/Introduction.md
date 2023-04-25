@@ -16,25 +16,25 @@ There are several roles within the ADEX application.
   - **Browse all topics** published by publisher from **other organisations** based on the visibility **"Only my team"**
   - **Publish** and **Subscribe** to topics
   - **Manage teams** such as Create new teams, Edit team details, Add team members, Edit role of team members and Leave team
-  - **Join team** in any organisation, and first time user role will be **Viewer** for the team.
+  - **Join new team** in any organisation, and first time user role will be **Viewer** for the team.
   
 - **Publisher**	
 
   - Browse topics and verify topic details
-  - Create new team, Create projects and topics
-  - Join a team in any org as **Viewer**
+  - Create new team only in same organisation, Join a team in any organisation
+  - Create Publish and Subscribe projects
   - **Publish** and **Subscribe** to topics
   
 - **Subscriber**
 
-  - Browse topics 
-  - Create new team, Create only **Subscribe type** projects
-  - Join a team in any org as **Viewer**
+  - Browse topics
+  - Create new team only in same organisation, Join a team in any organisation
+  - Create only **Subscribe type** projects
   - Subscribe to topics
   
 - **Viewer**
 
   - Browse topics 
-  - Create new team, Join a team
+  - Create new team only in same organisation, Join a team in any organisation
   - Cannot Subscribe to topics
   - Cannot create projects and topics
