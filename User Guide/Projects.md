@@ -140,7 +140,7 @@ After creating a new project, go to **Connections** tab. This tab shows the **co
 ![Image not Available](/assets/Fig105_2.png)
 
  **Note:** 
- *The **Private key password** for the projects, user will receive in their email inbox*. 
+ *The **Private key password** for the projects, you will receive in their email inbox*. 
  
  ![Image not Available](/assets/Fig99f.png)
 
@@ -256,11 +256,11 @@ You will receive the **Project cert expires soon!** email, 30 days before the 3 
  
 ![Image not Available](/assets/Fig99k.png)
  
- - After the certs have expired, user will still receive the **project expired!** email for the next 7 days.
+ - After the certs have expired, you will still receive the **project expired!** email for the next 7 days.
  
 ![Image not Available](/assets/Fig99e.png)
 
-From the portal, user can see the certs **status=Expired**, user can click the **Generate new certificate** button to start using the MQTT client again.
+From the portal, you can see the certs **status=Expired**, you can click the **Generate new certificate** button to start using the MQTT client again.
 
 ![Image not Available](/assets/Fig99m.png)
 
