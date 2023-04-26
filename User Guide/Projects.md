@@ -52,7 +52,7 @@ Also, the newly created project appears in the list of project in the Project pa
 
 ![Image not Available](/assets/Fig105_1.png)
 
-- User can create projects from project details page using **Create new project**.
+- You can create projects from project details page using **Create new project**.
 
 ![Image not Available](/assets/Fig105.png)
 
