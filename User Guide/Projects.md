@@ -129,8 +129,8 @@ After creating a new project, go to **Connections** tab. This tab shows the **co
 - SSL Client certificate
 - SSL Private key 
 - Private key password - you will receive this in your email.
-- Click Download certificate, pop-up to download the certs in .zip, enter a password to save the file in your local.
-- Alternatively you can also copy and save the certificates in a .PEM text editor file.
+- Click Download certificate, pop-up to download the certs in .zip, enter a password and save the zip file in your computer.
+- Alternatively you can also copy and save the certificates as a .pem files using a text editor.
 
 **Note:**
  *New **SSL certificate expires** after 2 years instead of 1 year*.
@@ -140,22 +140,21 @@ After creating a new project, go to **Connections** tab. This tab shows the **co
 ![Image not Available](/assets/Fig105_2.png)
 
  **Note:** 
- *The **Private key password** for the projects, you will receive in their email inbox*. 
+ *The **Private key password** for the project will be sent to your email*
  
  ![Image not Available](/assets/Fig99f.png)
 
- - Alternatively, click **Generate certificate** button to generate new certificate if their **project certificate is expired!**
- 
+ - Alternatively, click **Generate certificate** button to generate new certificate if the **project certificate is expired!**
+
  ![Image not Available](/assets/Fig99e.png)
  
  You will receive a **Private key password** through email and use that password in the **Client key passphrase** for your MQTT client set up.
 
 ![Image not Available](/assets/Fig38.png)
 
-
 To set up **MQTT Client connection**:
 
-**Step 1:** Click Download certificate, you can see a pop-up to download SSL certs as .pem file in .zip file, enter a password to save the file in your local.
+**Step 1:** Click Download certificate, you can see a pop-up to download SSL certs as .pem file in .zip file, enter a password and save the zip file in your computer.
 
 **Step 2:** Unzip the folder, you can see 3 SSL certs as .pem files.
 
@@ -246,13 +245,13 @@ If you didn't save the SSL certs files for the first time, you can regenerate th
 
 ![Image not Available](/assets/Fig99f.png)
 
-You will receive a **Private key password** through email and use that password in the **Client key passphrase** for their MQTT client set up.
+You will receive a **Private key password** through email and use that password in the **Client key passphrase** for the MQTT client set up.
 
 ![Image not Available](/assets/Fig38.png)
 
 You will receive the email for **project cert expires soon**!
 
-You will receive the **Project cert expires soon!** email, 30 days before the 3 certs expires!
+You will receive the **Project cert expires soon!** email, 30 days before the 3 certs expire!
  
 ![Image not Available](/assets/Fig99k.png)
  
@@ -270,7 +269,7 @@ From the portal, you can see the certs **status=Expired**, you can click the **G
  
  ![Image not Available](/assets/vidsetupmqttcon.gif)
 
-**Step 1:** Download the SSL certificates in a .zip file and save, you can unzip and can see 3 .PEM files separately.
+**Step 1:** Download the SSL certificates in a .zip file and save, you can unzip and can see 3 .pem files separately.
 
 **Step 2:** Now, open MQTT Client.
 
@@ -745,11 +744,11 @@ Here is the demo code sample with Paho library, custom business logic is not inc
 
 Here are the steps to publish a topic using HTTP REST in ADEX application:
 
-- **Identify the endpoint**: You need to know the endpoint URL of the server that is configured to receive the message. This URL will typically include the protocol (e.g., http:// or https://), the hostname or IP address of the server, and a path to the resource that will receive the message.	
+- **Identify the endpoint**: You need to know the endpoint URL of the server that is configured to receive the message. This URL will typically include the protocol (e.g. https://), the hostname of the server, and a path to the resource that will receive the message.	
 - **Define the message payload**: You need to define the message payload that will be sent in the HTTP POST request. The payload will typically be a JSON or XML object that contains the message data as well as any additional metadata that is required.
 - **Set the HTTP headers**: You need to set the HTTP headers for the request, including the Content-Type header that indicates the format of the message payload (e.g., application/json).
 - **Send the HTTP POST request** to send the HTTP POST request to the server.
-- If ADEX **topic message payload** is a JSON object that contains the topic name ("my/topic") and the message content ("Hello, world!"). The HTTP POST request is sent to the "ADEX Portal" endpoint with the Content-Type header set to "application/json". Once the request is sent, the ADEX application logs a success message if the request is successful, or an error message if there is an error.
+- If ADEX **topic message payload** is a JSON object that contains the topic name ("my/topic") and the message content {"Hello": "World!". The HTTP POST request is sent to the "ADEX Portal" endpoint with the Content-Type header set to "application/json". Once the request is sent, the system logs a success if the request is successful, or an error message if there is an error.
 
 How to **publish** via **HTTP Post**:
 	
@@ -866,8 +865,7 @@ You can refer for more details on mosquitto commands in on clicking the **[Link]
 
 ## My topics ##
 
-After creating a project, you can create first topic. The **My topics** tab is only available for **Publisher**. This tab shows the topic that you have published for this project.
-
+After creating a project, you can create your first topic. The **My topics** tab is only available for **Publisher**. This tab shows the topic that you have published for this project.
 
 To **Create topic**:
 
@@ -902,7 +900,7 @@ To **Create topic**:
 - **Topic description** – Enter description to the topic
 - **Tags** – Add tags to the topic maximum of 5 tags
 - **Is approval needed for subscription requests?**
-  - **Yes** – Approval is needed from publisher before you subscribe to MQTT Client
+  - **Yes** – Approval is needed from publisher before you can receive data to your MQTT Client
   - **No** – Allows free access to the topic and no approval needed from the publisher
 
 ![Image not Available](/assets/Fig47.png)
@@ -915,7 +913,7 @@ You can see the newly created topic being added in **Projects** page > click **P
 
 ![Image not Available](/assets/Fig49.png)
 
-You can add more topics within the topic on their own project by selecting from topic folders and clicking the ![Image not Available](/assets/icon9.png) icon.
+You can add more topics under a topic by selecting from the topic folder and clicking the ![Image not Available](/assets/icon9.png) icon.
 
 **Note** *Alternatively you can create new topic by clicking the profile icon > click **create button** and click **New topic***.
 
