@@ -7,16 +7,16 @@ It contains **Connection** strings and **SSL certificates** to set up an MQTT (M
 
 MQTT connection is recommended to **Publish** and **Subscribe** topics on ADEX. **AMQP** is also supported.
 
-To **Publish** the information, user must first create their own project to **Create topic**. A topic cannot be duplicated and cannot published and subscribed by the same project.
+To **Publish** the information, you must first create your own project to **Create topic**. A topic cannot be duplicated and cannot published and subscribed by the same project.
 
 **Subscriber** roles can only create **Subscribe type** project. 
 **Publisher** roles can create both project types.
 
-In **Projects** page, user can see list of all **Publish** and **Subscribe** projects containing number of topics being grouped together. Select a project to see **project details**, **connection status**, **published** or **subscribed topics**, and it's **activity** log.
+In **Projects** page, you can see list of all **Publish** and **Subscribe** projects containing number of topics being grouped together. Select a project to see **project details**, **connection status**, **published** or **subscribed topics**, and it's **activity** log.
 
 ![Image not Available](/assets/Fig32b.png)
 
-User can **create new project** by clicking **Create** button on the top right of the **Browse topics** page and select **New project**.
+You can **create new project** by clicking **Create** button on the top right of the **Browse topics** page and select **New project**.
 
 ![Image not Available](/assets/Fig31.png)
 
@@ -28,23 +28,23 @@ Or, click **Projects** from the left side navigation bar.
 
 To **Create project**:
 
-**Step 1:**	Click **Create project** button, click **New project**. The projects page is displayed. 
+**Step 1:** Click **Create project** button, click **New project**. The projects page is displayed. 
 
-**Note:** *For users first project, user will see this page as shown below.*
+**Note:** *For your first project, you will see this page as shown below.*
 
 ![Image not Available](/assets/Fig33.png)
 
-**Step 2:**	Enter the following information:
+**Step 2:** Enter the following information:
 
   - Project name
-  - Team - Once user selects a team, user can choose the type of project
+  - Team - Once you select a team, you can choose the type of project
   - Project type - Publish, Subscribe
   - Project duration
   - Description
 
 ![Image not Available](/assets/Fig34.png)
 
-- Click **Create**, user can see the newly created project details in the project details page.
+- Click **Create**, the newly created project appears in the list of project in the Project page.
 
 ![Image not Available](/assets/Fig51a.png)
 
@@ -58,19 +58,19 @@ Also, the newly created project appears in the list of project in the Project pa
 
 **Note** 
 
-- User can **update** the project by clicking **Save**, after user have updated the project, user will receive an **email notification**.
+- You can **update** the project by clicking **Save**, after you have updated the project, you will receive an **email notification**.
 
 ![Image not Available](/assets/Fig99g.png)
 
-- User can **delete** the project by clicking **Delete**, after user have deleted the project, the topics attached to the project will be deleted and user will receive **email notification**.
+- You can **delete** the project by clicking **Delete**, after you have deleted the project, the topics attached to the project will be deleted and you will receive **email notification**.
 
 ![Image not Available](/assets/Fig99h.png)
 
-- User can **Search projects**
+- You can **Search projects**
 
 ![Image not Available](/assets/Fig99i.png)
 
-- User can use **Filters** to filters projects by:
+- You can use **Filters** to filters projects by:
 
     - Project type - Publish, Subscribe
     - Date created
@@ -81,9 +81,9 @@ Also, the newly created project appears in the list of project in the Project pa
 
 ![Image not Available](/assets/Fig99j.png)
 
-**Note** *User can use **Clear all filters** to reset the filters.*
+**Note** *You can use **Clear all filters** to reset the filters.*
 
-User will receive a notification email when their **project expired**, user may extend the project period before it get suspended.
+You will receive a notification email when your **project expired**, You may extend the project period before it get suspended.
 
 ![Image not Available](/assets/Fig99d.png)
 
@@ -128,9 +128,9 @@ After creating a new project, go to **Connections** tab. This tab shows the **co
 - SSL Certificate chain
 - SSL Client certificate
 - SSL Private key 
-- Private key password - user will receive this in their email inbox.
-- Click Download certificate, user can see a pop-up to download the certs in .zip, user can enter a password to save the file in their local.
-- Alternatively, user can also copy and save the certificates in a .PEM text editor file.
+- Private key password - you will receive this in your email.
+- Click Download certificate, pop-up to download the certs in .zip, enter a password to save the file in your local.
+- Alternatively you can also copy and save the certificates in a .PEM text editor file.
 
 **Note:**
  *New **SSL certificate expires** after 2 years instead of 1 year*.
@@ -141,25 +141,25 @@ After creating a new project, go to **Connections** tab. This tab shows the **co
 
  **Note:** 
  *The **Private key password** for the projects, user will receive in their email inbox*. 
-
+ 
  ![Image not Available](/assets/Fig99f.png)
 
  - Alternatively, click **Generate certificate** button to generate new certificate if their **project certificate is expired!**
  
  ![Image not Available](/assets/Fig99e.png)
  
- User will receive a **Private key password** through email and use that password in the **Client key passphrase** for your MQTT client set up.
+ You will receive a **Private key password** through email and use that password in the **Client key passphrase** for your MQTT client set up.
 
 ![Image not Available](/assets/Fig38.png)
 
 
 To set up **MQTT Client connection**:
 
-**Step 1:**	Click Download certificate, user can see a pop-up to download SSL certs as .pem file in .zip file, user can enter a password to save the file in their local.
+**Step 1:** Click Download certificate, you can see a pop-up to download SSL certs as .pem file in .zip file, enter a password to save the file in your local.
 
-**Step 2:**	Unzip the folder, user can see 3 SSL certs as .pem files.
+**Step 2:** Unzip the folder, you can see 3 SSL certs as .pem files.
 
-**Step 3:**	Now, open MQTT Client.
+**Step 3:** Now, open MQTT Client.
 
 ![Image not Available](/assets/Fig39.png)
 
@@ -171,8 +171,7 @@ To set up **MQTT Client connection**:
 - **Protocol** - Select protocol. For example, *mqtt/tls*
 - **Host** - Enter **Unique MQTT URL** 
 
-- Upload each .PEM file in the following fields: 
-
+- Upload each file you copied in a text editor in the following fields:
   - CA file
   - Client certificate file
   - Private key file
@@ -183,8 +182,7 @@ To set up **MQTT Client connection**:
 
 - Click **Save** and connected successfully.
 
-
-As a **Publisher** user are now ready to publish a topic.
+As a **Publisher** you are now ready to publish a topic.
 
 ![Image not Available](/assets/Fig41.png)
 
@@ -236,26 +234,25 @@ After creating a new project, go to **Connections** tab. This tab shows the **co
 - SSL Certificate chain
 - SSL Client certificate
 - SSL Private key - this box will be shown once 
-- Private key password - user will receive this in their email.
+- Private key password - you will receive this in your email.
 
 ![Image not Available](/assets/Fig36.png)
 
-**Note**: User need to download and save all the 3 SSL certs as .pem file using a text editor.
+**Note**: You need to download and save all the 3 SSL certs as .pem file using a text editor.
 
-If user didn't save the SSL certs files for the first time, user can regenerate the certs by clicking **Generate new certificate** button, and user can select an **extended grace period** for SSL client certificate.
+If you didn't save the SSL certs files for the first time, you can regenerate the certs by clicking **Generate new certificate** button, you can select an **extended grace period** for SSL client certificate.
 
 ![Image not Available](/assets/Fig105_3.png)
 
 ![Image not Available](/assets/Fig99f.png)
 
-
-User will receive a **Private key password** through email and use that password in the **Client key passphrase** for their MQTT client set up.
+You will receive a **Private key password** through email and use that password in the **Client key passphrase** for their MQTT client set up.
 
 ![Image not Available](/assets/Fig38.png)
 
- User will receive the email for **project cert expires soon**!
+You will receive the email for **project cert expires soon**!
 
- User will receive the **Project cert expires soon!** email, 30 days before the 3 certs expires!
+You will receive the **Project cert expires soon!** email, 30 days before the 3 certs expires!
  
 ![Image not Available](/assets/Fig99k.png)
  
@@ -267,16 +264,15 @@ From the portal, user can see the certs **status=Expired**, user can click the *
 
 ![Image not Available](/assets/Fig99m.png)
 
-
  To set up **MQTT Client connection**:
  
  How to **set up MQTT client connection**:
  
  ![Image not Available](/assets/vidsetupmqttcon.gif)
 
-**Step 1:**	Download the SSL certificates in a .zip file and save, user can unzip and can see 3 .PEM files separately.
+**Step 1:** Download the SSL certificates in a .zip file and save, you can unzip and can see 3 .PEM files separately.
 
-**Step 2:**	Now, open MQTT Client.
+**Step 2:** Now, open MQTT Client.
 
 ![Image not Available](/assets/Fig39.png)
 
@@ -300,7 +296,7 @@ From the portal, user can see the certs **status=Expired**, user can click the *
 
 - Click **Save** and connected successfully.
 
-As a **Publisher** user is now ready to publish a topic.
+As a **Publisher** you are now ready to publish a topic.
 
 ![Image not Available](/assets/Fig41.png)
 
@@ -722,7 +718,7 @@ Categorising MQTT topics for browsing (with synonyms):
 
 To set up **Web socket connection**:
 
-**Step 1:**	Open MQTT Client.
+**Step 1:** Open MQTT Client.
 
 ![Image not Available](/assets/Fig39.png)
 
@@ -754,7 +750,6 @@ Here are the steps to publish a topic using HTTP REST in ADEX application:
 - **Set the HTTP headers**: You need to set the HTTP headers for the request, including the Content-Type header that indicates the format of the message payload (e.g., application/json).
 - **Send the HTTP POST request** to send the HTTP POST request to the server.
 - If ADEX **topic message payload** is a JSON object that contains the topic name ("my/topic") and the message content ("Hello, world!"). The HTTP POST request is sent to the "ADEX Portal" endpoint with the Content-Type header set to "application/json". Once the request is sent, the ADEX application logs a success message if the request is successful, or an error message if there is an error.
-
 
 How to **publish** via **HTTP Post**:
 	
@@ -852,7 +847,7 @@ For more related information about AMQP, refer to this [link](https://docs.micro
 
 ## Testing with Mosquitto MQTT ##
 
-User may test the MQTT connection using mosquitto commands.
+You may test the MQTT connection using mosquitto commands.
 
 **Command**
 
@@ -871,7 +866,7 @@ User can refer for more details on mosquitto commands in on clicking the **[Link
 
 ## My topics ##
 
-After creating a project, user can create first topic. The **My topics** tab is only available for **Publisher**. This tab shows the topic that user have published for this project.
+After creating a project, you can create first topic. The **My topics** tab is only available for **Publisher**. This tab shows the topic that you have published for this project.
 
 
 To **Create topic**:
@@ -880,7 +875,7 @@ To **Create topic**:
 
 ![Image not Available](/assets/Fig43.png)
 
-**Step 2:** Select a type of topic if user want to create a new one or add as a sub-topic. Click **Next**.
+**Step 2:** Select a type of topic if you want to create a new one or add as a sub-topic. Click **Next**.
 
 ![Image not Available](/assets/Fig43e.png)
 
@@ -894,15 +889,15 @@ To **Create topic**:
 
 ![Image not Available](/assets/Fig44.png)
 
-**Step 4:**	Select data classification. Click **Next**.
+**Step 4:** Select data classification. Click **Next**.
 
 ![Image not Available](/assets/Fig45.png)
 
-**Step 5:**	Select the project and enter topic name. Click **Next**.
+**Step 5:** Select the project and enter topic name. Click **Next**.
 
 ![Image not Available](/assets/Fig46.png)
 
-**Step 6:**	Fill in the following details of the topic.
+**Step 6:** Fill in the following details of the topic.
 
 - **Topic description** – Enter description to the topic
 - **Tags** – Add tags to the topic maximum of 5 tags
@@ -916,28 +911,27 @@ To **Create topic**:
 
 ![Image not Available](/assets/Fig69.png)
 
-User can see the newly created topic being added in **Projects** page > click **Project name** > **My topics** tab.
+You can see the newly created topic being added in **Projects** page > click **Project name** > **My topics** tab.
 
 ![Image not Available](/assets/Fig49.png)
 
-User can add more topics within the topic on their own project by selecting from topic folders and clicking the 
-![Image not Available](/assets/icon9.png) icon.
+You can add more topics within the topic on their own project by selecting from topic folders and clicking the ![Image not Available](/assets/icon9.png) icon.
 
-**Note** *Alternatively, user can create new topic by clicking the profile icon > click **create button** and click **New topic***.
+**Note** *Alternatively you can create new topic by clicking the profile icon > click **create button** and click **New topic***.
 
 ### Add topic within a topic ###
 
 To add **New topic** as sub-topic:
 
-**Step 1:**	Navigate to **Projects** page > click **Project name** > **My topics** tab.
+**Step 1:** Navigate to **Projects** page > click **Project name** > **My topics** tab.
 
-**Step 2:**	Select a topic and click ![Image not Available](/assets/icon9.png) icon.
+**Step 2:** Select a topic and click ![Image not Available](/assets/icon9.png) icon.
 
 **Step 3:** Click **New topic**. A new window appears to create new topic.
 
 ![Image not Available](/assets/Fig48.png)
 
-**Step 3:**	Enter topic name and click **Create**.
+**Step 3:** Enter topic name and click **Create**.
 
 ![Image not Available](/assets/Fig52.png)
 
@@ -948,13 +942,13 @@ The newly created topic is added successfully in the Topic Details page.
 
 To edit topic:
 
-**Step 1:**	Navigate **Projects** page, select project. 
+**Step 1:** Navigate **Projects** page, select your project. 
 
 **Step 2:** Click **My topics** tab.
 
-**Step 3:**	Select a topic to edit and the **Topic details** page displayed. 
+**Step 3:** Select a topic to edit and the **Topic details** page displayed. 
 
-**Step 4:**	Click **Edit**. A new window appears to edit the details of the topic.
+**Step 4:** Click **Edit**. A new window appears to edit the details of the topic.
 
 ![Image not Available](/assets/Fig54.png)
 
@@ -962,13 +956,13 @@ To edit topic:
 
 ### Suspend Topic ###
 
-Suspend the topic allows to disconnect the topic so user will not receive any payload for this topic.
+Suspend the topic allows to disconnect the topic so you will not receive any payload for this topic.
 
-When a topic has been **Suspended**, user can still edit and Subscribers can still subscribe to this topic.
+When a topic has been **Suspended**, you can still edit and Subscribers can still subscribe to this topic.
 
 To **Suspend** a topic:
 
-**Step 1:**	Navigate **Projects** page, select user project. 
+**Step 1:** Navigate **Projects** page, select your project. 
 
 **Step 2:** Click **My topics** tab.
 
@@ -982,16 +976,15 @@ To **Suspend** a topic:
 
  **Note:** *Data for **Suspended** topic cannot be published in MQTT client.*
 
-User can **Unsuspend** the topic by clicking **Unsuspend** and the status of the topic is **Active**.
+You can **Unsuspend** the topic by clicking **Unsuspend** and the status of the topic is **Active**.
 
 ![Image not Available](/assets/Fig99b.png)
 
-
-In the **Browse Topic** page, user can see the topic has been **Suspended** by the greyed out font and icon.
+In the **Browse Topic** page, you can see the topic has been **Suspended** by the greyed out font and icon.
 
 ![Image not Available](/assets/Fig99c.png)
 
-**Note** *To subscribe the topic, user need publisher approval.*
+**Note** *To subscribe the topic, you need publisher approval.*
 
 ### Pending topic ###
 
@@ -1007,7 +1000,7 @@ To view **Pending** topic:
 
 ![Image not Available](/assets/Fig56b.png)
 
-User can **Edit the details** of this topic and update. Also, it allows user to **Publish** the topic and the status changed to **Active**.
+You can **Edit the details** of this topic and update. Also, it allows you to **Publish** the topic and the status changed to **Active**.
 
 ![Image is not available](/assets/vidhowtoeditandpublishpendingtopic.gif)
 
@@ -1035,29 +1028,29 @@ Both **Publisher** and **Subscriber** can subscribe to a topic. Both publisher a
 
 To **Subscribe** to a topic:
 
-**Step 1:**	Navigate to **Projects** page > Click any **Subcribe** project > Click **Subscribed topics** tab. Click **Browse topics**.
+**Step 1:** Navigate to **Projects** page > Click any **Subcribe** project > Click **Subscribed topics** tab. Click **Browse topics**.
 
 ![Image not Available](/assets/Fig55a.png)
 
-**Step 2:**	Select the topic card that user want to subscribe.
+**Step 2:** Select the topic card that you want to subscribe.
 
 ![Image not Available](/assets/Fig56.png)
 
-**Step 3:**	Once the topic card is selected, the **Topic details** page is displayed. Click **Subscribe**.
+**Step 3:** Once the topic card is selected, the **Topic details** page is displayed. Click **Subscribe**.
 
 ![Image not Available](/assets/Fig57a.png)
 
-**Step 4:**	Select a project to subscribe to the topic. Click **Subscribe**.
+**Step 4:** Select a project to subscribe to the topic. Click **Subscribe**.
 
 ![Image not Available](/assets/Fig58.png)
 
-**Step 5:**	Go back to **Projects** and click **Subscribed topics** tab. The new subscription is added to the subscribed topics.
+**Step 5:** Go back to **Projects** and click **Subscribed topics** tab. The new subscription is added to the subscribed topics.
 
 ![Image not Available](/assets/Fig59.png)
 
 ![Image not Available](/assets/Fig105_4.png)
 
-**Note** *User can so **Browse topics** again from **Subscribed topics** tab*.
+**Note** *You can so **Browse topics** again from **Subscribed topics** tab*.
 
 
 ## Activities ##
@@ -1066,7 +1059,7 @@ To **Subscribe** to a topic:
 
 **Step 2:** Click **Activities** tab.
 
-**Step 3:** User can see the following:
+**Step 3:** You can see the following:
 
 - UUID
 - Date
@@ -1077,11 +1070,11 @@ To **Subscribe** to a topic:
 
 ![Image not Available](/assets/Fig94.png)
 
-**Step 3:** User can **Search activities**. 
+**Step 3:** You can **Search activities**. 
 
 ![Image not Available](/assets/Fig96.png)
 
-**Step 3:** User can do **Filters** by the following:
+**Step 3:** You can do **Filters** by the following:
 
 - Type of action - Create, Update, Delete and All
 
@@ -1099,4 +1092,4 @@ To **Subscribe** to a topic:
 
 ![Image not Available](/assets/Fig97.png)
 
-**Step 4** User can click **Clear all filters** to reset the filters.
+**Step 4** You can click **Clear all filters** to reset the filters.
