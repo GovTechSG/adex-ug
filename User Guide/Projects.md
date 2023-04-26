@@ -862,7 +862,7 @@ Client example-test sending DISCONNECT
 
 **Note that the ca cert should have a .crt extension**. 
 
-User can refer for more details on mosquitto commands in on clicking the **[Link](https://mosquitto.org/man/mosquitto_pub-1.html)**
+You can refer for more details on mosquitto commands in on clicking the **[Link](https://mosquitto.org/man/mosquitto_pub-1.html)**
 
 ## My topics ##
 
@@ -902,7 +902,7 @@ To **Create topic**:
 - **Topic description** – Enter description to the topic
 - **Tags** – Add tags to the topic maximum of 5 tags
 - **Is approval needed for subscription requests?**
-  - **Yes** – Approval is needed from publisher before user subscribe to MQTT Client
+  - **Yes** – Approval is needed from publisher before you subscribe to MQTT Client
   - **No** – Allows free access to the topic and no approval needed from the publisher
 
 ![Image not Available](/assets/Fig47.png)
