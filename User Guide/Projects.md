@@ -748,7 +748,7 @@ Here are the steps to publish a topic using HTTP REST in ADEX application:
 - **Define the message payload**: You need to define the message payload that will be sent in the HTTP POST request. The payload will typically be a JSON or XML object that contains the message data as well as any additional metadata that is required.
 - **Set the HTTP headers**: You need to set the HTTP headers for the request, including the Content-Type header that indicates the format of the message payload (e.g., application/json).
 - **Send the HTTP POST request** to send the HTTP POST request to the server.
-- If ADEX **topic message payload** is a JSON object that contains the topic name ("my/topic") and the message content {"Hello": "World!". The HTTP POST request is sent to the ADEX Portal endpoint with the Content-Type header set to "application/json". Once the request is sent, the system logs a success if the request is successful, or an error message if there is an error.
+- If ADEX **topic message payload** is a JSON object that contains the topic name ("my/topic") and the message content {"Hello": "World!"}. The HTTP POST request is sent to the ADEX Portal endpoint with the Content-Type header set to "application/json". Once the request is sent, the system logs a success if the request is successful, or an error message if there is an error.
 
 How to **publish** via **HTTP Post**:
 	
