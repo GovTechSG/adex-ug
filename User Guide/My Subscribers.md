@@ -37,7 +37,7 @@ The following status includes:
 
 **Step 1:**	Navigate to **My subscribers** page on the left side navigation bar and select the project with **Respond to request** status.
 
-**Step 2** Click ![Image not Available](/assets/icon9.png) under the **Action** column.
+**Step 2:** Click ![Image not Available](/assets/icon9.png) under the **Action** column.
 
 **Step 3:**	Click **Respond to request**. A new pop-up window appears showing the details of the project. 
 
@@ -81,7 +81,7 @@ The following status includes:
 
 **Step 1:** Navigate to **My subscribers page** on the left side navigation bar and select the project with **Unsubscribed** status.
 
-**Step 2** Click ![Image not Available](/assets/icon9.png) under the **Action** column.
+**Step 2:** Click ![Image not Available](/assets/icon9.png) under the **Action** column.
 
 **Step 3:**	Click **Resubscribe** .
 
@@ -91,10 +91,10 @@ The following status includes:
 
 ![Image not Available](/assets/Fig105_28.png)
 
-**Step 4:** The status changed to **Subscribed**.
+**Step 5:** The status changed to **Subscribed**.
 
 ![Image not Available](/assets/Fig105_27.png)
 
-**Step 5:** Subscriber will receive email notification.
+**Step 6:** Subscriber will receive email notification.
 
 ![Image not Available](/assets/Fig105_26.png)
