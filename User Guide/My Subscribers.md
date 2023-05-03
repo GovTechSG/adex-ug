@@ -22,6 +22,7 @@ The following status includes:
 - **Subscribed** – The status where the publisher **approves** the subscriber requests
 - **Rejected** – The status where the publisher **rejects** the subscriber requests
 - **Unsubscribe** - The status where the publisher removed the subscriber
+- **Subscribed** - The status where the publisher **Resubscribe** an inactive subscription.
 
 ![Image not Available](/assets/Fig60.png)
 
@@ -70,10 +71,30 @@ The following status includes:
 
 ![Image not Available](/assets/Fig77.png)
 
+**Step 6:** Subscriber will receive email notification
 
+![Image not Available](/assets/Fig105_25.png)
 
+**Resubscribe**
 
+**Note:** *Publisher can **re-subscribe** the inactive subscription, if subscriber sends request to publisher*.
 
+**Step 1:** Navigate to **My subscribers page** on the left side navigation bar and select the project with **Unsubscribed** status.
 
+**Step 2** Click ![Image not Available](/assets/icon9.png) under the **Action** column.
 
+**Step 3:**	Click **Resubscribe** .
 
+![Image not Available](/assets/Fig105_24.png)
+
+**Step 4:** In **Resubscribe** pop-up window, click **Subscribe**.
+
+![Image not Available](/assets/Fig105_28.png)
+
+**Step 4:** The status changed to **Subscribed**.
+
+![Image not Available](/assets/Fig105_27.png)
+
+**Step 5:** Subscriber will receive email notification.
+
+![Image not Available](/assets/Fig105_26.png)
