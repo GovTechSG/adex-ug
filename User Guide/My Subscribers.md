@@ -19,10 +19,10 @@ This area allows you to view all Internet and Intranet **subscribers** who subsc
 The following status includes:
 
 - **Respond to request** – The status where the publisher respond to subscribers request for access to the approval topics. The publisher can **Approve** to allow subscription or **Reject** to deny the subscription. For non-approval topic publisher won't receieve the request for approval
-- **Subscribed** – The status where the publisher **approves** the subscriber requests
+- **Subscribed** – The status of the topic subscription where the publisher has approved or resubscribed.
 - **Rejected** – The status where the publisher **rejects** the subscriber requests
-- **Unsubscribe** - The status where the publisher removed the subscriber
-- **Subscribed** - The status where the publisher **Resubscribe** an inactive subscription.
+- **Unsubscribed** - The status where the publisher removed the subscriber
+
 
 ![Image not Available](/assets/Fig60.png)
 
