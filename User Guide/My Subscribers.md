@@ -19,9 +19,10 @@ This area allows you to view all Internet and Intranet **subscribers** who subsc
 The following status includes:
 
 - **Respond to request** – The status where the publisher respond to subscribers request for access to the approval topics. The publisher can **Approve** to allow subscription or **Reject** to deny the subscription. For non-approval topic publisher won't receieve the request for approval
-- **Subscribed** – The status where the publisher **approves** the subscriber requests
+- **Subscribed** – The status of the topic subscription where the publisher has approved or resubscribed.
 - **Rejected** – The status where the publisher **rejects** the subscriber requests
-- **Unsubscribe** - The status where the publisher removed the subscriber
+- **Unsubscribed** - The status where the publisher removed the subscriber
+
 
 ![Image not Available](/assets/Fig60.png)
 
@@ -36,7 +37,7 @@ The following status includes:
 
 **Step 1:**	Navigate to **My subscribers** page on the left side navigation bar and select the project with **Respond to request** status.
 
-**Step 2** Click ![Image not Available](/assets/icon9.png) under the **Action** column.
+**Step 2:** Click ![Image not Available](/assets/icon9.png) under the **Action** column.
 
 **Step 3:**	Click **Respond to request**. A new pop-up window appears showing the details of the project. 
 
@@ -70,10 +71,30 @@ The following status includes:
 
 ![Image not Available](/assets/Fig77.png)
 
+**Step 6:** Subscriber will receive email notification
 
+![Image not Available](/assets/Fig105_25.png)
 
+**Resubscribe**
 
+**Note:** *Publisher can **re-subscribe** the inactive subscription, if subscriber sends request to publisher*.
 
+**Step 1:** Navigate to **My subscribers page** on the left side navigation bar and select the project with **Unsubscribed** status.
 
+**Step 2:** Click ![Image not Available](/assets/icon9.png) under the **Action** column.
 
+**Step 3:**	Click **Resubscribe** .
 
+![Image not Available](/assets/Fig105_24.png)
+
+**Step 4:** In **Resubscribe** pop-up window, click **Subscribe**.
+
+![Image not Available](/assets/Fig105_28.png)
+
+**Step 5:** The status changed to **Subscribed**.
+
+![Image not Available](/assets/Fig105_27.png)
+
+**Step 6:** Subscriber will receive email notification.
+
+![Image not Available](/assets/Fig105_26.png)
