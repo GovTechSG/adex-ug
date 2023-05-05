@@ -75,9 +75,3 @@ Subscribers to **Withdraw** Pending Topic Subscription:
 
 - Once withdrawn, the topic **status=Unsubscribed** in **My subscriptions** page.
 - For Publisher the topic is removed from **My subscribers** page.
-
-
-
-
-
-
