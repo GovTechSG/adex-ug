@@ -52,14 +52,3 @@ Specify the **Date range** to filter the information such as **Action** and **Se
 ![Image not Available](/assets/Fig88.png)
 
 - Alternatively, you can click **Clear all filters** to reset the filters.
-
-
-
-
-
-
-
-
-
-
-
