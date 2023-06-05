@@ -177,7 +177,7 @@ In the event of any conflict, inconsistency or ambiguity between or in any one o
 
 Where GovTech is the defendant or respondent, it shall be given at least 30 days before the commencement of any legal action against it to elect to exercise the right herein to have the dispute submitted to arbitration. This right to elect shall not prejudice GovTech’s right to a limitation defence and the period to exercise the right shall not be abridged by reason of any accrual of a limitation defence in favour of GovTech during the said period.
 
-<p align=center>These Terms of Use are dated June 1, 2023.</p>
+<p align=center>These Terms of Use are dated [June 5, 2023].</p>
 
 # SCHEDULE
 
@@ -187,20 +187,24 @@ Where GovTech is the defendant or respondent, it shall be given at least 30 days
 
 a.	This Service facilitates the exchange of lightweight, real-time data securely between public sector agencies and businesses that support such agencies’ operations or collaborate with such agencies. 
 
-b.	This Service is only offered to specific entities and may be terminated at any time decided by GovTech. However, (1) if you are a public sector agency that has a separate agreement (such as an MOU with GovTech) to use this Service or (2) you have a separate agreement with Assurity Trusted Solutions Pte Ltd (“**Assurity**”) to use this Service, then your right to use the Service is governed by that separate agreement.In the case of a separate agreement with Assurity, that agreement and the resulting contractual relationship is between Assurity and you as the user, and not with GovTech or public sector agencies. Notwithstanding anything to the contrary, in such a case (and without prejudice to the other rights of GovTech and/or the public sector agencies), neither GovTech nor the public sector agencies shall be responsible to you for any demands, claims, actions, proceedings, settlement sums, penalties, charges, costs (including legal costs and costs of other professionals), expenses, losses, damages and other liabilities, whether foreseeable or not, and whether direct or indirect, arising out of or in connection with Service.
+b.	This Service is only offered to specific entities and may be terminated at any time decided by GovTech. However, (1) if you are a public sector agency that has a separate agreement (such as an MOU with GovTech) to use this Service or (2) you have a separate agreement with Assurity Trusted Solutions Pte Ltd (“**Assurity**”) to use this Service, then your right to use the Service is governed by that separate agreement.In the case of a separate agreement with Assurity, that agreement and the resulting contractual relationship is between Assurity and you as the user, and not with GovTech or public sector agencies. Notwithstanding anything to the contrary, in such a case (and without prejudice to the **other** rights of GovTech and/or the public sector agencies), neither GovTech nor the public sector agencies shall be responsible to you for any demands, claims, actions, proceedings, settlement sums, penalties, charges, costs (including legal costs and costs of other professionals), expenses, losses, damages and other liabilities, whether foreseeable or not, and whether direct or indirect, arising out of or in connection with Service.
 
-c.       Unless you have a separate agreement as aforementioned or otherwise terminated earlier in accordance with these Terms of Use, these Terms of Use bind you for so long as you continue to use the Service or you have an account or login credentials for use of the Service. You may terminate the Terms of Use at any time without cause by giving GovTech not less than three (3) months'   notice   in writing. The termination shall take effect on the first day of the subsequent calendar month following the date of expiry of such notice period. The notice by you to terminate these Terms of Use may be given or made in writing to GovTech delivered by email to the following address: sense@tech.gov.sg, or such other means of delivery as designated by GovTech from time to time.
+c.  **     Unless you have a separate agreement as aforementioned or otherwise terminated earlier in accordance with these Terms of Use, these Terms of Use bind you for so long as you continue to use the Service or you have an account or login credentials for use of the Service. You may terminate the Terms of Use at any time without cause by giving GovTech not less than three (3) months'   notice   in writing. The termination shall take effect on the first day of the subsequent calendar month following the date of expiry of such notice period. The notice by you to terminate these Terms of Use may be given or made in writing to GovTech delivered by email to the following address: sense@tech.gov.sg, or such other means of delivery as designated by GovTech from time to time.**
 
 d.       GovTech is **NOT** responsible for the accuracy and/or quality of data shared between  any public sector agencies and yourself. Please direct any issues concerning the data to the public sector agency in question. Additionally, you agree that your collection, use and/or disclosure of the data may be subject to additional terms with such public sector agency which shall apply in addition (and do not replace) these Terms of Use.
 
 e.       Your use of the Service may require an onboarding or testing phase (such as a phase for user acceptance tests) for such time as may be determined by GovTech in its sole and absolute discretion. Without prejudice to GovTech’s other rights, you agree and acknowledge that GovTech shall not be responsible for any issue or delay caused by such phase, including any malfunction or errors arising therefrom.
+
+f.       You are required to comply with all set-up procedures and requirements, as well as all policies, guidelines, rules, notices and instructions relating to the Service as may be issued by and/or amended by GovTech from time to time.
+
+g.	The Service uses the Transport Layer Security (TLS) to encrypt data in transit. Notwithstanding anything to the contrary, you are responsible for keeping your data secure, including encrypting the data (in particular, where data of a sensitive nature such as personal data is involved) at rest and in transit
 
 
 **2A**.	**Fees and billing**
 
 **a**.	**Payment Terms**: 
 
-(1)	**Timing of payment**: From 1 July 2023 onwards, you shall pay a fee of S$500 per calendar month (before GST), net of all bank charges (which shall be borne by you) (“Fees”) within 30 days from the date of receipt of a relevant invoice issued by Assurity as GovTech’s invoicing agent. Fees will be charged monthly in arrears.
+(1)	**Timing of payment**: From 1 July 2023 onwards, you shall pay a fee of S$500 per calendar month (before GST), net of all bank charges (which shall be borne by you) (“**Fees**”) within 30 days from the date of receipt of a relevant invoice issued by **Assurity as GovTech’s invoicing agent**. Fees will be charged monthly in arrears.
 
 (2)	**Currency of payment**: All payments to be made by you under these Terms of Use shall be in SGD.
 
@@ -209,11 +213,11 @@ e.       Your use of the Service may require an onboarding or testing phase (suc
 	(ii)	charge you interest on the amount unpaid at the rate of 1.5% per month  on the unpaid amount, accrued on a daily basis,  
 until payment in full is made. Any suspension, interruption or termination of your account and/or the Service due to late payment shall not reduce your liability to pay such payments that have fallen due.
 
-(4)	**Payment mode**: Payment shall be made via General Interbank Recurring Order (“**GIRO**”), or other methods as permitted by GovTech or Assurity in writing. You shall follow the instructions in the issued invoice when making payments.  
+(4)	**Payment mode**: Payment shall be made via General Interbank Recurring Order (“**GIRO**”), or other methods as permitted by GovTech or **Assurity** in writing. You shall follow the instructions in the issued invoice when making payments.  
 
 **b**.	The Fees shall be deemed to exclude any and all taxes, charges, fees, levies, duties and governmental fees or other like assessments or charges of any kind whatsoever (including those relating to income (net or gross), gains, profits, sales, use, licence, excise, registration, franchise, employment, payroll, withholding, ad valorem, goods and services, transfer, stamp or transactions) whether of Singapore or elsewhere, in respect of or in connection with GovTech’s performance of its roles and responsibilities under these Terms of Use or any rights, licences or privileges granted by GovTech to you, which shall be borne solely by you.
 
-c.	The Fees are non-refundable. GovTech shall not be obliged to, and will not, refund any Fees that have been paid in advance or have not been utilised by you. 
+**c**.	**The Fees are non-refundable. GovTech shall not be obliged to, and will not, refund any Fees that have been paid in advance or have not been utilised by you.** 
 
 **3.**	**Third party software/services**
 
