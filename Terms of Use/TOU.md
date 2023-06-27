@@ -177,7 +177,7 @@ In the event of any conflict, inconsistency or ambiguity between or in any one o
 
 Where GovTech is the defendant or respondent, it shall be given at least 30 days before the commencement of any legal action against it to elect to exercise the right herein to have the dispute submitted to arbitration. This right to elect shall not prejudice GovTech’s right to a limitation defence and the period to exercise the right shall not be abridged by reason of any accrual of a limitation defence in favour of GovTech during the said period.
 
-<p align=center>These Terms of Use are dated March 23, 2023.</p>
+<p align=center>These Terms of Use are dated June 28, 2023.</p>
 
 # SCHEDULE
 
@@ -187,11 +187,22 @@ Where GovTech is the defendant or respondent, it shall be given at least 30 days
 
 a.	This Service facilitates the exchange of lightweight, real-time data securely between public sector agencies and businesses that support such agencies’ operations or collaborate with such agencies. 
 
-b.	This Service is only offered to specific entities and may be terminated at any time decided by GovTech. However, (a) if you are a public sector agency that has a separate agreement (such as an MOU with GovTech) to use this Service or (b) you have a separate agreement with Assurity Trusted Solutions Pte Ltd (“**Assurity**”) to use this Service, then your right to use the Service is governed by that separate agreement and not these Terms of Use.
+b.	This Service is only offered to specific entities and may be terminated at any time decided by GovTech.
 
-c.	GovTech is **NOT** responsible for the accuracy and/or quality of data shared between  any public sector agencies and yourself. Please direct any issues concerning the data to the public sector agency in question. Additionally, you agree that your collection, use and/or disclosure of the data may be subject to additional terms with such public sector agency which shall apply in addition (and do not replace) these Terms of Use.
+c.	If you are a **public sector agency** (i.e. the Government of Singapore, statutory boards, and any other organisation which we may prescribe from time to time) that has a separate agreement (such as an MOU with GovTech) to use this Service, then your right to use the Service is governed by that separate agreement.
 
-d.	Your use of the Service may require an onboarding or testing phase (such as a phase for user acceptance tests) for such time as may be determined by GovTech in its sole and absolute discretion. Without prejudice to GovTech’s other rights, you agree and acknowledge that GovTech shall not be responsible for any issue or delay caused by such phase, including any malfunction or errors arising therefrom.
+d.	From 1 July 2023, if you are a **private sector entity** (i.e. an organisation which is not a public sector agency described under paragraph 2c of this Schedule), you are required (*If you have not already done so*) to enter into a separate agreement with Assurity Trusted Solutions Pte Ltd (“***Assurity***”) to access and use the Service, and your access and use of the Service will be governed solely by the terms in such separate agreement and not these Terms of Use.  If you fail to enter into such separate agreement any access and use of the Service by you may be restricted or suspended. *Your right to use the Service will terminate on 17 July 2023 or such other time as may be determined by GovTech*.
+
+	As the separate agreement is between you and Assurity, neither GovTech nor the public sector agencies shall be responsible to you for any demands, claims, actions, proceedings, settlement sums, penalties, charges, costs (including legal costs and costs of other professionals), expenses, losses, damages and other liabilities, whether foreseeable or not, and whether direct or indirect, arising out of or in connection with Service. *For clarity, and notwithstanding anything to the contrary (including the fact that the separate agreement is between you and Assurity), this paragraph and Clause 6 of the Terms of Use (and any ancillary clauses in respect of these matters such as Clause 11.3 of the Terms of Use) shall apply*.
+
+e.	GovTech is NOT responsible for the accuracy and/or quality of data shared between  any public sector agencies and yourself. Please direct any issues concerning the data to the public sector agency in question. Additionally, you agree that your collection, use and/or disclosure of the data may be subject to additional terms with such public sector agency which shall apply in addition (and do not replace) these Terms of Use.
+
+f.	Your use of the Service may require an onboarding or testing phase (such as a phase for user acceptance tests) for such time as may be determined by GovTech in its sole and absolute discretion. Without prejudice to GovTech’s other rights, you agree and acknowledge that GovTech shall not be responsible for any issue or delay caused by such phase, including any malfunction or errors arising therefrom.
+
+g.	You are required to comply with all set-up procedures and requirements, as well as all policies, guidelines, rules, notices and instructions relating to the Service as may be issued by and/or amended by GovTech from time to time.
+
+h.	The Service uses the Transport Layer Security (TLS) to encrypt data in transit. Notwithstanding anything to the contrary, you are responsible for keeping your data secure, including encrypting the data (in particular, where data of a sensitive nature such as personal data is involved) at rest and in transit.  
+
 
 **3.**	**Third party software/services**
 
@@ -257,3 +268,5 @@ b.	Without prejudice to GovTech’s other rights, you shall not (and shall not a
 c.	Without prejudice to GovTech’s other rights, you warrant and represent that you have the necessary rights (and consent) to provide, upload, supply, and/or transmit data to or through the Service and that such data does not contain any malicious or unauthorised code, virus, trojan horse, worm, logic bomb or other software routine or hardware components designed to permit unauthorised access, to disable, erase, or otherwise harm software, hardware or data, or to perform any such actions.  If you have any of your own terms concerning the data, you are to communicate these to the public sector agency in question. GovTech is not a consumer of the data, and shall not be bound by such terms.
 
 d.	Any delay, failure or omission on the part of GovTech in enforcing any right, power, privilege, claim or remedy (“**Remedy**”), which is conferred under the Terms of Use or at law or in equity, or arises from any breach by you, shall not (a) be deemed to be or be construed as a waiver or variation of the Remedy, or of any other such Remedy, in respect of the particular circumstances in question, or (b) operate so as to bar the enforcement or exercise of the Remedy, or of any other such Remedy in any other subsequent instances. No waiver of any breach of the Terms of Use shall be deemed to be a waiver of any other or of any subsequent breach. Any waiver granted under the Terms of Use must be in writing and may be given subject to conditions. Such waiver under the Terms of Use shall be effective only in the instance and for the purpose for which it is given.
+
+e.	Provisions of the Terms of Use which, expressly or by their nature, are intended to survive termination of the Terms of Use, will continue to apply in accordance with their terms.
