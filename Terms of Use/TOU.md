@@ -52,7 +52,7 @@ Please see the Schedule for more information and terms concerning this Service.
 
 4.3.1.	some Third Party Terms (particularly open-source terms) permit either a direct licence to you from the Third Party or a sublicence from GovTech to you. In such cases, your licence is a direct licence from the Third Party to you; and
 
-4.3.2.	the terms of your agreement with the Third Party will govern your use of the 	relevant third party software or service, and not these Terms of Use.
+4.3.2.	the terms of your agreement with the Third Party will govern your use of the relevant third party software or service, and not these Terms of Use.
  
 4.4.	If the Third Party Terms expressly or impliedly require GovTech to incorporate certain terms in these Terms of Use (inclusive of terms which impose any minimum or maximum standards herein, and/or terms described in Clause 4.5 below), such terms are deemed to have been so incorporated (the “**Incorporated Terms**”). Examples of Incorporated Terms include provisions which require GovTech to give you notice of certain rights and liabilities or require GovTech to ensure that you acknowledge certain matters. Similarly, if the Third Party Terms expressly or impliedly require these Terms of Use to be altered such that the Third Party Terms are complied with, the parties herein agree that the Terms of Use shall be deemed to be so altered but only to the extent necessary for compliance.
 
@@ -95,7 +95,7 @@ You agree that all title and interest in any feedback, requests or suggestions f
 
 6.1.	**The Service is provided on an "as is" and “as available” basis without warranties of any kind. To the fullest extent permitted by law, GovTech does not make any representations or warranties of any kind whatsoever in relation to the Service and hereby disclaims all express, implied and/or statutory warranties of any kind to you or any third party, whether arising from usage or custom or trade or by operation of law or otherwise, including but not limited to any representations or warranties:**
 
-**6.1.1.** **as to the accuracy, completeness, correctness, currency, timeliness, 	reliability, availability, interoperability, security, non-infringement, title, merchantability, quality or fitness for any particular purpose of the Service; and/or**
+**6.1.1.** **as to the accuracy, completeness, correctness, currency, timeliness, reliability, availability, interoperability, security, non-infringement, title, merchantability, quality or fitness for any particular purpose of the Service; and/or**
 
 **6.1.2.** **that the Service or any functions associated therewith will be uninterrupted or error-free, or that defects will be corrected or that this Service, website and the server are and will be free of all viruses and/or other malicious, destructive or corrupting code, programme or macro.**
 
@@ -193,7 +193,7 @@ c.	If you are a **public sector agency** (i.e. the Government of Singapore, stat
 
 d.	From 1 July 2023, if you are a **private sector entity** (i.e. an organisation which is not a public sector agency described under paragraph 2c of this Schedule), you are required (if you have not already done so) to enter into a separate agreement with Assurity Trusted Solutions Pte Ltd (“**Assurity**”) to access and use the Service, and your access and use of the Service will be governed solely by the terms in such separate agreement and not these Terms of Use. If you fail to enter into such separate agreement any access and use of the Service by you may be restricted or suspended. Your right to use the Service will terminate on 17 July 2023 or such other time as may be determined by GovTech.
 	
- As the separate agreement is between you and Assurity, neither GovTech nor the public sector agencies shall be responsible to you for any demands, claims, actions, proceedings, settlement sums, penalties, charges, costs (including legal costs and costs of other professionals), expenses, losses, damages and other liabilities, whether foreseeable or not, and whether direct or indirect, arising out of or in connection with Service. *For clarity, and notwithstanding anything to the contrary (including the fact that the separate agreement is between you and Assurity), this paragraph and Clause 6 of the Terms of Use (and any ancillary clauses in respect of these matters such as Clause 11.3 of the Terms of Use) shall apply*.
+ As the separate agreement is between you and Assurity, neither GovTech nor the public sector agencies shall be responsible to you for any demands, claims, actions, proceedings, settlement sums, penalties, charges, costs (including legal costs and costs of other professionals), expenses, losses, damages and other liabilities, whether foreseeable or not, and whether direct or indirect, arising out of or in connection with Service. For clarity, and notwithstanding anything to the contrary (including the fact that the separate agreement is between you and Assurity), this paragraph and Clause 6 of the Terms of Use (and any ancillary clauses in respect of these matters such as Clause 11.3 of the Terms of Use) shall apply.
 
 e.	GovTech is **NOT** responsible for the accuracy and/or quality of data shared between  any public sector agencies and yourself. Please direct any issues concerning the data to the public sector agency in question. Additionally, you agree that your collection, use and/or disclosure of the data may be subject to additional terms with such public sector agency which shall apply in addition (and do not replace) these Terms of Use.
 
@@ -204,7 +204,6 @@ g.	You are required to comply with all set-up procedures and requirements, as we
 h.	The Service uses the Transport Layer Security (TLS) to encrypt data in transit. Notwithstanding anything to the contrary, you are responsible for keeping your data secure, including encrypting the data (in particular, where data of a sensitive nature such as personal data is involved) at rest and in transit.  
 
 **2A.**  **Fees:** GovTech reserves the right to introduce new fees, as may be notified to you from time to time. Such notice concerning new fees shall specify the date on and from which such new fees shall take effect, the payment and billing terms in relation to such fees, and the party to which payment is to be made. You shall pay the said fees accordingly.
-
 
 
 **3.**	**Third party software/services**
