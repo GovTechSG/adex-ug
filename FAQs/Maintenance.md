@@ -24,6 +24,7 @@ During a maintenance window, either or both services (Portal and Broker Service)
 ## What does it mean for the Portal service to be down during a maintenance window?
 
 If the Portal service is down during a maintenance window, it means that users will not be able to access the user-facing component of the ADEX System. This may include features such as logging in, creating projects, browsing topics, and managing user accounts. During this time, users may experience intermittent errors or be unable to access the Portal service at all. 
+
 If **only** the Portal service is down for maintenance, please note that only the Portal service may have service interruption. The message transmission and queue will be unaffected, and users will still be able to exchange data through the Broker service.
 
 ## What does it mean for the Broker service to be down during a maintenance window?
@@ -35,8 +36,11 @@ If the Broker service is down during a maintenance window, it means that the bac
 If the Broker service is down during a maintenance window for ADEX, please note the following:
 
 a) Your MQTT Client may experience intermittent connection to the ADEX's Broker service.
+
 b) Your MQTT Client will queue the Payload/Message(s) at the client's side.
+
 c) Upon the next successful connection, your MQTT Client will resume data transmission to the ADEX's Broker service.
+
 Once the maintenance activities are complete, the Broker service will be restored and users will be able to exchange data through it again. 
 
 ## Are there any particular settings that need to be enabled on the MQTT Client to enable message queuing at the client's side when the Broker Service is down?
@@ -50,6 +54,7 @@ Yes, there should be enough space to hold your queue while the ADEX system is un
 ## What should I do after the maintenance window to ensure that my data transmission has been resumed normally, and is there an auto-reconnect feature available for the MQTT client?
 
 After the maintenance window, you should reconnect your MQTT client to the ADEX's Broker service to ensure that your data transmission has been resumed normally. To verify that your data transmission has been resumed normally, you will need to check that your MQTT client is connected successfully and that any queued Payload/Message(s) have been transmitted successfully.
+
 To make this process easier, we recommend that you enable the auto-reconnect feature on your MQTT client. This will allow your client to automatically reconnect to the ADEX's Broker service if the connection is lost for any reason. 
 
 
