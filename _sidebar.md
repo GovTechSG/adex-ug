@@ -30,6 +30,7 @@
   * [Topics](FAQs/Topic)
   * [Messaging](FAQs/Messaging)
   * [Portal](FAQs/Portal)
+  * [Maintenance](FAQs/Maintenance)
 * [Terms of use](Terms%20of%20Use/TOU)
 * [Privacy statement](Privacy%20Statement/Privacy)
 
