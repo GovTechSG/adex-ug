@@ -11,7 +11,7 @@ Maintenance activities are necessary to ensure that systems and services are run
 
 ## When is the scheduled maintenance window for ADEX?
 
-The scheduled maintenance window for ADEX is every Wednesday evening from 6PM to 12AM Thursday morning (SGT). However, please note that we will not have a maintenance window every week. If we do schedule a maintenance window, we will use the specified window and inform users via email at least 3 working days in advance. 
+The scheduled maintenance window for ADEX is every Wednesday evening from 6PM to 12AM Thursday morning (SGT). However, please note that we may not have a maintenance window every week. If we do schedule a maintenance window, we will use the specified window and inform users via email at least 3 working days in advance. 
 
 ## How can I subscribe to or unsubscribe from ADEX email notifications?
 
