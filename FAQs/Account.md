@@ -10,8 +10,8 @@ Go to [ADEX](https://adex.gov.sg/adex/home) portal and click **Sign Up**. You mu
 
 Follow the steps here: [Getting Started](/User%20Guide/Getting%20Started)
 
-For first sign up within your organization, you role will be a Publisher. If you want to upgrade your account as Administrator role, send an email to ADEX Support Team through <sense@tech.gov.sg>.
-
+For first sign up within your organization, you role will be a Publisher. If you want to upgrade your account as Administrator role, send an email to ADEX Support Team through this link https://go.gov.sg/adexsupport.
+ 
 ## What is the use of TechPass for ADEX?
 
 TechPass is an Identity & Access Management Solution that provides secure access to Singapore Government Tech Stack (SGTS) Services. For ADEX, TechPass offers several benefits to government agency users, including:
@@ -26,7 +26,7 @@ Overall, TechPass provides a secure and convenient way for agency users to acces
 
 ## Where can an Agency user sign up for TechPass account?
 
-If you are a government agency user and would like to sign up for a TechPass account, you can do so by visiting the TechPass portal at http://portal.techpass.gov.sg/. 
+If you are a government agency user and would like to sign up for a TechPass account, you can do so by visiting the TechPass portal at https://portal.techpass.gov.sg/ (accessible via your government-issued GSIB/SOE devices)
 
 ## Are there any other steps required to log into my ADEX Portal account once I have set up my TechPass account? 
 
