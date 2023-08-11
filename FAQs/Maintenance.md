@@ -15,7 +15,7 @@ The scheduled maintenance window for ADEX is every Wednesday evening from 6PM to
 
 ## How can I subscribe to or unsubscribe from ADEX email notifications?
 
-To submit your request, please send an email to sense@tech.gov.sg. Our team will review your request and respond to you as soon as possible. 
+To submit your request, please submit your request via this link https://go.gov.sg/adexsupport. Our team will review your request and respond to you as soon as possible. 
 
 ## Will the whole ADEX System be down during a maintenance window?
 
