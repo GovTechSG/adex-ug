@@ -30,20 +30,15 @@ Check your SSL certificates are in valid format. Refer to [this page](https://ww
 
 For example, check the private key file is ok using this command:
 
-openssl rsa –noout –modulus –in <file>.key | openssl md5
+openssl rsa –noout –modulus –in private.key | openssl md5
 
-For example, check the client cert using the x509 command:
+For example, to see the details like validity of the client cert, use this command:
 
 openssl x509 -text -noout -in cert.pem
 
-In some cases, if user has downloaded the certs from ADEX portal as a zip file, after extracting, user have to rename .pem to .txt using this command:
-
-openssl x509 -text -noout -in cert.txt
+In some cases, if you downloaded the certs from the ADEX portal as a zip file, after extracting, you may have to rename .txt to .pem.
 
 ## Any authentication needed for MQTT connection?
   
 Valid SSL certs generated from ADEX portal is required to connect.
-  
-  
-  
- 
+
