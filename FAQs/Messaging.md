@@ -26,16 +26,19 @@ Make sure you have provided your IP address for the support team to open the fir
 
 Check the connection settings on your client and ensure that the passwords are entered correctly.
 
-Check your SSL certificates are in valid format. Refer to [this page](https://www.ssl247.com/kb/ssl-certificates/troubleshooting/certificate-matches-private-key) on how to check.
+Check your SSL certificates are in valid format. Refer to [this page](https://www.sslshopper.com/article-most-common-openssl-commands.html) on how to check.
 
 For example, check the private key file is ok using this command:
 
-openssl rsa –noout –modulus –in <file>.key | openssl md5
+openssl rsa –noout –modulus –in private.key | openssl md5
+
+For example, to see the details like validity of the client cert, use this command:
+
+openssl x509 -text -noout -in cert.pem
+
+In some cases, if you downloaded the certs from the ADEX portal as a zip file, after extracting, you may have to rename .txt to .pem.
 
 ## Any authentication needed for MQTT connection?
   
 Valid SSL certs generated from ADEX portal is required to connect.
-  
-  
-  
- 
+
