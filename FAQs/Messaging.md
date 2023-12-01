@@ -30,9 +30,13 @@ Check your SSL certificates are in valid format. Refer to [this page](https://ww
 
 For example, check the private key file is ok using this command:
 
+openssl rsa –noout –modulus –in <file>.key | openssl md5
+
+For example, check the client cert using the x509 command:
+
 openssl x509 -text -noout -in cert.pem
 
-In some cases, you may need to rename the downloaded file from .pem to .txt.
+In some cases, if user has downloaded the certs from ADEX portal as a zip file, after extracting, user have to rename .pem to .txt using this command:
 
 openssl x509 -text -noout -in cert.txt
 
