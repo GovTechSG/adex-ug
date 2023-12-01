@@ -26,11 +26,15 @@ Make sure you have provided your IP address for the support team to open the fir
 
 Check the connection settings on your client and ensure that the passwords are entered correctly.
 
-Check your SSL certificates are in valid format. Refer to [this page](https://www.ssl247.com/kb/ssl-certificates/troubleshooting/certificate-matches-private-key) on how to check.
+Check your SSL certificates are in valid format. Refer to [this page](https://www.sslshopper.com/article-most-common-openssl-commands.html) on how to check.
 
 For example, check the private key file is ok using this command:
 
-openssl rsa –noout –modulus –in <file>.key | openssl md5
+openssl x509 -text -noout -in cert.pem
+
+In some cases, you may need to rename the downloaded file from .pem to .txt.
+
+openssl x509 -text -noout -in cert.txt
 
 ## Any authentication needed for MQTT connection?
   
