@@ -37,4 +37,33 @@ You can check relevant information about request-response versus publish-subscri
 ## Does ADEX encrypt or decrypt my data/payload?
 
 ADEX uses the Transport Layer Security (TLS) to encrypt data in transit. There is no encryption and decryption of data facilitated by ADEX. Data providers and data consumers are recommended to enforce encryption, e.g., JSON Web Encryption (JWE), to protect sensitive data at rest and in transit.
- 
+
+## As a government agency user or business user of ADEX, we need to develop our own MQTT client to connect to ADEX Broker, but we’re not familiar with MQTT. Is there any resource available?
+
+ADEX User Guide has demo MQTT sample codes for reference at this [link](https://docs.developer.tech.gov.sg/docs/adex-user-guide/User%20Guide/Projects?id=mqtt-client-sample-code).
+
+## The SSL certs that are generated from the ADEX Portal has a validity of 2 years. How do we generate new certs to replace the expiring one?
+
+Refer to this URL [link](https://docs.developer.tech.gov.sg/docs/adex-user-guide/User%20Guide/Projects?id=generate-cert).
+
+## I'm not sure if my SSL certs are still valid. How do I check?
+
+Log in to ADEX Portal > Select the project you want to check for the cert's validity > Click on "Connection" > Mouse over "Cert status" to see the popup message.
+
+## Where can I find information about the maintenance window?
+
+Refer to this URL [link](https://docs.developer.tech.gov.sg/docs/adex-user-guide/FAQs/Maintenance).
+
+## I need to whitelist new IP address. How do I proceed with my request?
+
+Fill in this request form and submit at https://go.gov.sg/adexsupport
+
+## I need to generate new cert for my project. How do I ensure I have downloaded all the necessary information?
+
+You can make use of this ZIP file to help you ensure all the connection credentials are in order.
+
+
+
+
+
+
