@@ -56,12 +56,15 @@ Refer to this URL [link](https://docs.developer.tech.gov.sg/docs/adex-user-guide
 
 ## I need to whitelist new IP address. How do I proceed with my request?
 
-Fill in this request form and submit at https://go.gov.sg/adexsupport
+Fill in this request form and submit at [ADEX Support](https://go.gov.sg/adexsupport).
+
+![Image not Available](/assets/ADEX Service Request Form.docx) 
 
 ## I need to generate new cert for my project. How do I ensure I have downloaded all the necessary information?
 
 You can make use of this ZIP file to help you ensure all the connection credentials are in order.
 
+![Image not Available](/assets/ADEX.zip) 
 
 
 
