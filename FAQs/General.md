@@ -58,15 +58,30 @@ Refer to this URL [link](https://docs.developer.tech.gov.sg/docs/adex-user-guide
 
 Fill in this request form and submit at [ADEX Support](https://go.gov.sg/adexsupport).
 
+## How to Ensure You Have Downloaded All Necessary Information for Certificate Generation
 
-## I need to generate new cert for my project. How do I ensure I have downloaded all the necessary information?
+To verify that all connection credentials are correctly set up for your Publish and Subscribe project, refer to the image files below:
 
-You can make use of this ZIP file to help you ensure all the connection credentials are in order.
+![Image not Available](/assets/Fig106_2.png)
 
-[Download ADEX.zip](./assets/ADEX.zip)
+![Image not Available](/assets/Fig106_1.png)
 
+## Required MQTT Connection Credentials
 
+The following credentials are essential for establishing an MQTT connection and can be generated from the ADEX Portal:
 
+1. **MQTT URL:** 
+2. **MQTT Client ID:** 
+3. **Client Key** (optional): 
+4. **Client Secret** (optional): 
 
+### Certificates and Keys
 
+- **Certificate Chain (ca.pem):** Downloaded as a `.PEM` file.
+- **Client Certificate (client.pem):** Downloaded as a `.PEM` file.
+- **Private Key (private.pem):** Downloaded as a `.PEM` file.
+- **Private Key Password:** ADEX will send this via email.
 
+### Topic Path
+
+- **Topic Path:** The topic to be published/subscribed from ADEX.
