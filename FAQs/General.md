@@ -58,8 +58,6 @@ Refer to this URL [link](https://docs.developer.tech.gov.sg/docs/adex-user-guide
 
 Fill in this request form and submit at [ADEX Support](https://go.gov.sg/adexsupport).
 
-[Google Doc link for Support request form](https://docs.google.com/document/d/1uthbfS63NnIwxmXyoyA1Cw5orXWmtYM9/edit?usp=sharing&ouid=113635803934055565839&rtpof=true&sd=true)
-
 
 ## I need to generate new cert for my project. How do I ensure I have downloaded all the necessary information?
 
