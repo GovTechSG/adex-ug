@@ -33,4 +33,6 @@
   * [Maintenance](FAQs/Maintenance)
 * [Terms of use](Terms%20of%20Use/TOU)
 * [Privacy statement](Privacy%20Statement/Privacy)
+* [Support](/Support/support.md)
+  * [Create an Atlassian account (non-TechPass users)](/Support/non-techpass.md)
 
