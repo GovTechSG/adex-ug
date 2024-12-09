@@ -46,6 +46,8 @@ Valid SSL certs generated from ADEX portal is required to connect.
 
 To guarantee receiving of messages, if messages are critical to your business operations, use at-least-once delivery (QoS=1) for the subscribed topic, and cleanSession=false for the MQTT connection. This means when the client reconnects after being offline, the previous session is continued. Note that this is only applicable to a Subscribe client and not a Publish client.
 
+In addition, when using cleanSession=false and QoS=1, messages are queued when the Subscribe client is offline. When the storage limit is reached, new messages will not be queued and will be lost. To avoid losing messages, the client should remain connected, or reconnect as often as possible.
+
 ## Why do I keep getting duplicated message?
 
 If the publisher of the topic has set the Retain flag = true, the subscriber may get duplicate messages. Check with the publisher, or make sure the receiving logic is able to gracefully handle duplicate messages.
